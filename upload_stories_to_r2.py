@@ -27,6 +27,7 @@ BUCKET_NAME = "mechinterp"
 PADDING_WIDTH = 7
 MAX_WORKERS = 20  # Number of parallel upload threads
 BATCH_SIZE = 1000  # Process this many items at a time to manage memory
+SKIP_FIRST = 4000  # Skip this many items (already uploaded)
 
 # Thread-safe counter for progress reporting
 upload_counter = 0
@@ -88,7 +89,7 @@ def upload_batch(batch_items):
 def upload_to_r2():
     """Stream ALL items from SimpleStories and upload to R2 in batches."""
     global upload_counter
-    upload_counter = 0
+    upload_counter = SKIP_FIRST  # Start counter from where we're resuming
 
     # Load dataset in streaming mode to avoid downloading everything
     print("Loading SimpleStories dataset in streaming mode...")
@@ -99,12 +100,19 @@ def upload_to_r2():
     )
 
     print(f"Starting upload with {MAX_WORKERS} workers, processing in batches of {BATCH_SIZE}...")
+    if SKIP_FIRST > 0:
+        print(f"Skipping first {SKIP_FIRST} items (already uploaded)...")
 
     # Process dataset in batches
     batch = []
     current_idx = 0
 
     for item in dataset:
+        # Skip the first SKIP_FIRST items
+        if current_idx < SKIP_FIRST:
+            current_idx += 1
+            continue
+
         batch.append((current_idx, item))
         current_idx += 1
 
