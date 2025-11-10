@@ -54,18 +54,18 @@ class StorySimplifier:
         """Retry a function with exponential backoff for transient API errors.
 
         Handles:
-        - 429 RESOURCE_EXHAUSTED (rate limit)
-        - 503 UNAVAILABLE (model overloaded)
-        - 500 INTERNAL (internal server error)
+        - 429 RESOURCE_EXHAUSTED (rate limit) - retries indefinitely
+        - 503 UNAVAILABLE (model overloaded) - retries indefinitely
+        - 500 INTERNAL (internal server error) - retries indefinitely
 
         Following recommendations from:
         https://github.com/google-gemini/cookbook/issues/469
         """
-        max_retries = 10
         base_delay = 10  # Start with 10 seconds (recommended)
         max_delay = 60  # Max 60 seconds
+        attempt = 0
 
-        for attempt in range(max_retries):
+        while True:
             try:
                 return func(*args, **kwargs)
             except ClientError as e:
@@ -83,24 +83,21 @@ class StorySimplifier:
                 )
 
                 if is_retryable:
-                    if attempt < max_retries - 1:
-                        delay = min(base_delay * (2 ** attempt), max_delay)
+                    delay = min(base_delay * (2 ** attempt), max_delay)
 
-                        # Determine error type for message
-                        if "429" in error_str or "RESOURCE_EXHAUSTED" in error_str:
-                            error_type = "Rate limit"
-                        elif "503" in error_str or "UNAVAILABLE" in error_str:
-                            error_type = "Service unavailable"
-                        elif "500" in error_str or "INTERNAL" in error_str:
-                            error_type = "Internal server error"
-                        else:
-                            error_type = "Transient error"
-
-                        print(f"⚠️  {error_type}. Retrying in {delay}s... (attempt {attempt + 1}/{max_retries})")
-                        time.sleep(delay)
+                    # Determine error type for message
+                    if "429" in error_str or "RESOURCE_EXHAUSTED" in error_str:
+                        error_type = "Rate limit"
+                    elif "503" in error_str or "UNAVAILABLE" in error_str:
+                        error_type = "Service unavailable"
+                    elif "500" in error_str or "INTERNAL" in error_str:
+                        error_type = "Internal server error"
                     else:
-                        print(f"❌ Max retries ({max_retries}) reached. Giving up.")
-                        raise
+                        error_type = "Transient error"
+
+                    print(f"⚠️  {error_type}. Retrying in {delay}s... (attempt {attempt + 1})")
+                    time.sleep(delay)
+                    attempt += 1
                 else:
                     # Non-retryable error, raise immediately
                     print(f"❌ Non-retryable error: {error_str[:200]}")
@@ -109,9 +106,6 @@ class StorySimplifier:
                 # Other unexpected errors, raise immediately
                 print(f"❌ Unexpected error: {str(e)[:200]}")
                 raise
-
-        # Should not reach here
-        raise Exception("Retry logic failed unexpectedly")
 
     def submit(self):
         """Submit batch jobs to Gemini API (split into chunks of 10k stories). Resumes from where it left off if interrupted."""
