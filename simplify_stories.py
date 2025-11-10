@@ -51,28 +51,63 @@ class StorySimplifier:
         self.output_parquet_dir = BATCH_DIR / f"output_{job_name_suffix}"
 
     def _retry_with_backoff(self, func, *args, **kwargs):
-        """Retry a function with exponential backoff for rate limit errors."""
+        """Retry a function with exponential backoff for transient API errors.
+
+        Handles:
+        - 429 RESOURCE_EXHAUSTED (rate limit)
+        - 503 UNAVAILABLE (model overloaded)
+        - 500 INTERNAL (internal server error)
+
+        Following recommendations from:
+        https://github.com/google-gemini/cookbook/issues/469
+        """
         max_retries = 10
-        base_delay = 1  # Start with 1 second
+        base_delay = 10  # Start with 10 seconds (recommended)
         max_delay = 60  # Max 60 seconds
 
         for attempt in range(max_retries):
             try:
                 return func(*args, **kwargs)
             except ClientError as e:
-                if e.status_code == 429:  # Rate limit error
+                # Check if this is a retryable error
+                error_str = str(e)
+
+                # Check for transient errors: 429 (rate limit), 503 (overloaded), 500 (internal)
+                is_retryable = (
+                    "429" in error_str or
+                    "RESOURCE_EXHAUSTED" in error_str or
+                    "503" in error_str or
+                    "UNAVAILABLE" in error_str or
+                    "500" in error_str or
+                    "INTERNAL" in error_str
+                )
+
+                if is_retryable:
                     if attempt < max_retries - 1:
                         delay = min(base_delay * (2 ** attempt), max_delay)
-                        print(f"⚠️  Rate limit hit. Retrying in {delay}s... (attempt {attempt + 1}/{max_retries})")
+
+                        # Determine error type for message
+                        if "429" in error_str or "RESOURCE_EXHAUSTED" in error_str:
+                            error_type = "Rate limit"
+                        elif "503" in error_str or "UNAVAILABLE" in error_str:
+                            error_type = "Service unavailable"
+                        elif "500" in error_str or "INTERNAL" in error_str:
+                            error_type = "Internal server error"
+                        else:
+                            error_type = "Transient error"
+
+                        print(f"⚠️  {error_type}. Retrying in {delay}s... (attempt {attempt + 1}/{max_retries})")
                         time.sleep(delay)
                     else:
-                        print(f"❌ Max retries reached. Giving up.")
+                        print(f"❌ Max retries ({max_retries}) reached. Giving up.")
                         raise
                 else:
-                    # Non-rate-limit error, raise immediately
+                    # Non-retryable error, raise immediately
+                    print(f"❌ Non-retryable error: {error_str[:200]}")
                     raise
             except Exception as e:
-                # Other errors, raise immediately
+                # Other unexpected errors, raise immediately
+                print(f"❌ Unexpected error: {str(e)[:200]}")
                 raise
 
         # Should not reach here
