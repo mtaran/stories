@@ -444,7 +444,7 @@ class StorySimplifier:
         """)
 
         # Export to parquet
-        output_parquet_path = self.output_parquet_dir / "stories_simplified.parquet"
+        output_parquet_path = self.output_parquet_dir / f"stories_simplified_{self.split}.parquet"
         conn.execute(f"COPY result TO '{output_parquet_path}' (FORMAT PARQUET)")
 
         print(f"✓ Created parquet file: {output_parquet_path}")
