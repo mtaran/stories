@@ -12,3 +12,4 @@ python-dotenv>=1.0.0
 
 # Additional dependencies
 pyarrow>=14.0.0
+pandas>=2.0.0
