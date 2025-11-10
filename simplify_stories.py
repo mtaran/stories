@@ -13,6 +13,7 @@ from datasets import load_dataset
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
+from google.genai.errors import ClientError
 
 # Load environment variables
 load_dotenv()
@@ -49,8 +50,36 @@ class StorySimplifier:
         self.job_info_path = BATCH_DIR / f"job_info_{job_name_suffix}.json"
         self.output_parquet_dir = BATCH_DIR / f"output_{job_name_suffix}"
 
+    def _retry_with_backoff(self, func, *args, **kwargs):
+        """Retry a function with exponential backoff for rate limit errors."""
+        max_retries = 10
+        base_delay = 1  # Start with 1 second
+        max_delay = 60  # Max 60 seconds
+
+        for attempt in range(max_retries):
+            try:
+                return func(*args, **kwargs)
+            except ClientError as e:
+                if e.status_code == 429:  # Rate limit error
+                    if attempt < max_retries - 1:
+                        delay = min(base_delay * (2 ** attempt), max_delay)
+                        print(f"⚠️  Rate limit hit. Retrying in {delay}s... (attempt {attempt + 1}/{max_retries})")
+                        time.sleep(delay)
+                    else:
+                        print(f"❌ Max retries reached. Giving up.")
+                        raise
+                else:
+                    # Non-rate-limit error, raise immediately
+                    raise
+            except Exception as e:
+                # Other errors, raise immediately
+                raise
+
+        # Should not reach here
+        raise Exception("Retry logic failed unexpectedly")
+
     def submit(self):
-        """Submit batch jobs to Gemini API (split into chunks of 10k stories)."""
+        """Submit batch jobs to Gemini API (split into chunks of 10k stories). Resumes from where it left off if interrupted."""
         print(f"Loading SimpleStories dataset...")
         dataset = load_dataset("SimpleStories/SimpleStories", split="train")
 
@@ -63,11 +92,27 @@ class StorySimplifier:
         total_stories = len(dataset)
         num_batches = (total_stories + MAX_STORIES_PER_BATCH - 1) // MAX_STORIES_PER_BATCH
 
-        print(f"\n📊 Splitting into {num_batches} batch(es) of max {MAX_STORIES_PER_BATCH} stories each")
+        # Check if we're resuming from a previous run
+        existing_batches = []
+        start_batch_idx = 0
 
-        all_batch_info = []
+        if self.job_info_path.exists():
+            print(f"\n📂 Found existing job info. Checking for resume...")
+            with open(self.job_info_path) as f:
+                existing_job_info = json.load(f)
 
-        for batch_idx in range(num_batches):
+            existing_batches = existing_job_info.get("batches", [])
+            if existing_batches:
+                start_batch_idx = len(existing_batches)
+                print(f"✓ Resuming from batch {start_batch_idx + 1}/{num_batches} (already submitted {start_batch_idx} batches)")
+            else:
+                print(f"⚠️  Job info exists but no batches found. Starting from beginning.")
+        else:
+            print(f"\n📊 Starting fresh. Splitting into {num_batches} batch(es) of max {MAX_STORIES_PER_BATCH} stories each")
+
+        all_batch_info = existing_batches.copy()
+
+        for batch_idx in range(start_batch_idx, num_batches):
             start_idx = batch_idx * MAX_STORIES_PER_BATCH
             end_idx = min(start_idx + MAX_STORIES_PER_BATCH, total_stories)
             batch_dataset = dataset.select(range(start_idx, end_idx))
@@ -77,77 +122,84 @@ class StorySimplifier:
             # Create JSONL file for this batch
             input_jsonl_path = BATCH_DIR / f"batch_input_{self.job_name_suffix}_{batch_idx}.jsonl"
 
-            print(f"Preparing batch requests...")
-            with open(input_jsonl_path, "w") as f:
-                for idx, example in enumerate(batch_dataset):
-                    story = example["story"]
-                    # Use global index for key
-                    global_idx = start_idx + idx
-                    request = {
-                        "key": f"story-{global_idx}",
-                        "request": {
-                            "contents": [{
-                                "parts": [{
-                                    "text": PROMPT_TEMPLATE.format(story=story)
-                                }]
-                            }],
-                            "generation_config": {
-                                "temperature": 0.2
+            try:
+                print(f"Preparing batch requests...")
+                with open(input_jsonl_path, "w") as f:
+                    for idx, example in enumerate(batch_dataset):
+                        story = example["story"]
+                        # Use global index for key
+                        global_idx = start_idx + idx
+                        request = {
+                            "key": f"story-{global_idx}",
+                            "request": {
+                                "contents": [{
+                                    "parts": [{
+                                        "text": PROMPT_TEMPLATE.format(story=story)
+                                    }]
+                                }],
+                                "generation_config": {
+                                    "temperature": 0.2
+                                }
                             }
                         }
-                    }
-                    f.write(json.dumps(request) + "\n")
+                        f.write(json.dumps(request) + "\n")
 
-            print(f"Wrote {len(batch_dataset)} requests to {input_jsonl_path}")
+                print(f"Wrote {len(batch_dataset)} requests to {input_jsonl_path}")
 
-            # Upload file to Gemini File API
-            print(f"Uploading batch file to Gemini File API...")
-            uploaded_file = self.client.files.upload(
-                file=str(input_jsonl_path),
-                config=types.UploadFileConfig(
-                    display_name=f'simplify-stories-{self.job_name_suffix}-{batch_idx}',
-                    mime_type='text/plain'
+                # Upload file to Gemini File API with retry
+                print(f"Uploading batch file to Gemini File API...")
+                uploaded_file = self._retry_with_backoff(
+                    self.client.files.upload,
+                    file=str(input_jsonl_path),
+                    config=types.UploadFileConfig(
+                        display_name=f'simplify-stories-{self.job_name_suffix}-{batch_idx}',
+                        mime_type='text/plain'
+                    )
                 )
-            )
-            print(f"Uploaded file: {uploaded_file.name}")
+                print(f"Uploaded file: {uploaded_file.name}")
 
-            # Create batch job
-            print(f"Creating batch job...")
-            batch_job = self.client.batches.create(
-                model=MODEL_NAME,
-                src=uploaded_file.name,
-                config={
-                    'display_name': f"simplify-stories-{self.job_name_suffix}-{batch_idx}",
-                },
-            )
+                # Create batch job with retry
+                print(f"Creating batch job...")
+                batch_job = self._retry_with_backoff(
+                    self.client.batches.create,
+                    model=MODEL_NAME,
+                    src=uploaded_file.name,
+                    config={
+                        'display_name': f"simplify-stories-{self.job_name_suffix}-{batch_idx}",
+                    }
+                )
 
-            # Save batch info
-            batch_info = {
-                "batch_idx": batch_idx,
-                "job_name": batch_job.name,
-                "uploaded_file_name": uploaded_file.name,
-                "start_idx": start_idx,
-                "end_idx": end_idx,
-                "n_stories": len(batch_dataset),
-                "created_at": time.time()
-            }
-            all_batch_info.append(batch_info)
+                # Save batch info
+                batch_info = {
+                    "batch_idx": batch_idx,
+                    "job_name": batch_job.name,
+                    "uploaded_file_name": uploaded_file.name,
+                    "start_idx": start_idx,
+                    "end_idx": end_idx,
+                    "n_stories": len(batch_dataset),
+                    "created_at": time.time()
+                }
+                all_batch_info.append(batch_info)
 
-            print(f"✓ Batch job created: {batch_job.name}")
+                print(f"✓ Batch job created: {batch_job.name}")
 
-            # Clean up input JSONL file
-            input_jsonl_path.unlink()
-            print(f"✓ Cleaned up input file: {input_jsonl_path}")
+                # Save progress after each successful batch
+                job_info = {
+                    "total_stories": total_stories,
+                    "num_batches": num_batches,
+                    "batches": all_batch_info,
+                    "created_at": existing_job_info.get("created_at", time.time()) if self.job_info_path.exists() and 'existing_job_info' in locals() else time.time(),
+                    "last_updated": time.time()
+                }
+                with open(self.job_info_path, "w") as f:
+                    json.dump(job_info, f, indent=2)
+                print(f"✓ Progress saved")
 
-        # Save all batch info
-        job_info = {
-            "total_stories": total_stories,
-            "num_batches": num_batches,
-            "batches": all_batch_info,
-            "created_at": time.time()
-        }
-        with open(self.job_info_path, "w") as f:
-            json.dump(job_info, f, indent=2)
+            finally:
+                # Clean up input JSONL file even on error
+                if input_jsonl_path.exists():
+                    input_jsonl_path.unlink()
+                    print(f"✓ Cleaned up input file: {input_jsonl_path}")
 
         print(f"\n✓ All {num_batches} batch job(s) submitted!")
         print(f"✓ Job info saved to: {self.job_info_path}")
