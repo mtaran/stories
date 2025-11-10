@@ -26,7 +26,7 @@ BUCKET_NAME = "mechinterp"
 # 2M items = 2,000,000 -> max index 1,999,999 = 7 digits
 PADDING_WIDTH = 7
 MAX_WORKERS = 20  # Number of parallel upload threads
-BATCH_SIZE = 1000  # Process this many items at a time to manage memory
+BATCH_SIZE = 10000  # Process this many items at a time to manage memory
 
 # Thread-safe counter for progress reporting
 upload_counter = 0
