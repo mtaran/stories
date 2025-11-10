@@ -34,21 +34,23 @@ MAX_STORIES_PER_BATCH = 10000
 class StorySimplifier:
     """Handles the batch simplification of stories using Gemini API."""
 
-    def __init__(self, n_stories: int = None, job_name_suffix: str = ""):
+    def __init__(self, n_stories: int = None, job_name_suffix: str = "", split: str = "train"):
         """
         Initialize the simplifier.
 
         Args:
             n_stories: Number of stories to process. None for all.
             job_name_suffix: Suffix for job name (e.g., "poc" or "full")
+            split: Dataset split to use (e.g., "train" or "test")
         """
         self.n_stories = n_stories
         self.job_name_suffix = job_name_suffix
+        self.split = split
         self.client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-        # File paths
-        self.job_info_path = BATCH_DIR / f"job_info_{job_name_suffix}.json"
-        self.output_parquet_dir = BATCH_DIR / f"output_{job_name_suffix}"
+        # File paths - include split in the names
+        self.job_info_path = BATCH_DIR / f"job_info_{job_name_suffix}_{split}.json"
+        self.output_parquet_dir = BATCH_DIR / f"output_{job_name_suffix}_{split}"
 
     def _retry_with_backoff(self, func, *args, **kwargs):
         """Retry a function with exponential backoff for transient API errors.
@@ -109,8 +111,8 @@ class StorySimplifier:
 
     def submit(self):
         """Submit batch jobs to Gemini API (split into chunks of 10k stories). Resumes from where it left off if interrupted."""
-        print(f"Loading SimpleStories dataset...")
-        dataset = load_dataset("SimpleStories/SimpleStories", split="train")
+        print(f"Loading SimpleStories dataset (split: {self.split})...")
+        dataset = load_dataset("SimpleStories/SimpleStories", split=self.split)
 
         if self.n_stories:
             dataset = dataset.select(range(self.n_stories))
@@ -149,7 +151,7 @@ class StorySimplifier:
             print(f"\n--- Batch {batch_idx + 1}/{num_batches} (stories {start_idx}-{end_idx-1}) ---")
 
             # Create JSONL file for this batch
-            input_jsonl_path = BATCH_DIR / f"batch_input_{self.job_name_suffix}_{batch_idx}.jsonl"
+            input_jsonl_path = BATCH_DIR / f"batch_input_{self.job_name_suffix}_{self.split}_{batch_idx}.jsonl"
 
             try:
                 print(f"Preparing batch requests...")
@@ -357,7 +359,7 @@ class StorySimplifier:
                 file_content = self.client.files.download(file=result_file_name)
 
                 # Save results temporarily
-                results_path = BATCH_DIR / f"results_{self.job_name_suffix}_{batch_idx}.jsonl"
+                results_path = BATCH_DIR / f"results_{self.job_name_suffix}_{self.split}_{batch_idx}.jsonl"
                 with open(results_path, "wb") as f:
                     f.write(file_content)
 
@@ -400,14 +402,14 @@ class StorySimplifier:
         print(f"\n✓ Fetched and parsed all {len(all_results)} results")
 
         # Load original dataset
-        print("\nLoading original dataset...")
-        dataset = load_dataset("SimpleStories/SimpleStories", split="train")
+        print(f"\nLoading original dataset (split: {self.split})...")
+        dataset = load_dataset("SimpleStories/SimpleStories", split=self.split)
 
         if self.n_stories:
             dataset = dataset.select(range(self.n_stories))
 
         # Create temporary parquet with original data
-        temp_original_path = BATCH_DIR / f"temp_original_{self.job_name_suffix}.parquet"
+        temp_original_path = BATCH_DIR / f"temp_original_{self.job_name_suffix}_{self.split}.parquet"
         dataset.to_parquet(str(temp_original_path))
 
         # Use DuckDB to add simplified column
@@ -464,7 +466,7 @@ class StorySimplifier:
         print(f"\n✓ Done! Output saved to: {self.output_parquet_dir}")
 
 
-def run(mode: Literal["submit", "check", "fetch"], n_stories: int = None, job_suffix: str = ""):
+def run(mode: Literal["submit", "check", "fetch"], n_stories: int = None, job_suffix: str = "", split: str = "train"):
     """
     Run the story simplification pipeline.
 
@@ -472,8 +474,9 @@ def run(mode: Literal["submit", "check", "fetch"], n_stories: int = None, job_su
         mode: Operation mode - "submit", "check", or "fetch"
         n_stories: Number of stories to process (None for all)
         job_suffix: Suffix for job identification
+        split: Dataset split to use (e.g., "train" or "test")
     """
-    simplifier = StorySimplifier(n_stories=n_stories, job_name_suffix=job_suffix)
+    simplifier = StorySimplifier(n_stories=n_stories, job_name_suffix=job_suffix, split=split)
 
     if mode == "submit":
         simplifier.submit()
