@@ -1,0 +1,14 @@
+# Gemini API client
+google-genai>=0.2.0
+
+# Dataset handling
+datasets>=2.14.0
+
+# Database for parquet manipulation
+duckdb>=0.9.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Additional dependencies
+pyarrow>=14.0.0
