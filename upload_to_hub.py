@@ -12,7 +12,7 @@ Usage:
     python upload_to_hub.py <path_to_train_parquet> <path_to_test_parquet>
 
 Example:
-    python upload_to_hub.py batch_data/output_full_train/stories_simplified.parquet batch_data/output_full_test/stories_simplified.parquet
+    python upload_to_hub.py batch_data/output_full_train/stories_simplified.parquet batch_data/output_full_test/stories_simplified_test.parquet
 """
 
 import sys
@@ -150,7 +150,7 @@ if __name__ == "__main__":
     if len(sys.argv) != 3:
         print("Usage: python upload_to_hub.py <path_to_train_parquet> <path_to_test_parquet>")
         print("\nExample:")
-        print("  python upload_to_hub.py batch_data/output_full_train/stories_simplified.parquet batch_data/output_full_test/stories_simplified.parquet")
+        print("  python upload_to_hub.py batch_data/output_full_train/stories_simplified.parquet batch_data/output_full_test/stories_simplified_test.parquet")
         sys.exit(1)
 
     train_parquet_path = sys.argv[1]

@@ -48,9 +48,10 @@ class StorySimplifier:
         self.split = split
         self.client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-        # File paths - include split in the names
-        self.job_info_path = BATCH_DIR / f"job_info_{job_name_suffix}_{split}.json"
-        self.output_parquet_dir = BATCH_DIR / f"output_{job_name_suffix}_{split}"
+        # File paths - only add _test suffix (backwards compatibility for train)
+        suffix = f"_{split}" if split == "test" else ""
+        self.job_info_path = BATCH_DIR / f"job_info_{job_name_suffix}{suffix}.json"
+        self.output_parquet_dir = BATCH_DIR / f"output_{job_name_suffix}{suffix}"
 
     def _retry_with_backoff(self, func, *args, **kwargs):
         """Retry a function with exponential backoff for transient API errors.
@@ -151,7 +152,8 @@ class StorySimplifier:
             print(f"\n--- Batch {batch_idx + 1}/{num_batches} (stories {start_idx}-{end_idx-1}) ---")
 
             # Create JSONL file for this batch
-            input_jsonl_path = BATCH_DIR / f"batch_input_{self.job_name_suffix}_{self.split}_{batch_idx}.jsonl"
+            suffix = f"_{self.split}" if self.split == "test" else ""
+            input_jsonl_path = BATCH_DIR / f"batch_input_{self.job_name_suffix}{suffix}_{batch_idx}.jsonl"
 
             try:
                 print(f"Preparing batch requests...")
@@ -359,7 +361,8 @@ class StorySimplifier:
                 file_content = self.client.files.download(file=result_file_name)
 
                 # Save results temporarily
-                results_path = BATCH_DIR / f"results_{self.job_name_suffix}_{self.split}_{batch_idx}.jsonl"
+                suffix = f"_{self.split}" if self.split == "test" else ""
+                results_path = BATCH_DIR / f"results_{self.job_name_suffix}{suffix}_{batch_idx}.jsonl"
                 with open(results_path, "wb") as f:
                     f.write(file_content)
 
@@ -409,7 +412,8 @@ class StorySimplifier:
             dataset = dataset.select(range(self.n_stories))
 
         # Create temporary parquet with original data
-        temp_original_path = BATCH_DIR / f"temp_original_{self.job_name_suffix}_{self.split}.parquet"
+        suffix = f"_{self.split}" if self.split == "test" else ""
+        temp_original_path = BATCH_DIR / f"temp_original_{self.job_name_suffix}{suffix}.parquet"
         dataset.to_parquet(str(temp_original_path))
 
         # Use DuckDB to add simplified column
@@ -444,7 +448,9 @@ class StorySimplifier:
         """)
 
         # Export to parquet
-        output_parquet_path = self.output_parquet_dir / f"stories_simplified_{self.split}.parquet"
+        # Only add suffix for test split (backwards compatibility for train)
+        suffix = f"_{self.split}" if self.split == "test" else ""
+        output_parquet_path = self.output_parquet_dir / f"stories_simplified{suffix}.parquet"
         conn.execute(f"COPY result TO '{output_parquet_path}' (FORMAT PARQUET)")
 
         print(f"✓ Created parquet file: {output_parquet_path}")
