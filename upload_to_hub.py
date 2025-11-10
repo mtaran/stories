@@ -19,7 +19,7 @@ import sys
 from pathlib import Path
 
 import duckdb
-from datasets import load_dataset, DatasetDict
+from datasets import load_dataset, DatasetDict, Features, Value
 
 
 def load_simplified_texts(parquet_path: Path, split_name: str):
@@ -102,6 +102,18 @@ def upload_simpler_stories(train_parquet_path: str, test_parquet_path: str):
         return {"simplified": test_simplified[idx], **example}
 
     test_dataset = test_dataset.map(add_simplified_test, with_indices=True, desc="Adding simplified column to test")
+
+    # Cast to ensure consistent schema (original dataset uses float64, parquet may use double)
+    print("📊 Casting schema to ensure consistency...")
+
+    # Build features from the original schema plus simplified column
+    features = Features({
+        "simplified": Value("string"),
+        **{name: feature for name, feature in train_dataset.features.items() if name != "simplified"}
+    })
+
+    train_dataset = train_dataset.cast(features)
+    test_dataset = test_dataset.cast(features)
 
     # Create a DatasetDict with both splits
     final_dataset = DatasetDict({
