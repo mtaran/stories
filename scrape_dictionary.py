@@ -49,8 +49,8 @@ def parse_word_pos(text):
     return text, None
 
 
-def scrape_page(page_num, session):
-    """Scrape a single page and return list of entries."""
+def scrape_page(page_num, session, last_word=None, last_pos=None):
+    """Scrape a single page and return list of entries plus last word/pos for continuity."""
     url = f"{BASE_URL}?page={page_num}"
 
     for attempt in range(4):
@@ -65,16 +65,20 @@ def scrape_page(page_num, session):
                 time.sleep(wait_time)
             else:
                 print(f"  Failed after 4 attempts: {e}")
-                return []
+                return [], last_word, last_pos
 
     soup = BeautifulSoup(response.text, 'html.parser')
     entries = []
+
+    # Track current word/pos for multi-row entries
+    current_word = last_word
+    current_pos = last_pos
 
     # Find the table - try different approaches
     table = soup.find('table')
     if not table:
         print(f"  No table found on page {page_num}")
-        return []
+        return [], current_word, current_pos
 
     rows = table.find_all('tr')
 
@@ -88,6 +92,15 @@ def scrape_page(page_num, session):
 
             word_pos = cells[0].get_text(strip=True)
             word, pos = parse_word_pos(word_pos)
+
+            # If word is present, update current word/pos
+            # If word is empty, use the previous word/pos (multi-row entry)
+            if word:
+                current_word = word
+                current_pos = pos
+            else:
+                word = current_word
+                pos = current_pos
 
             ste_indicator = cells[1].get_text(strip=True)
             is_ste = 1 if '✔' in ste_indicator or 'check' in ste_indicator.lower() else 0
@@ -106,7 +119,7 @@ def scrape_page(page_num, session):
                     'non_ste_example': non_ste_example
                 })
 
-    return entries
+    return entries, current_word, current_pos
 
 
 def insert_entries(conn, entries):
@@ -143,6 +156,11 @@ def export_to_csv(conn):
 
 
 def main():
+    # Remove existing database to start fresh
+    if DB_PATH.exists():
+        DB_PATH.unlink()
+        print("Removed existing database.")
+
     print("Creating database...")
     conn = create_database()
 
@@ -152,11 +170,13 @@ def main():
     })
 
     total_entries = 0
+    last_word = None
+    last_pos = None
 
     print(f"Scraping {TOTAL_PAGES} pages...")
     for page in range(1, TOTAL_PAGES + 1):
         print(f"Page {page}/{TOTAL_PAGES}...", end=" ")
-        entries = scrape_page(page, session)
+        entries, last_word, last_pos = scrape_page(page, session, last_word, last_pos)
 
         if entries:
             insert_entries(conn, entries)
