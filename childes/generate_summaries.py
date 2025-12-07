@@ -24,7 +24,6 @@ Examples:
 Environment variables:
     TALKBANK_EMAIL    - Email for TalkBank authentication
     TALKBANK_PASSWORD - Password for TalkBank authentication
-    ANTHROPIC_API_KEY - API key for Claude summarization
 
 Requirements:
     pip install pylangacq anthropic requests
@@ -287,7 +286,6 @@ Examples:
 Environment variables:
   TALKBANK_EMAIL     Email for TalkBank authentication
   TALKBANK_PASSWORD  Password for TalkBank authentication
-  ANTHROPIC_API_KEY  API key for Claude summarization
         """
     )
     parser.add_argument('--language', '-l', default='Eng-NA',
@@ -313,11 +311,6 @@ Environment variables:
         print("Error: TalkBank credentials required.", file=sys.stderr)
         print("Set TALKBANK_EMAIL and TALKBANK_PASSWORD environment variables,", file=sys.stderr)
         print("or use --email and --password arguments.", file=sys.stderr)
-        sys.exit(1)
-
-    # Check for Anthropic API key
-    if not os.environ.get('ANTHROPIC_API_KEY'):
-        print("Error: ANTHROPIC_API_KEY environment variable required.", file=sys.stderr)
         sys.exit(1)
 
     # Set up directories
