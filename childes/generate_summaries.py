@@ -27,7 +27,6 @@ Requirements:
 
 import argparse
 import glob
-import json
 import os
 import re
 import sys
@@ -197,7 +196,7 @@ Now write the narrative summary ({min_sentences}-{max_sentences} sentences). Rem
 
 
 def process_session(filepath: str, temp_dir: str, output_dir: str) -> dict:
-    """Process a single CHAT session file and extract data for summarization."""
+    """Process a single CHAT session file and extract plain text transcript."""
     basename = os.path.splitext(os.path.basename(filepath))[0]
     print(f"\nProcessing: {basename}")
 
@@ -214,25 +213,39 @@ def process_session(filepath: str, temp_dir: str, output_dir: str) -> dict:
         print("  No utterances found, skipping.")
         return None
 
-    # Generate the prompt for summarization
-    prompt = format_transcript_for_summary(utterances, situation)
+    # Format as plain text transcript
+    lines = []
+    for utt in utterances:
+        speaker_name = get_speaker_name(utt['speaker'])
+        lines.append(f"{speaker_name}: {utt['text']}")
 
-    # Save extracted data as JSON for Claude Code to summarize
-    output = {
+    transcript = '\n'.join(lines)
+
+    # Calculate target sentence count (10-30 utterances per sentence)
+    n_utterances = len(utterances)
+    min_sentences = max(n_utterances // 30, 10)
+    max_sentences = max(n_utterances // 10, 20)
+
+    # Save as plain text with metadata header
+    output_path = os.path.join(output_dir, f"{basename}_transcript.txt")
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(f"Session: {basename}\n")
+        f.write(f"Situation: {situation}\n")
+        f.write(f"Participants: {participants}\n")
+        f.write(f"Total utterances: {n_utterances}\n")
+        f.write(f"Target summary length: {min_sentences}-{max_sentences} sentences\n")
+        f.write(f"\n{'='*60}\nTRANSCRIPT\n{'='*60}\n\n")
+        f.write(transcript)
+
+    print(f"  Saved transcript to: {output_path}")
+    return {
         'session_id': basename,
         'situation': situation,
         'participants': participants,
-        'total_utterances': len(utterances),
-        'utterances': utterances,
-        'summarization_prompt': prompt
+        'total_utterances': n_utterances,
+        'min_sentences': min_sentences,
+        'max_sentences': max_sentences
     }
-
-    output_path = os.path.join(output_dir, f"{basename}_extracted.json")
-    with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(output, f, indent=2)
-
-    print(f"  Saved extracted data to: {output_path}")
-    return output
 
 
 def main():
@@ -254,7 +267,7 @@ Examples:
     parser.add_argument('--sessions', '-n', type=int, default=5,
                         help='Number of sessions to process (default: 5)')
     parser.add_argument('--output', '-o', default=None,
-                        help='Output directory (default: ./childes/extracted)')
+                        help='Output directory (default: ./childes/transcripts)')
     parser.add_argument('--email', default='maksym.taran@gmail.com',
                         help='TalkBank email (default: maksym.taran@gmail.com)')
     parser.add_argument('--password', default='D2z8jQ6@9mrR9Yu',
@@ -264,7 +277,7 @@ Examples:
 
     # Set up directories
     script_dir = Path(__file__).parent.absolute()
-    output_dir = args.output or str(script_dir / 'extracted')
+    output_dir = args.output or str(script_dir / 'transcripts')
     os.makedirs(output_dir, exist_ok=True)
 
     # Create temp directory for downloads and cleaned files

@@ -1,878 +1,429 @@
 Session: chj
 Situation: before bed
+Participants: CHI (Christopher, age ~5), EXP (Graeme/Tom, investigator), FAD (father), FAT (father), FCH (friend's child), GRA (grandmother), MAD (mother), MCH (male child), MOT (mother), SIS (Jenny, sister), TEA (teacher), UNK (unknown)
 Total utterances: 9119
-Summary sentences: 434
-Compression ratio: 21:1
+Summary sentences: 378
+Compression ratio: 24:1
 
 ============================================================
 NARRATIVE SUMMARY
 ============================================================
 
-The sister gave or received an instruction.
+At breakfast one morning, Christopher admired his tall father while eating with his family.
 
-The child talked about their father.
+His mother announced they would leave for school in about twenty minutes.
 
-The mother talked about their father.
+Christopher wanted to go to school immediately rather than wait.
 
-The mother affirmed or agreed.
+His sister Jenny asked for permission to take bacon, and the mother agreed.
 
-The child talked about their father.
+The investigator, Graeme (Tom), arrived at the house, introducing himself to the family as conducting a research study.
 
-The investigator asked a question.
+Christopher curiously asked what the investigator's equipment did, learning he was wearing a transmitter so the receiver could pick up his voice.
 
-The mother addressed someone by name.
+The investigator explained he had an earphone container, which Christopher and Jenny found interesting.
 
-The father asked a question.
+Christopher pointed out a window at a helicopter flying by, and the family gathered to watch birds and distant objects through binoculars.
 
-The investigator addressed someone by name.
+They spotted pigeons flying over the river, and Christopher was excited to see two pigeons together.
 
-The father asked a question.
+The mother cleaned the binoculars lens and helped Christopher focus them better.
 
-The child talked about their father.
+Outside through the binoculars, Christopher spotted something yellow and white hanging in a tree, puzzling everyone about how it got there.
 
-The mother asked to see or observe something.
+The family needed to use the bathroom before leaving; Christopher went to tell his father while Jenny tried.
 
-The child asked to see or observe something.
+Christopher asked his father about making something, receiving tools from the investigator to fix broken equipment.
 
-The father affirmed or agreed.
+The investigator needed glue to repair his broken receiver, and Christopher eagerly offered his large bottle of glue from home.
 
-The father asked to see or observe something.
+Christopher put on his sweater and jacket, asking his mother about his father's height and weight.
 
-The sister talked about their mother.
+His mother said his father was five feet eleven and three quarter inches tall and weighed about one hundred sixty-five pounds.
 
-The sister talked about their mother.
+Christopher was impressed that his father was a minister who knew all about God.
 
-The mother asked what something was.
+The investigator showed Christopher a stereo with left and right channels, explaining that adjusting the volume made sound louder and softer.
 
-The child asked how to do something.
+A blinking light on the equipment showed it was operating and working properly.
 
-The child asked what something was.
+The mother brushed the children's hair and prepared them for school.
 
-The child asked a question.
+Christopher and his sister played with playdough, making shapes and figures.
 
-The investigator discussed the transmitter.
+They identified letters and objects by drawing them, with Christopher making a magnet shape and guessing games about objects.
 
-The child asked a question.
+Christopher demonstrated a gun shape, then changed it to a golf cart, then back to a gun again.
 
-The investigator affirmed or agreed.
+He made trumpet and tuba sounds with his mouth, then a harmonica sound, then identified a hammer by the banging sound.
 
-The sister talked about their mother.
+As the family prepared to leave, a water pipe in the kitchen was dripping, which the father mentioned was bothering the mother.
 
-The mother affirmed or agreed.
+Before departing, Christopher told the investigator goodbye, saying "see you later alligator" as Joey's daddy always says.
 
-The sister talked about their father.
+In the elevator heading down, Christopher counted the buttons and explained that Robby lived on the eighth floor.
 
-The mother discussed recording equipment.
+Outside, they encountered Christopher's grandmother who was visiting, asking if the family was going to school.
 
-The child gave or received an instruction.
+The weather had become rainy, and the mother worried about the umbrella breaking.
 
-The sister asked how something worked.
+Walking through the rain, Christopher spotted a truck and tried to use the binoculars to look at things.
 
-The mother asked to see or observe something.
+He observed someone sneaker hanging on a tree and hoped someone would clean up the messy neighborhood.
 
-The sister affirmed or agreed.
+Christopher pointed out the doctor's office where he went for checkups.
 
-The mother asked what something was.
+They passed a food vendor selling pretzels, and Christopher asked many questions about the street and pedestrians.
 
-The mother asked what something was.
+Christopher noticed people waiting to board a public school bus and wondered why they were in line.
 
-The child asked what something was.
+His mother explained that the bus took up so much room that cars had to wait.
 
-The mother mentioned furniture or a storage area.
+Christopher imagined what would happen if people had flying cars or helicopters instead.
 
-The child asked where something was.
+He asked why helicopters don't come down, and his mother explained people need to get on and off them.
 
-The mother affirmed or agreed.
+A man named Mister Norman Vincent Norman, the father of Christopher's schoolmate Kevin, passed by and greeted them.
 
-The sister asked why something was the case.
+Christopher told his mother about a time he saw a lady who got angry at a car driver for not stopping.
 
-The child gave or received an instruction.
+The lady had banged on the driver's car and told him to stop because he almost ran over them.
 
-The mother gave or received an instruction.
+Christopher's mother reminded him that even with a green light, you must look both ways before crossing.
 
-The mother gave or received an instruction.
+They saw a truck and bus on the street, noting how the truck avoided hitting the bus.
 
-The mother made a direct request.
+Christopher asked about the colors of trucks and buses he could see, mentioning black, yellow, and what he called "tangerine" colors.
 
-The sister asked what something was called.
+The mother corrected his color perception, noting she hadn't seen yellow trucks.
 
-The mother discussed recording equipment.
+Christopher was glad to get his binoculars back and continued playing with them.
 
-The mother gave or received an instruction.
+They reached the schoolyard where Christopher's teacher and other children were waiting.
 
-The mother discussed recording equipment.
+Children greeted Christopher, including Gabriel, Tony, Debbie, and Bernice.
 
-The sister gave or received an instruction.
+The teacher asked Christopher what the binoculars were for, and he explained they were for looking far away.
 
-The sister expressed appreciation.
+The teacher questioned whether binoculars made things look far away, and another child expressed disbelief.
 
-The mother mentioned furniture or a storage area.
+Christopher repeatedly asked if he could go up to the loft, which was the elevated play space.
 
-The mother asked if someone had finished eating.
+The teacher had to explain that the loft was full and he would have to wait for someone to come down.
 
-The mother talked about food and eating.
+Christopher read name cards to see who was upstairs, identifying Matthew, Greg, Tony, Todd, and Asher.
 
-The sister talked about food and eating.
+Another child mentioned Gabriel was downstairs, not upstairs, correcting Christopher's observation.
 
-The mother asked if someone had finished eating.
+Gabriel asked if Christopher wanted to be a daddy in the loft's pretend house, but Christopher resisted at first.
 
-The child asked a question.
+The children created a complex pretend scenario where Christopher became a daddy figure.
 
-The mother talked about food and eating.
+Christopher told Julia about the watch his grandmother gave him, which had a boy and dog running on it.
 
-The child affirmed or agreed.
+Christopher's father arrived at the loft, and Christopher reported that a kid had hit him with her toy dog and kicked him.
 
-The mother asked a question.
+The investigator checked if Christopher was okay, while another child (Julia) argued that a kick hurt but a toy dog wouldn't.
 
-The sister talked about their father.
+The children discussed whether real dogs could bite, and Christopher imagined getting a dog that would bite the other kids.
 
-The mother talked about their father.
+Christopher asked where the investigator was going, and learned they would go to school together.
 
-The child talked about their mother.
+Christopher wanted the investigator to stay and play with him, asking if Graeme would come to his house again tomorrow.
 
-The child asked what something was.
+The group went to school together, heading toward the classroom.
 
-The child gave or received an instruction.
+In the classroom, a cockroach appeared, causing chaos among the children.
 
-The mother addressed someone by name.
+Children screamed and tried to catch or kill the cockroach.
 
-The sister asked a question.
+They built a trap for it using graham crackers and peanut butter, working together.
 
-The mother asked if someone had finished eating.
+Christopher announced the cockroach was trapped, and they moved on from the excitement.
 
-The mother mentioned furniture or a storage area.
+The teacher gathered interested children for a painting activity using circles for collage.
 
-The child asked to see or observe something.
+Christopher repeatedly asked to go up to the loft despite being told there wasn't room.
 
-The child declined or disagreed.
+Christopher tried to count how many people were in the loft to prove there was room for him.
 
-The child declined or disagreed.
+Children engaged in pretend play with the loft as a house where they were fathers and children sleeping.
 
-The child declined or disagreed.
+Julia and Sarah had a physical altercation with Christopher, and the investigator intervened to calm the situation.
 
-The mother asked a question.
+Christopher told the investigator that Julia hit him with her toy dog and kicked him.
 
-The investigator asked to see or observe something.
+The investigator told Julia that hitting wasn't nice, and told Sarah that kicking wasn't nice either.
 
-The mother asked a question.
+Christopher and another child pretended they would get dogs to bite people who bothered them.
 
-The investigator expressed a preference.
+Christopher showed the teacher his gingerbread boy made from playdough at home using a cookie cutter mold.
 
-The sister gave or received an instruction.
+The mother came to pick up Christopher, and he asked if she would take his painted gingerbread boy home.
 
-The child affirmed or agreed.
+She agreed to take it home, though it wouldn't be dry by the time he left school.
 
-The child mentioned a ruler.
+Christopher made a baseball card from his house, which impressed other children.
 
-The mother addressed someone by name.
+A child asked where Christopher got the camera, and Christopher showed them the binoculars instead.
 
-The child mentioned a ruler.
+Children played a game where they pretended the classroom was a boat, and Christopher was looking for baseball players through the binoculars.
 
-The sister asked to see or observe something.
+He joked that when you look through binoculars, you see a fat head.
 
-The father affirmed or agreed.
+Children tried to sneak up to the loft without the teacher noticing.
 
-The father declined or disagreed.
+Christopher told his mother he had gotten his binoculars back and was happy.
 
-The sister asked to see or observe something.
+The children engaged in superhero imaginative play, with Christopher being different characters like Spider-Man, Batman, and Shazam.
 
-The mother asked to see or observe something.
+They discussed TV shows they watched, including Scoobie Doo, Mister Rogers' Neighborhood, The Electric Company, and Captain Marvel.
 
-The child asked to see or observe something.
+Christopher declared he liked Captain Marvel and described having boots, a cape, and special hair.
 
-The sister discussed recording equipment.
+Christopher and another child (Todd) planned to sneak through the loft window to scare other children.
 
-The sister discussed recording equipment.
+They successfully scared Debbie, who was surprised by their sudden appearance.
 
-The sister discussed recording equipment.
+Children played with baseball cards and imaginary boats.
 
-The investigator discussed recording equipment.
+Christopher looked through the binoculars and saw other children's eyes up close.
 
-The investigator talked about their father.
+He joked about seeing fat faces when looking through the binoculars.
 
-The investigator asked to see or observe something.
+The children created an elaborate pretend game where some were Space Cadets and others were dinosaurs.
 
-The sister talked about names.
+They made dinosaur sounds and discussed the dinosaur as their pet.
 
-The investigator asked to see or observe something.
+Christopher pretended to be Kong Fuey, a martial arts character.
 
-The investigator gave or received an instruction.
+Children ran around the classroom playing tag and hide-and-seek in the loft space.
 
-The child affirmed or agreed.
+The teacher told Christopher and Todd that running in the classroom was dangerous due to corners and people getting hurt.
 
-The sister asked a question.
+The teacher asked them to walk instead, and Christopher agreed to slow down.
 
-The child mentioned their sister.
+During snack time with green-colored water and crackers, Tony spilled water on Christopher's head.
 
-The investigator mentioned their sister.
+Christopher complained to the teacher that Tony was dropping water on him.
 
-The investigator affirmed or agreed.
+Children argued about who spilled water and made a mess at the snack table.
 
-The investigator affirmed or agreed.
+The teacher scolded the children for spilling water, saying it was for drinking, not for spilling or playing.
 
-The investigator asked a question.
+Tony poured water into other children's cups, causing chaos.
 
-The sister addressed someone by name.
+Christopher told the teacher that Tony had poured water into his cup.
 
-The sister addressed someone by name.
+A child poured water into Gabriel's cup, and the mess continued to escalate.
 
-The investigator asked what something was.
+The teacher threatened to stop giving the children juice and water for snacks.
 
-The sister declined or disagreed.
+She made all the children clean up with paper towels.
 
-The sister declined or disagreed.
+Christopher complained that Graeme had pushed a table on him.
 
-The sister declined or disagreed.
+The investigator told the children not to push tables into other children because it was stupid and dangerous.
 
-The sister affirmed or agreed.
+Children began using inappropriate language, including profanity, during the chaos.
 
-The father affirmed or agreed.
+One child said a bad word, and another child corrected them, saying they should behave.
 
-The sister asked a question.
+The teacher scolded the children for spitting and using bad language.
 
-The investigator expressed appreciation.
+Christopher and other children took turns sitting at the drawing table with the teacher.
 
-The child expressed a preference.
+The teacher asked Christopher to tell her about making the gingerbread boy.
 
-The sister asked to see or observe something.
+Christopher explained he made it with a cookie cutter that pushed down and had an eye.
 
-The child asked where something was.
+The teacher asked if it was like a cookie cutter, and Christopher confirmed.
 
-The mother declined or disagreed.
+The teacher asked Christopher about the materials used and where he made it.
 
-The mother declined or disagreed.
+Christopher said he made it at home with his mother using yellow playdough.
 
-The sister affirmed or agreed.
+The teacher asked if it was like playdough, and Christopher said no, but it was yellow.
 
-The child addressed someone by name.
+The teacher asked what store he got it from and what recipe was used.
 
-The child asked how to do something.
+Christopher described the ingredients: flour, salt, coloring, oil, and water.
 
-The child asked how to do something.
+The teacher began writing down the ingredients Christopher listed for making the gingerbread boy.
 
-The investigator gave or received an instruction.
+Christopher explained that flour comes in a bag and salt is another ingredient needed.
 
-The investigator gave or received an instruction.
+The teacher asked about coloring, and Christopher said you could use any color.
 
-The sister addressed someone by name.
+Christopher mentioned needing oil and listed it as another ingredient.
 
-The mother expressed appreciation.
+The teacher asked what container to mix ingredients in, and Christopher said a bowl.
 
-The mother declined or disagreed.
+The teacher worked with Christopher to document his recipe on paper.
 
-The child asked where something was.
+Other children interrupted with various requests and complaints while the teacher was writing.
 
-The sister asked where something was.
+The teacher asked Christopher if milk or water went into the recipe.
 
-The mother asked where something was.
+Christopher said no, explaining the mixture goes in a bowl.
 
-The investigator discussed recording equipment.
+The teacher began creating a documentation page titled "Gingerbread Boy" with a picture and ingredients list.
 
-The sister asked who someone was.
+Afternoon snack time continued with the children eating and drinking water.
 
-The sister asked who someone was.
+The father (FAD) gave one child something to take home carefully.
 
-The sister asked who someone was.
+The teacher asked about the father's flight time, and he mentioned the plane leaves at six o'clock.
 
-The mother asked where something was.
+Christopher told the father he had gotten his binoculars back.
 
-The mother asked where something was.
+The father was impressed with the watch Christopher's grandmother gave him, which had a dog and boy running on it.
 
-The mother asked why something was the case.
+The father explained how clock hands work when the big hand is on the twelve, it's o'clock.
 
-The mother expressed appreciation.
+Christopher mentioned having a record that tells time and a rabbit.
 
-The mother asked who someone was.
+The father advised Christopher to take good care of his watch.
 
-The mother talked about their father.
+During a teacher-led activity, the investigator was asked to read a story to some children.
 
-The father asked who someone was.
+The investigator declined, saying he would read a story in a little while.
 
-The father addressed someone by name.
+Children requested the investigator hold things, keep items, or help them with tasks.
 
-The father asked what something was.
+Towards the end of the school day, Christopher's mother returned to pick him up.
 
-The investigator discussed recording equipment.
+The mother greeted the teacher and other parents who were picking up children.
 
-The investigator addressed someone by name.
+She helped Christopher remove his jacket and get ready to go home.
 
-The investigator expressed appreciation.
+Christopher carried his painted gingerbread boy that the mother was taking home.
 
-The child expressed a preference.
+The teacher reminded Christopher not to drop it because playdough figures break easily.
 
-The investigator asked a question.
+Christopher asked about different activities happening in the classroom.
 
-The mother talked about food and eating.
+At home, the investigator sat with the family for the bedtime ritual.
 
-The child talked about their mother.
+The mother began reading "The Cat in the Hat" by Dr. Seuss to Christopher and Jenny.
 
-The investigator expressed appreciation.
+Christopher participated by guessing what the cat was holding as the story progressed.
 
-The child addressed someone by name.
+The mother and children identified objects the cat could hold: cup, fish, umbrella, book, ball, plates, cake, hat, and books.
 
-The child expressed a preference.
+Christopher guessed "ship" when the mother said "boat."
 
-The sister asked what something was.
+The mother explained that "ship" rhymes better with "dish."
 
-The mother expressed appreciation.
+Christopher participated in the rhyming part of the story, saying words like "dish."
 
-The sister asked what something was.
+The investigator asked if he could listen to the story, and the mother welcomed him to join.
 
-The sister asked where something was.
+Christopher got excited about the stack of things the cat held.
 
-The investigator asked what something was.
+Jenny participated by pointing out details in the pictures.
 
-The child talked about their mother.
+Christopher and Jenny asked questions about what was happening in the illustrations.
 
-The investigator talked about food and eating.
+The mother explained that the cat fell on his head, causing him to be dazed.
 
-The child addressed someone by name.
+Christopher expressed concern for the "poor cat" when he got bumped.
 
-The mother asked who someone was.
+The mother assured him the cat would be alright.
 
-The sister asked where something was.
+Christopher asked about the cat sinking the toy ship in a cake.
 
-The father declined or disagreed.
+Jenny asked about pages being torn out or missing from the book.
 
-The mother talked about their mother.
+The mother explained that Thing One and Thing Two were coming out of a box.
 
-The investigator addressed someone by name.
+Christopher recognized the characters, saying "thing one and thing two" before the mother read it.
 
-The investigator expressed a preference.
+The investigator asked if both things were in the same box, and Christopher confirmed.
 
-The investigator talked about their mother.
+The mother continued reading about Thing One and Thing Two causing chaos in the house.
 
-The investigator asked where something was.
+Christopher and Jenny reacted to the mischievous things flying kites in the house.
 
-The sister asked what something was.
+The mother explained what the characters were doing in the pictures.
 
-The sister asked why something was the case.
+Christopher asked why characters had certain expressions or were doing particular actions.
 
-The sister talked about food and eating.
+Jenny asked about where characters were in the pictures, and the mother answered.
 
-The investigator talked about food and eating.
+The children asked if the mother in the story would spank the cat in the hat.
 
-The sister talked about their father.
+The mother asked Christopher what he thought would happen, and he said the cat would clean up quickly.
 
-FAD asked a question.
+As the story continued, Christopher expressed concern about the mess Thing One and Thing Two made.
 
-MAD asked to see or observe something.
+Christopher said he wouldn't let them come into his house and would throw them out.
 
-FAD asked how to do something.
+The mother explained that Thing One and Thing Two were pretend things in the book, not real.
 
-MAD asked a question.
+Christopher asked questions about why characters looked surprised or angry.
 
-FAD asked a question.
+The mother compared Christopher's concerns to how the fish felt about the things in the house.
 
-MAD asked a question.
+The mother explained the cat said the things were "good things" and "tame."
 
-MAD asked a question.
+Christopher watched as the cat opened a box with Thing One and Thing Two inside.
 
-The mother asked who someone was.
+The children reacted with surprise as Thing One and Thing Two caused chaos with kites.
 
-The child asked who someone was.
+The mother continued reading about Thing One and Thing Two running with kites and making a mess.
 
-FAD asked where something was.
+Christopher asked about details in the pictures, like what the character was pushing or pulling.
 
-FAD affirmed or agreed.
+The mother explained the little girl got caught in the kite string.
 
-MAD affirmed or agreed.
+Jenny asked about a television in the picture, and the mother said they didn't have one.
 
-MAD addressed someone by name.
+Christopher asked why characters were pushing things.
 
-FAD asked a question.
+The mother explained they were pulling, not pushing, and made a big mess.
 
-FAD affirmed or agreed.
+The story reached the climax when Thing One and Thing Two were caught in a net.
 
-The mother asked how to do something.
+The children listened as the narrator caught the things and told the cat to clean up.
 
-The child asked what something was called.
+The mother continued reading the story's resolution.
 
-The child asked who someone was.
+Christopher and Jenny listened as the cat apologized for the trouble caused.
 
-The child expressed appreciation.
+The mother read that the cat shut the things in the box and left with a sad look.
 
-The mother asked why something was the case.
+The mother asked if the children wanted her to continue or if they were ready for bed.
 
-FAD expressed appreciation.
+Christopher wanted to continue the story, and the mother obliged.
 
-FAD addressed someone by name.
+The story concluded with the narrator catching the things and the cat leaving.
 
-FAD addressed someone by name.
+The mother mentioned related Dr. Seuss stories like "Horton Hears a Who."
 
-A male child addressed someone by name.
+Christopher recalled the Horton story, and they discussed it briefly.
 
-A male child asked what something was.
+The mother said they had read two stories and asked if they wanted to put the books away.
 
-A male child asked a question.
+Christopher showed the investigator his action figure, which looked like Action Jackson or G.I. Joe.
 
-A male child asked a question.
+The investigator admired the toy, asking if it was action Jackson or someone else.
 
-A male child affirmed or agreed.
+The mother and Christopher discussed the action figure's identity.
 
-A male child declined or disagreed.
+The mother noticed something on her sock and wondered if it was playdough.
 
-A female child asked a question.
+Christopher watched his mother as she prepared for bedtime.
 
-A male child declined or disagreed.
+The mother asked if Christopher could tell his father goodnight.
 
-A female child asked what something was.
+Christopher told his father goodnight and then told the investigator goodnight.
 
-A male child asked a question.
+The investigator removed the recording equipment from Christopher, saying he had been helpful and patient.
 
-A male child addressed someone by name.
+The investigator thanked Christopher for wearing the transmitter all day.
 
-A male child addressed someone by name.
+The investigator said he would probably see Christopher tomorrow.
 
-The child expressed appreciation.
-
-The teacher expressed appreciation.
-
-The teacher asked what something was.
-
-The teacher declined or disagreed.
-
-The teacher asked what something was.
-
-The teacher asked what something was.
-
-The teacher asked to see or observe something.
-
-A male child asked to see or observe something.
-
-The teacher asked to see or observe something.
-
-A male child asked to see or observe something.
-
-The teacher affirmed or agreed.
-
-The teacher affirmed or agreed.
-
-The teacher declined or disagreed.
-
-The teacher expressed appreciation.
-
-A female child asked a question.
-
-A male child asked what something was.
-
-A female child addressed someone by name.
-
-A female child addressed someone by name.
-
-A female child affirmed or agreed.
-
-A male child gave or received an instruction.
-
-A male child gave or received an instruction.
-
-A male child asked where something was.
-
-A female child gave or received an instruction.
-
-A female child gave or received an instruction.
-
-The teacher asked who someone was.
-
-The teacher affirmed or agreed.
-
-A male child asked to see or observe something.
-
-The teacher expressed a preference.
-
-The teacher addressed someone by name.
-
-The teacher addressed someone by name.
-
-The teacher asked a question.
-
-The teacher asked a question.
-
-A female child asked who someone was.
-
-A female child asked who someone was.
-
-The child talked about names.
-
-The teacher declined or disagreed.
-
-A female child talked about their father.
-
-A female child talked about their father.
-
-A female child talked about their father.
-
-A female child affirmed or agreed.
-
-A male child talked about their father.
-
-A female child declined or disagreed.
-
-The investigator asked what something was.
-
-A female child asked a question.
-
-A female child gave or received an instruction.
-
-A female child made a direct request.
-
-The teacher talked about food and eating.
-
-The teacher asked a question.
-
-The teacher addressed someone by name.
-
-A female child affirmed or agreed.
-
-The child talked about food and eating.
-
-A female child talked about food and eating.
-
-The child talked about food and eating.
-
-The investigator declined or disagreed.
-
-A female child talked about food and eating.
-
-A female child addressed someone by name.
-
-The investigator declined or disagreed.
-
-The child talked about food and eating.
-
-A female child asked what something was.
-
-The investigator declined or disagreed.
-
-The teacher gave or received an instruction.
-
-The child expressed appreciation.
-
-The teacher asked where something was.
-
-A male child gave or received an instruction.
-
-The teacher expressed a preference.
-
-The teacher asked to see or observe something.
-
-A male child asked what something was.
-
-A female child asked to see or observe something.
-
-A female child asked to see or observe something.
-
-A male child affirmed or agreed.
-
-A male child affirmed or agreed.
-
-A male child expressed appreciation.
-
-A male child declined or disagreed.
-
-A male child asked where something was.
-
-A male child expressed a preference.
-
-A male child expressed a preference.
-
-A male child expressed a preference.
-
-The investigator expressed a preference.
-
-The teacher asked who someone was.
-
-The teacher talked about their mother.
-
-The teacher talked about their mother.
-
-FAD gave or received an instruction.
-
-The teacher expressed a preference.
-
-The teacher gave or received an instruction.
-
-A male child talked about food and eating.
-
-A male child talked about food and eating.
-
-A male child talked about food and eating.
-
-A male child asked why something was the case.
-
-A male child asked why something was the case.
-
-A male child talked about their mother.
-
-The teacher talked about food and eating.
-
-The teacher gave or received an instruction.
-
-The teacher asked where something was.
-
-A male child expressed appreciation.
-
-The teacher expressed appreciation.
-
-A male child asked where something was.
-
-A female child asked to see or observe something.
-
-The child asked who someone was.
-
-A female child declined or disagreed.
-
-The teacher asked who someone was.
-
-The teacher mentioned furniture or a storage area.
-
-The teacher mentioned furniture or a storage area.
-
-The teacher talked about food and eating.
-
-A female child declined or disagreed.
-
-A male child asked who someone was.
-
-A male child expressed appreciation.
-
-A male child talked about names.
-
-The investigator mentioned furniture or a storage area.
-
-A male child discussed a container or object.
-
-The investigator asked if someone had finished eating.
-
-The teacher mentioned furniture or a storage area.
-
-The teacher discussed a container or object.
-
-A female child asked what something was.
-
-A female child asked where something was.
-
-UNK asked a question.
-
-A female child mentioned their sister.
-
-A female child mentioned their sister.
-
-A female child mentioned their sister.
-
-A female child asked who someone was.
-
-The child asked why something was the case.
-
-FAD affirmed or agreed.
-
-FAD addressed someone by name.
-
-FAD asked what something was.
-
-FAD asked to see or observe something.
-
-FAD expressed appreciation.
-
-FAD asked what something was.
-
-FAD gave or received an instruction.
-
-FAD asked to see or observe something.
-
-The child asked why something was the case.
-
-The child talked about names.
-
-A female child expressed a preference.
-
-A female child expressed appreciation.
-
-A female child talked about their mother.
-
-The teacher talked about their mother.
-
-The teacher asked how to do something.
-
-The teacher asked how to do something.
-
-The teacher asked how to do something.
-
-The teacher asked where something was.
-
-A male child asked who someone was.
-
-A male child asked why something was the case.
-
-A male child talked about names.
-
-The teacher asked why something was the case.
-
-A female child expressed appreciation.
-
-A female child talked about their mother.
-
-A female child expressed appreciation.
-
-The sister talked about food and eating.
-
-The mother expressed a preference.
-
-The mother expressed a preference.
-
-The sister expressed a preference.
-
-The mother expressed a preference.
-
-The sister asked why something was the case.
-
-The mother asked how to do something.
-
-The mother asked why something was the case.
-
-The father declined or disagreed.
-
-The investigator mentioned their brother.
-
-The sister mentioned their brother.
-
-The sister expressed appreciation.
-
-The father asked a question.
-
-The sister expressed appreciation.
-
-The sister expressed a preference.
-
-The mother made a direct request.
-
-The sister expressed a preference.
-
-The father talked about food and eating.
-
-The investigator talked about food and eating.
-
-The father talked about names.
-
-The child mentioned furniture or a storage area.
-
-The child mentioned furniture or a storage area.
-
-The child discussed a container or object.
-
-A female child mentioned furniture or a storage area.
-
-The mother asked how to do something.
-
-The child mentioned furniture or a storage area.
-
-A female child expressed a preference.
-
-A female child expressed a preference.
-
-A female child talked about food and eating.
-
-A female child asked why something was the case.
-
-A female child asked why something was the case.
-
-The mother talked about their mother.
-
-A female child talked about their mother.
-
-A female child asked where something was.
-
-A female child asked where something was.
-
-The sister mentioned furniture or a storage area.
-
-The sister mentioned furniture or a storage area.
-
-FAD declined or disagreed.
-
-FAD expressed a preference.
-
-FAD declined or disagreed.
-
-FAD declined or disagreed.
-
-FAD asked to see or observe something.
-
-FAD expressed appreciation.
-
-FAD talked about food and eating.
-
-FAD talked about their mother.
-
-FAD talked about their mother.
-
-FAD talked about food and eating.
-
-FAD asked why something was the case.
-
-FAD gave or received an instruction.
-
-FAD talked about food and eating.
-
-FAD expressed a preference.
-
-FAD expressed a preference.
-
-FAD asked how to do something.
-
-FAD discussed recording equipment.
-
-FAD asked what something was.
-
-The mother discussed the transmitter.
-
-The child discussed recording equipment.
-
-The mother talked about their mother.
-
-The child asked why something was the case.
-
-A female child mentioned their brother.
-
-The sister made a direct request.
-
-The child made a direct request.
-
-The mother talked about names.
-
-The child made a direct request.
-
-The mother asked what something was called.
-
-The mother asked what something was called.
-
-The mother talked about names.
-
-The mother talked about names.
-
-The sister mentioned furniture or a storage area.
-
-The child asked if someone had finished eating.
-
-The sister asked if someone had finished eating.
-
-The father asked to see or observe something.
-
-The father asked to see or observe something.
-
-The father addressed someone by name.
-
-The investigator mentioned furniture or a storage area.
-
-The mother discussed a container or object.
-
-The child discussed a container or object.
-
-The mother discussed a container or object.
-
-The investigator discussed a container or object.
-
-The sister discussed a container or object.
-
-The mother discussed a container or object.
+The investigator officially ended the recording session.
 
