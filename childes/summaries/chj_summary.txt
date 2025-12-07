@@ -1,887 +1,922 @@
 Session: chj
-Situation: before school Chris , his mother , father , and younger sister Jenny are present. gb is also present.
-Participants: SIS Sister, CHI Target_Child, MOT Mother, FAT Father, EXP Investigator, FAD Adult, MAD Adult, MCH Child, FCH Child, TEA Teacher, GRA Grandmother, UNK Unidentified
-Total utterances: 8765
-Summary sentences: 438
-Compression ratio: 20.0 utterances per sentence
+Situation: before bed
+Total utterances: 9119
+Summary sentences: 456
+Compression ratio: 20.0:1
 
 ============================================================
 NARRATIVE SUMMARY
 ============================================================
 
-The child participated in the ongoing dialogue.
+The family members discussed father and displayed or showed something, and asked questions about how things worked.
 
-The child was talkative during this exchange.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child participated in the ongoing dialogue.
+The family members discussed father and mother, and displayed or showed something.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The child engaged with the mother and the sister about finished and hee.
+The family members discussed mother, asked questions about how things worked, and made requests.
 
-The conversation turned to school-related matters.
+The family members discussed father and asked questions about how things worked, and made requests.
 
-The child led much of the conversation.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child engaged with the investigator and the mother about rain.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child engaged with the investigator and the mother about earphone and one.
+The family members discussed father and mother, and displayed or showed something.
 
-Names and identity were mentioned.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child said "and you too !"
+The family members discussed sister, asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-Adults guided the conversation with the child.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The mother said "put what back ?"
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-The child was talkative during this exchange.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The child engaged with the investigator and the mother about chris.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-The child was talkative during this exchange.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-They discussed food and eating.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed father and displayed or showed something, and asked questions about how things worked.
 
-The child led much of the conversation.
+The family members discussed father and displayed or showed something, and asked questions about how things worked.
 
-The exchange was animated and expressive.
+The family members discussed displayed or showed something, and discussed eating.
 
-The child was talkative during this exchange.
+The family members discussed father and mother, and asked questions about how things worked.
 
-The investigator said "yea:h ."
+The family members discussed father, asked questions about how things worked, and discussed an injury.
 
-The conversation turned to school-related matters.
+The family members discussed mother and asked questions about how things worked, and played games or toys.
 
-The child said "and I'm gonna fish a fish !"
+The family members discussed made requests and interacted.
 
-The conversation was filled with questions and answers.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-The child said "and guess what this is ."
+The family members discussed asked questions about how things worked, laughed together, and discussed an injury.
 
-The child engaged with the mother and the sister about good and side.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The conversation was filled with questions and answers.
+The family members discussed asked questions about how things worked, laughed together, and discussed an injury.
 
-The child led much of the conversation.
+The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The conversation turned to school-related matters.
+The family members discussed asked questions about how things worked and interacted.
 
-The child was talkative during this exchange.
+The family members discussed made requests, and discussed an injury.
 
-The child led much of the conversation.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child engaged with the mother and the sister about mommy and paint.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child engaged with the mother and the sister about gun and dis.
+The family members discussed father and mother, and displayed or showed something.
 
-There was discussion about getting ready or being on time.
+The family members discussed mother, and displayed or showed something.
 
-The child was talkative during this exchange.
+The family members discussed mother, discussed an injury, and discussed eating.
 
-Adults guided the conversation with the child.
+The family members discussed mother, made requests, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Names and identity were mentioned.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The child engaged with the investigator and the mother about don and jacket.
+The family members discussed mother, asked questions about how things worked, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed asked questions about how things worked and made requests, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed mother and asked questions about how things worked, and discussed an injury.
 
-The child engaged with the investigator and the mother about door and close.
+The family members discussed father and mother, and laughed together.
 
-Adults guided the conversation with the child.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-The child engaged with the investigator and the mother about down and went.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-Adults guided the conversation with the child.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The child engaged with the mother and the sister about spahtturd and mommy.
+The family members discussed made requests, and discussed an injury.
 
-Names and identity were mentioned.
+The family members discussed mother, asked questions about how things worked, and made requests.
 
-The child said "look ."
+The family members discussed mother and interacted.
 
-The conversation was filled with questions and answers.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-The child engaged with the mother and the sister about don and yep.
+The family members discussed mother, and displayed or showed something.
 
-The child engaged with the mother and the sister about run and eddy.
+The family members discussed asked questions about how things worked, made requests, and discussed an injury.
 
-The child said "hey Jen(ny) ."
+The family members discussed displayed or showed something and asked questions about how things worked, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother, asked questions about how things worked, and made requests.
 
-The child asked the mother about bus and line.
+The family members discussed made requests, and discussed an injury.
 
-The child was talkative during this exchange.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child led much of the conversation.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The conversation was filled with questions and answers.
+The family members discussed father and displayed or showed something, and asked questions about how things worked.
 
-The child was talkative during this exchange.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child led much of the conversation.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The fad said "how are you doing ?"
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-Names and identity were mentioned.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-The child was talkative during this exchange.
+The family members discussed mother and asked questions about how things worked, and laughed together.
 
-The child engaged with another child and another child about chris and baby.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Another child said "no she can't believe i:t !"
+The family members discussed asked questions about how things worked, made requests, and discussed an injury.
 
-The child said "there he is !"
+The family members discussed displayed or showed something and asked questions about how things worked, and played games or toys.
 
-The child engaged with another child and another child about house and kick.
+The family members discussed displayed or showed something, and asked questions about how things worked.
 
-Another child said "go , go ."
+The family members discussed asked questions about how things worked, and made requests.
 
-The child was talkative during this exchange.
+The family members conversed together.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed made requests and interacted.
 
-Adults guided the conversation with the child.
+The family members discussed father and displayed or showed something, and asked questions about how things worked.
 
-Adults guided the conversation with the child.
+The family members discussed father and asked questions about how things worked, and made requests.
 
-The exchange was animated and expressive.
+The family members discussed father and made requests, and discussed an injury.
 
-The exchange was animated and expressive.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Another child interacted with the child regarding dad and somebody.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-Names and identity were mentioned.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The exchange was animated and expressive.
+The family members discussed asked questions about how things worked and made requests, and discussed an injury.
 
-Another child said "leave her alone dad !"
+The family members discussed father and asked questions about how things worked, and made requests.
 
-The child led much of the conversation.
+The family members discussed father and asked questions about how things worked, and made requests.
 
-There was discussion about getting ready or being on time.
+The family members discussed asked questions about how things worked, discussed an injury, and discussed eating.
 
-The child was talkative during this exchange.
+The family members discussed father and mother, and asked questions about how things worked.
 
-The child engaged with another child and the teacher about debbie and hello.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child was talkative during this exchange.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child was talkative during this exchange.
+The family members discussed mother, asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed asked questions about how things worked and interacted.
 
-The exchange was animated and expressive.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child led much of the conversation.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child led much of the conversation.
+The family members discussed mother and interacted.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something, asked questions about how things worked, and played games or toys.
 
-Play and games came up in the conversation.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-Names and identity were mentioned.
+The family members discussed displayed or showed something, laughed together, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something and asked questions about how things worked, and laughed together.
 
-The child and another child talked about dinosaur and haha.
+The family members discussed asked questions about how things worked, and made requests.
 
-The exchange was animated and expressive.
+The family members discussed played games or toys, and discussed an injury.
 
-There was discussion about getting ready or being on time.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-Another child said "I know !"
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-Another child said "they've got water in that ."
+The family members discussed asked questions about how things worked and made requests, and laughed together.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something and asked questions about how things worked, and laughed together.
 
-The child was talkative during this exchange.
+The family members discussed asked questions about how things worked, and played games or toys.
 
-The child participated in the ongoing dialogue.
+The family members discussed discussed an injury and interacted.
 
-Names and identity were mentioned.
+The family members discussed displayed or showed something and asked questions about how things worked, and laughed together.
 
-Adults guided the conversation with the child.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something, and asked questions about how things worked.
 
-The child was talkative during this exchange.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The child led much of the conversation.
+The family members discussed made requests, and laughed together.
 
-Names and identity were mentioned.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something and asked questions about how things worked, and discussed an injury.
 
-Names and identity were mentioned.
+The family members discussed displayed or showed something, discussed an injury, and discussed eating.
 
-The child was talkative during this exchange.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Another child said "I want a chair !"
+The family members discussed made requests and interacted.
 
-Adults guided the conversation with the child.
+The family members discussed made requests, discussed an injury, and discussed eating.
 
-Names and identity were mentioned.
+The family members discussed asked questions about how things worked and made requests, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, made requests, and discussed eating.
 
-The teacher said "okay practice finish ."
+The family members discussed discussed an injury and interacted.
 
-There was discussion about getting ready or being on time.
+The family members discussed made requests, and discussed an injury.
 
-The child led much of the conversation.
+The family members discussed made requests, and discussed an injury.
 
-The child engaged with the investigator and someone about dead and zoe.
+The family members discussed asked questions about how things worked and interacted.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something and asked questions about how things worked, and played games or toys.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Play and games came up in the conversation.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked and made requests, and laughed together.
 
-The child participated in the ongoing dialogue.
+The family members discussed made requests, laughed together, and discussed bedtime routines.
 
-Adults guided the conversation with the child.
+The family members discussed father and sister, and asked questions about how things worked.
 
-Adults guided the conversation with the child.
+The family members discussed father, sister, and asked questions about how things worked.
 
-The child was talkative during this exchange.
+The family members discussed father and displayed or showed something, and asked questions about how things worked.
 
-The child led much of the conversation.
+The family members discussed asked questions about how things worked, made requests, and played games or toys.
 
-The exchange was animated and expressive.
+The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
 
-The child engaged with another child and another child about dinosaur and doesn.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child and another child talked about haha and run.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-The exchange was animated and expressive.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Another child interacted with the child regarding climb and kong.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The child said "no , only ."
+The family members discussed displayed or showed something, and discussed an injury.
 
-The child was talkative during this exchange.
+The family members discussed asked questions about how things worked, and laughed together.
 
-Names and identity were mentioned.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The child led much of the conversation.
+The family members discussed father, asked questions about how things worked, and laughed together.
 
-The child led much of the conversation.
+The family members discussed laughed together, and discussed an injury.
 
-The child engaged with another child and another child about hey and escaped.
+The family members discussed laughed together and interacted.
 
-The exchange was animated and expressive.
+The family members discussed discussed an injury and interacted.
 
-The child engaged with another child and the teacher about hey and going.
+The family members discussed discussed an injury and interacted.
 
-The exchange was animated and expressive.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child led much of the conversation.
+The family members discussed laughed together, and discussed an injury.
 
-The child led much of the conversation.
+The family members discussed displayed or showed something, and discussed an injury.
 
-The exchange was animated and expressive.
+The family members discussed laughed together and interacted.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something, discussed an injury, and discussed bedtime routines.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother, and laughed together.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked and made requests, and laughed together.
 
-The child was talkative during this exchange.
+The family members discussed mother, and laughed together.
 
-The child participated in the ongoing dialogue.
+The family members discussed made requests, laughed together, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed laughed together, and discussed an injury.
 
-The child engaged with another child and the teacher about clay and kind.
+The family members discussed displayed or showed something and asked questions about how things worked, and laughed together.
 
-The child participated in the ongoing dialogue.
+The family members discussed made requests, played games or toys, and laughed together.
 
-Adults guided the conversation with the child.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child engaged with another child and the teacher about flour and write.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child engaged with another child and the teacher about else and salt.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-Names and identity were mentioned.
+The family members discussed asked questions about how things worked, and made requests.
 
-The child said "all of this ah , stuff in it ."
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, made requests, and discussed an injury.
 
-The child said "+, playdough cutter ?"
+The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-The child said "with apostrophe s ."
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child said "I did the bowl already ."
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something, asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, and played games or toys.
 
-The child engaged with the teacher and the mother about oven and dee.
+The family members discussed asked questions about how things worked and made requests, and played games or toys.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
 
-Names and identity were mentioned.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something and asked questions about how things worked, and played games or toys.
 
-The conversation turned to school-related matters.
+The family members discussed asked questions about how things worked, made requests, and discussed an injury.
 
-The conversation was filled with questions and answers.
+The family members discussed asked questions about how things worked, discussed an injury, and discussed eating.
 
-The child engaged with the investigator and the mother about school and tomorrow.
+The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The conversation was filled with questions and answers.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-Names and identity were mentioned.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-Names and identity were mentioned.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The conversation was filled with questions and answers.
+The family members discussed mother, and made requests.
 
-The child engaged with the mother and the sister about hands and jenny.
+The family members discussed mother, asked questions about how things worked, and made requests.
 
-The child engaged with the mother and the sister about tired and guess.
+The family members discussed asked questions about how things worked, made requests, and discussed an injury.
 
-Names and identity were mentioned.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-Names and identity were mentioned.
+The family members discussed mother and asked questions about how things worked, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed asked questions about how things worked and made requests, and discussed an injury.
 
-They discussed food and eating.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The child engaged with the mother and the sister about soup and today.
+The family members discussed father and asked questions about how things worked, and made requests.
 
-The mother said "what g words did they say so far ?"
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The conversation was filled with questions and answers.
+The family members discussed mother, and asked questions about how things worked.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed father and displayed or showed something, and asked questions about how things worked.
 
-The child participated in the ongoing dialogue.
+The family members discussed made requests, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child engaged with the mother and the sister about thick and won.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed mother, asked questions about how things worked, and discussed an injury.
 
-There was discussion about getting ready or being on time.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The mother said "okay ?"
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, made requests, and discussed an injury.
 
-The exchange was animated and expressive.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-They discussed food and eating.
+The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed father and mother, and asked questions about how things worked.
 
-The child engaged with the mother and the sister about girl and dis.
+The family members discussed father and mother, and displayed or showed something.
 
-There was discussion about getting ready or being on time.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The mother said "okay come on ."
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-The mother said "I'm sure they're clean by now ."
+The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
 
-They discussed food and eating.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The child led much of the conversation.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child engaged with another child and the mother about house and room.
+The family members discussed played games or toys, discussed an injury, and discussed eating.
 
-The child led much of the conversation.
+The family members discussed father and mother, and asked questions about how things worked.
 
-There was discussion about getting ready or being on time.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child was talkative during this exchange.
+The family members discussed mother and laughed together, and discussed an injury.
 
-The child engaged with another child and the sister about bed and taking.
+The family members discussed displayed or showed something and asked questions about how things worked, and played games or toys.
 
-The mother and the child discussed manager and boss.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The child was talkative during this exchange.
+The family members discussed asked questions about how things worked, discussed eating, and discussed bedtime routines.
 
-The child engaged with the sister and another child about bed and hafta.
+The family members discussed father and mother, and asked questions about how things worked.
 
-The child engaged with another child and the sister about bed and house.
+The family members discussed father and mother, and asked questions about how things worked.
 
-The exchange was animated and expressive.
+The family members discussed made requests, played games or toys, and discussed an injury.
 
-The child led much of the conversation.
+The family members discussed mother, asked questions about how things worked, and discussed an injury.
 
-The conversation turned to school-related matters.
+The family members discussed mother, and asked questions about how things worked.
 
-The child engaged with another child and another child about record and duh.
+The family members discussed displayed or showed something, asked questions about how things worked, and played games or toys.
 
-The child participated in the ongoing dialogue.
+The family members discussed father and displayed or showed something, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed father and mother, and displayed or showed something.
 
-Names and identity were mentioned.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something, and discussed bedtime routines.
 
-The child was talkative during this exchange.
+The family members discussed father, discussed an injury, and discussed bedtime routines.
 
-The mother said "it tastes the same anyway ."
+The family members discussed father, discussed an injury, and discussed bedtime routines.
 
-The child said "noodles ."
+The family members discussed discussed an injury, and discussed bedtime routines.
 
-The child engaged with another child and the mother about don and grapefruit.
+The family members discussed made requests, discussed an injury, and discussed bedtime routines.
 
-The child engaged with the mother and the sister about jelly and mayonnaise.
+The family members discussed father and made requests, and played games or toys.
 
-They discussed food and eating.
+The family members discussed sister, displayed or showed something, and asked questions about how things worked.
 
-Another child said "daetz good ."
+The family members discussed mother and made requests, and played games or toys.
 
-Another child said "+, , &-um jelly ."
+The family members discussed sister and asked questions about how things worked, and discussed an injury.
 
-The child said "she means ."
+The family members discussed displayed or showed something and made requests, and played games or toys.
 
-Names and identity were mentioned.
+The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
 
-The child engaged with the mother and the sister about never and tried.
+The family members discussed father and mother, and displayed or showed something.
 
-The mother said "I'll ask her about it ."
+The family members discussed mother, asked questions about how things worked, and made requests.
 
-The child engaged with another child and the mother about baby and food.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The child engaged with the mother and the sister about listen and hello.
+The family members discussed mother, made requests, and discussed an injury.
 
-They discussed food and eating.
+The family members discussed displayed or showed something, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something, and asked questions about how things worked.
 
-Adults guided the conversation with the child.
+The family members discussed mother, and discussed eating.
 
-Names and identity were mentioned.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed discussed an injury and interacted.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, made requests, and discussed an injury.
 
-The conversation was filled with questions and answers.
+The family members discussed mother and asked questions about how things worked, and discussed an injury.
 
-The conversation turned to school-related matters.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The conversation was filled with questions and answers.
+The family members discussed sister and displayed or showed something, and asked questions about how things worked.
 
-They discussed food and eating.
+The family members discussed displayed or showed something and asked questions about how things worked, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed made requests, and discussed an injury.
 
-The child engaged with another child and the mother about woman and old.
+The family members discussed mother and displayed or showed something, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, made requests, and discussed an injury.
 
-The child engaged with the mother and the fad about finish and eating.
+The family members discussed displayed or showed something, and discussed an injury.
 
-The mother and the fad discussed help and never.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child engaged with the teacher and the mother about made and one.
+The family members discussed mother, and discussed an injury.
 
-The mother and the fad discussed made and one.
+The family members discussed mother, and discussed an injury.
 
-The conversation turned to school-related matters.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The fad said "I missed it , but you know something ?"
+The family members discussed mother, displayed or showed something, and discussed an injury.
 
-They discussed food and eating.
+The family members discussed made requests, discussed an injury, and discussed eating.
 
-The child engaged with the mother and the fad about ask and pick.
+The family members discussed made requests, and discussed an injury.
 
-The teacher and the mother discussed honey and jenny.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, made requests, and discussed eating.
 
-Adults guided the conversation with the child.
+The family members discussed mother, made requests, and discussed eating.
 
-The child participated in the ongoing dialogue.
+The family members discussed discussed eating and interacted.
 
-The child engaged with the mother and the fad about eat and food.
+The family members discussed mother and asked questions about how things worked, and discussed an injury.
 
-The mother and the fad discussed kutz.
+The family members discussed displayed or showed something, made requests, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother, displayed or showed something, and played games or toys.
 
-The child said "ah , ."
+The family members discussed displayed or showed something, discussed an injury, and discussed eating.
 
-They discussed food and eating.
+The family members discussed mother, asked questions about how things worked, and discussed an injury.
 
-They discussed food and eating.
+The family members discussed mother, and discussed an injury.
 
-The child engaged with the mother and the sister about wait and lollipop.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-Names and identity were mentioned.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child engaged with the mother and the fad about way.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child engaged with the mother and the fad about teacher and way.
+The family members discussed displayed or showed something, made requests, and discussed eating.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something, and discussed eating.
 
-The child participated in the ongoing dialogue.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-They discussed food and eating.
+The family members discussed discussed an injury, and discussed eating.
 
-The child engaged with the mother and the fad about don and bargain.
+The family members discussed mother and asked questions about how things worked, and discussed an injury.
 
-The child led much of the conversation.
+The family members discussed mother and displayed or showed something, and discussed an injury.
 
-The child led much of the conversation.
+The family members discussed asked questions about how things worked and discussed an injury, and discussed eating.
 
-The conversation turned to school-related matters.
+The family members discussed asked questions about how things worked, discussed an injury, and discussed eating.
 
-The child engaged with another child and the mother about don and lollipop.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child was talkative during this exchange.
+The family members discussed mother and asked questions about how things worked, and discussed an injury.
 
-They discussed food and eating.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child led much of the conversation.
+The family members discussed sister and displayed or showed something, and asked questions about how things worked.
 
-The mother said "wait ."
+The family members discussed mother and asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed mother and asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something and made requests, and discussed an injury.
 
-The child engaged with another child and the sister about helen and chris.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child was talkative during this exchange.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child was talkative during this exchange.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child engaged with another child and the mother about play and live.
+The family members discussed asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something and asked questions about how things worked, and discussed an injury.
 
-Names and identity were mentioned.
+The family members discussed mother, displayed or showed something, and discussed an injury.
 
-The mother said "okay ."
+The family members discussed made requests, discussed an injury, and discussed eating.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and displayed or showed something, and discussed an injury.
 
-The mother said "can anybody say the blessing ?"
+The family members discussed asked questions about how things worked and made requests, and discussed an injury.
 
-The child led much of the conversation.
+The family members discussed displayed or showed something, made requests, and discussed an injury.
 
-The child engaged with the mother and the sister about mommy and don.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child engaged with the mother and the sister about snowed and robber.
+The family members discussed asked questions about how things worked, discussed an injury, and discussed eating.
 
-The child engaged with the mother and the sister about police and don.
+The family members discussed asked questions about how things worked, made requests, and discussed an injury.
 
-The child engaged with the mother and the sister about felice and bernice.
+The family members discussed displayed or showed something, asked questions about how things worked, and made requests.
 
-Names and identity were mentioned.
+The family members discussed displayed or showed something and asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed mother and sister, and asked questions about how things worked.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-They discussed food and eating.
+The family members displayed or showed something.
 
-The child said "and dey're big ."
+The family members discussed displayed or showed something, and discussed eating.
 
-Adults guided the conversation with the child.
+The family members discussed mother and displayed or showed something, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed mother, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The mother said "was he ?"
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child was talkative during this exchange.
+The family members discussed mother and made requests, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-Names and identity were mentioned.
+The family members discussed asked questions about how things worked, made requests, and discussed an injury.
 
-The child was talkative during this exchange.
+The family members discussed mother, asked questions about how things worked, and discussed an injury.
 
-The conversation turned to school-related matters.
+The family members discussed displayed or showed something, and discussed an injury.
 
-The child said "and ..."
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The mother said "o:h I know what you're talking about !"
+The family members discussed asked questions about how things worked, and discussed eating.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child said "I'm ma:d !"
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members displayed or showed something.
 
-The conversation turned to school-related matters.
+The family members discussed displayed or showed something, discussed an injury, and discussed eating.
 
-Adults guided the conversation with the child.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child engaged with the mother and the sister about time and mhm.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-The child engaged with the mother and the sister about martin and rocketships.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child led much of the conversation.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The mother and the sister discussed feed and eating.
+The family members discussed father and laughed together, and discussed eating.
 
-The child engaged with the mother and the sister about beat and todd.
+The family members discussed father and mother, and displayed or showed something.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, made requests, and discussed an injury.
 
-The sister said "dis is ..."
+The family members discussed discussed an injury and interacted.
 
-The child engaged with the mother and the sister about finished and robbie.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-Names and identity were mentioned.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something and asked questions about how things worked, and laughed together.
 
-Adults guided the conversation with the child.
+The family members discussed displayed or showed something and asked questions about how things worked, and discussed an injury.
 
-Names and identity were mentioned.
+The family members discussed displayed or showed something and asked questions about how things worked, and laughed together.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother, discussed an injury, and discussed eating.
 
-They discussed food and eating.
+The family members discussed discussed an injury and interacted.
 
-The child was talkative during this exchange.
+The family members discussed mother, played games or toys, and discussed an injury.
 
-They discussed food and eating.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-Play and games came up in the conversation.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed mother and made requests, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed made requests, discussed an injury, and discussed eating.
 
-The child led much of the conversation.
+The family members discussed asked questions about how things worked and made requests, and played games or toys.
 
-The child led much of the conversation.
+The family members discussed mother, asked questions about how things worked, and discussed an injury.
 
-The child engaged with the mother and the sister about eat and dis.
+The family members discussed displayed or showed something, and discussed eating.
 
-Adults guided the conversation with the child.
+The family members discussed mother and interacted.
 
-The child engaged with the mother and the sister about song and sing.
+The family members discussed mother and asked questions about how things worked, and played games or toys.
 
-The mother said "she wants to sing it by herself ."
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed mother and made requests, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and asked questions about how things worked, and laughed together.
 
-Adults guided the conversation with the child.
+The family members discussed mother and displayed or showed something, and made requests.
 
-The child said "it means , it mean spanking ."
+The family members discussed mother and displayed or showed something, and discussed an injury.
 
-The exchange was animated and expressive.
+The family members discussed father and mother, and asked questions about how things worked.
 
-Adults guided the conversation with the child.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-Names and identity were mentioned.
+The family members discussed mother and made requests, and laughed together.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and asked questions about how things worked, and laughed together.
 
-The child participated in the ongoing dialogue.
+The family members discussed father, discussed an injury, and discussed eating.
 
-The child was talkative during this exchange.
+The family members discussed mother, asked questions about how things worked, and discussed an injury.
 
-They discussed food and eating.
+The family members discussed made requests, discussed an injury, and discussed eating.
 
-They discussed food and eating.
+The family members discussed mother and asked questions about how things worked, and laughed together.
 
-The child was talkative during this exchange.
+The family members discussed laughed together and interacted.
 
-The child engaged with the mother and the sister about one and two.
+The family members discussed asked questions about how things worked, discussed an injury, and discussed eating.
 
-The mother and the sister discussed foot and tired.
+The family members discussed made requests, and discussed an injury.
 
-The conversation was filled with questions and answers.
+The family members discussed displayed or showed something, and made requests.
 
-The child engaged with the mother and the sister about pinch and many.
+The family members discussed discussed an injury, and discussed eating.
 
-The child participated in the ongoing dialogue.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, made requests, and discussed eating.
 
-Names and identity were mentioned.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The conversation was filled with questions and answers.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The exchange was animated and expressive.
+The family members discussed mother and displayed or showed something, and discussed an injury.
 
-Play and games came up in the conversation.
+The family members discussed mother and asked questions about how things worked, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The mother said "do you want some of the ?"
+The family members discussed laughed together, and discussed eating.
 
-The child and the mother talked about don and worry.
+The family members discussed discussed an injury, and discussed eating.
 
-The child and the mother talked about don and one.
+The family members discussed displayed or showed something and made requests, and discussed an injury.
 
-The mother and the child discussed don.
+The family members discussed asked questions about how things worked and interacted.
 
-The mother and the child discussed good and tooth.
+The family members discussed laughed together, and discussed an injury.
 
-The child engaged with the mother and the father about please and show.
+The family members discussed mother and asked questions about how things worked, and discussed an injury.
 
-The child engaged with the mother and the sister about mustard and powdered.
+The family members discussed mother, asked questions about how things worked, and discussed an injury.
 
-The child engaged with the mother and the sister about powdered and mustard.
+The family members discussed mother and asked questions about how things worked, and discussed an injury.
 
-The child was talkative during this exchange.
+The family members discussed asked questions about how things worked, made requests, and discussed an injury.
 
-The investigator said "excuse me Barbara ."
+The family members discussed mother and displayed or showed something, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-Adults guided the conversation with the child.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-There was discussion about getting ready or being on time.
+The family members discussed asked questions about how things worked, and laughed together.
 
-Adults guided the conversation with the child.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members discussed asked questions about how things worked, and laughed together.
 
-The child engaged with the investigator and the mother about hold and boat.
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
 
-The child participated in the ongoing dialogue.
+The family members discussed asked questions about how things worked and made requests, and discussed an injury.
 
-The child engaged with the mother and the sister about milk and hold.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The mother said "oh , no , that is not all ."
+The family members discussed asked questions about how things worked, discussed an injury, and discussed bedtime routines.
 
-The child engaged with the mother and the sister about fish.
+The family members discussed asked questions about how things worked, made requests, and discussed an injury.
 
-Play and games came up in the conversation.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-Play and games came up in the conversation.
+The family members discussed asked questions about how things worked, and made requests.
 
-The child and the mother talked about sank and toy.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and laughed together, and discussed an injury.
 
-Names and identity were mentioned.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The sister said "mommy , what's this ?"
+The family members discussed father and mother, and asked questions about how things worked.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed father and mother, and laughed together.
 
-Adults guided the conversation with the child.
+The family members discussed father and displayed or showed something, and asked questions about how things worked.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child engaged with the mother and the sister about pushing and caught.
+The family members conversed together.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-Adults guided the conversation with the child.
+The family members displayed or showed something.
 
-The mother and the sister discussed mother and fish.
+The family members discussed asked questions about how things worked, and discussed an injury.
 
-There was discussion about getting ready or being on time.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child said "plap ."
+The family members discussed mother and displayed or showed something, and played games or toys.
 
-The child engaged with the mother and the sister about horton and shame.
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
 
-The child participated in the ongoing dialogue.
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
 
-The child participated in the ongoing dialogue.
+The family members discussed displayed or showed something, and discussed an injury.
 
-The conversation continued as the session neared its end.
+The family members discussed displayed or showed something and asked questions about how things worked, and played games or toys.
+
+The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+
+The family members discussed displayed or showed something and asked questions about how things worked, and played games or toys.
+
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+
+The family members discussed mother and asked questions about how things worked, and made requests.
+
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+
+The family members discussed mother, discussed an injury, and discussed bedtime routines.
+
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+
+The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+
+The family members discussed mother and displayed or showed something, and made requests.
+
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+
+The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+
+The family members discussed mother, asked questions about how things worked, and discussed bedtime routines.
+
+The family members discussed father and mother, and displayed or showed something.
+
+The family members discussed father and mother, and asked questions about how things worked.
+
+The family members discussed father and displayed or showed something, and played games or toys.
 

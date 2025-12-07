@@ -1,505 +1,519 @@
 Session: ded
-Situation: prior to going to school the equipment has malfunctioned. the experimenters channel is out completely. the other channel is is staticky and the signal fades in and out.
-Participants: CHI Target_Child, MOT Mother, BRO Brother, FAT Father, EXP Investigator, TEL Media, UNK Unidentified, TEA Teacher, MCH Child, FCH Child, GRO Unidentified, TCA Adult, FAD Adult
-Total utterances: 4933
-Summary sentences: 247
-Compression ratio: 20.0 utterances per sentence
+Situation: before bed
+Total utterances: 5083
+Summary sentences: 255
+Compression ratio: 19.9:1
 
 ============================================================
 NARRATIVE SUMMARY
 ============================================================
 
-The child engaged with the brother and the mother about winston and coming.
+They discussed family members including relatives who lived in other places.
 
-The child engaged with the investigator and the mother about microphone and don.
+They discussed the recording equipment and the microphone apparatus.
 
-The child led much of the conversation.
+They discussed the recording equipment and the microphone apparatus.
 
-The child and the father talked about gave and name.
+The family discussed school and educational topics.
 
-The child was talkative during this exchange.
+They discussed family members including relatives who lived in other places.
 
-The investigator said "Carl ."
+They discussed vehicles and travel.
 
-The child was talkative during this exchange.
+They talked about bedtime and sleeping arrangements.
 
-There was discussion about getting ready or being on time.
+The family discussed school and educational topics.
 
-Names and identity were mentioned.
+The family discussed school and educational topics.
 
-The child participated in the ongoing dialogue.
+The participants talked about watching television or movies.
 
-The child engaged with the investigator and the father about watch and train.
+The participants engaged in playful conversation or games.
 
-The child was talkative during this exchange.
+The family had a multi-person discussion about simon and other topics.
 
-The child was talkative during this exchange.
+They discussed the recording equipment and the microphone apparatus.
 
-The child led much of the conversation.
+The family talked about the weather and what clothing to wear outside.
 
-The child participated in the ongoing dialogue.
+They discussed family members including relatives who lived in other places.
 
-There was discussion about getting ready or being on time.
+They discussed vehicles and travel.
 
-Adults guided the conversation with the child.
+They discussed vehicles and travel.
 
-Adults guided the conversation with the child.
+They discussed family members including relatives who lived in other places.
 
-The child engaged with the investigator and the mother about out and yesterday.
+They discussed family members including relatives who lived in other places.
 
-The child and the investigator talked about hates and turn.
+They discussed vehicles and travel.
 
-The child engaged with the investigator and the father about easy.
+The family discussed basket and oh.
 
-The conversation turned to school-related matters.
+The family discussed school and educational topics.
 
-Play and games came up in the conversation.
+They talked about toys and stuffed animals.
 
-The child participated in the ongoing dialogue.
+The participants engaged in playful conversation or games.
 
-The child participated in the ongoing dialogue.
+The family talked about the weather and what clothing to wear outside.
 
-The child said "uhuh ."
+The family talked about the weather and what clothing to wear outside.
 
-The child was talkative during this exchange.
+They discussed vehicles and travel.
 
-There was discussion about getting ready or being on time.
+They discussed family members including relatives who lived in other places.
 
-The conversation turned to school-related matters.
+The family discussed school and educational topics.
 
-Adults guided the conversation with the child.
+The participants engaged in playful conversation or games.
 
-Adults guided the conversation with the child.
+The family talked about the weather and what clothing to wear outside.
 
-There was discussion about getting ready or being on time.
+They discussed family members including relatives who lived in other places.
 
-Adults guided the conversation with the child.
+They discussed family members including relatives who lived in other places.
 
-Adults guided the conversation with the child.
+The family discussed school and educational topics.
 
-The child participated in the ongoing dialogue.
+The family talked about the weather and what clothing to wear outside.
 
-The child participated in the ongoing dialogue.
+The family discussed school and educational topics.
 
-The child participated in the ongoing dialogue.
+The family talked about eating and food preparation.
 
-Adults guided the conversation with the child.
+The family had a multi-person discussion about wasn and other topics.
 
-The child participated in the ongoing dialogue.
+They talked about bedtime and sleeping arrangements.
 
-The child participated in the ongoing dialogue.
+They discussed family members including relatives who lived in other places.
 
-The child participated in the ongoing dialogue.
+They discussed vehicles and travel.
 
-The child and the mother talked about knapsack and glove.
+The family discussed don and oh.
 
-The child was talkative during this exchange.
+They discussed drawing or pictures.
 
-The child participated in the ongoing dialogue.
+The family had a multi-person discussion about odd and other topics.
 
-The child was talkative during this exchange.
+The family discussed school and educational topics.
 
-The child engaged with another child and someone about darling and hey.
+They discussed the recording equipment and the microphone apparatus.
 
-The child engaged with another child and the mother about dexter and bike.
+The participants engaged in playful conversation or games.
 
-The child engaged with the investigator and another child about talks and fixed.
+The family had a multi-person discussion about fixed and other topics.
 
-The child was talkative during this exchange.
+The participants talked about watching television or movies.
 
-Adults guided the conversation with the child.
+They discussed the recording equipment and the microphone apparatus.
 
-The child engaged with the investigator and another child about yow and crazy.
+They discussed the recording equipment and the microphone apparatus.
 
-Another child interacted with the child regarding hey and foot.
+The family had a multi-person discussion about yow and other topics.
 
-The child participated in the ongoing dialogue.
+The participants engaged in playful conversation or games.
 
-The child engaged with the investigator and another child about tape and nothing.
+The participants engaged in playful conversation or games.
 
-The child participated in the ongoing dialogue.
+The family talked about eating and food preparation.
 
-The child was talkative during this exchange.
+The family discussed school and educational topics.
 
-The child engaged with the investigator and another child about glass and sun.
+The family had a multi-person discussion about diamond and other topics.
 
-Adults guided the conversation with the child.
+The family talked about eating and food preparation.
 
-The child said "no he isn't !"
+The family talked about eating and food preparation.
 
-The child participated in the ongoing dialogue.
+The family talked about eating and food preparation.
 
-The child engaged with another child and the teacher about yeck and taste.
+The participants discussed drinks and beverage options.
 
-The child participated in the ongoing dialogue.
+They discussed family members including relatives who lived in other places.
 
-The child participated in the ongoing dialogue.
+The participants discussed drinks and beverage options.
 
-There was discussion about getting ready or being on time.
+The participants discussed drinks and beverage options.
 
-Another child said "I got lots of books ."
+The participants discussed drinks and beverage options.
 
-The child participated in the ongoing dialogue.
+The family had a multi-person discussion about turn and other topics.
 
-The conversation turned to school-related matters.
+The participants discussed drinks and beverage options.
 
-The child participated in the ongoing dialogue.
+The family discussed school and educational topics.
 
-The conversation turned to school-related matters.
+The family had a multi-person discussion about way and other topics.
 
-The child participated in the ongoing dialogue.
+The participants discussed drinks and beverage options.
 
-The child participated in the ongoing dialogue.
+The participants discussed drinks and beverage options.
 
-Another child said ", oh yeah ."
+They discussed the recording equipment and the microphone apparatus.
 
-The child engaged with the investigator and another child about down and wait.
+The participants discussed drinks and beverage options.
 
-There was discussion about getting ready or being on time.
+They discussed the recording equipment and the microphone apparatus.
 
-The conversation turned to school-related matters.
+The family had a multi-person discussion about now and other topics.
 
-Adults guided the conversation with the child.
+The family discussed school and educational topics.
 
-The exchange was animated and expressive.
+The family talked about the weather and what clothing to wear outside.
 
-The child engaged with another child and someone about machine and dut.
+The family talked about eating and food preparation.
 
-Another child said "I wanna show what what I ..."
+They discussed family members including relatives who lived in other places.
 
-The exchange was animated and expressive.
+The family talked about eating and food preparation.
 
-The child participated in the ongoing dialogue.
+The family discussed eddy and hey.
 
-The child participated in the ongoing dialogue.
+They talked about toys and stuffed animals.
 
-The child engaged with another child and a group member about hey and kyle.
+The family had a multi-person discussion about look and other topics.
 
-The exchange was animated and expressive.
+The family had a multi-person discussion about something and other topics.
 
-Another child interacted with the child regarding house and gun.
+The participants discussed drinks and beverage options.
 
-There was discussion about getting ready or being on time.
+They discussed drawing or pictures.
 
-The child was talkative during this exchange.
+The participants engaged in playful conversation or games.
 
-The child and another child talked about decky and bike.
+They discussed vehicles and travel.
 
-Play and games came up in the conversation.
+The family discussed off and let.
 
-Another child said "behind you ."
+The family talked about the weather and what clothing to wear outside.
 
-Adults guided the conversation with the child.
+The family talked about the weather and what clothing to wear outside.
 
-Another child said "alright ?"
+They discussed the recording equipment and the microphone apparatus.
 
-Adults guided the conversation with the child.
+The family had a multi-person discussion about some and other topics.
 
-Another child and the teacher discussed ball and sang.
+The family had a multi-person discussion about gonna and other topics.
 
-Another child and the teacher discussed harry and door.
+The participants engaged in playful conversation or games.
 
-Another child and the teacher discussed harry and cows.
+They discussed family members including relatives who lived in other places.
 
-The child engaged with another child and the teacher about mooed and harry.
+They discussed family members including relatives who lived in other places.
 
-The teacher said "what number is that ?"
+They talked about bedtime and sleeping arrangements.
 
-The conversation turned to school-related matters.
+The family discussed school and educational topics.
 
-Adults guided the conversation with the child.
+They talked about bedtime and sleeping arrangements.
 
-The teacher said "a few nights after that the family ."
+The family discussed school and educational topics.
 
-The child engaged with another child and the teacher about lady and next.
+They talked about bedtime and sleeping arrangements.
 
-Adults guided the conversation with the child.
+They talked about bedtime and sleeping arrangements.
 
-Play and games came up in the conversation.
+The participants discussed drinks and beverage options.
 
-The child engaged with the teacher and another child about end and play.
+They discussed music and singing.
 
-The child engaged with another child and the teacher about don and little.
+They talked about bedtime and sleeping arrangements.
 
-Names and identity were mentioned.
+The participants engaged in playful conversation or games.
 
-The investigator said "is your microphone uncomfortable ?"
+They discussed vehicles and travel.
 
-Names and identity were mentioned.
+They discussed the recording equipment and the microphone apparatus.
 
-The child participated in the ongoing dialogue.
+They discussed the recording equipment and the microphone apparatus.
 
-Adults guided the conversation with the child.
+The family had a multi-person discussion about dexter and other topics.
 
-The child engaged with the teacher and another child about two and one.
+The family had a multi-person discussion about calvin and other topics.
 
-Another child and the teacher discussed woah and four.
+They discussed the recording equipment and the microphone apparatus.
 
-Another child interacted with the child regarding one and two.
+The family had a multi-person discussion about two and other topics.
 
-The child led much of the conversation.
+They discussed drawing or pictures.
 
-The child participated in the ongoing dialogue.
+The family discussed one and two.
 
-Names and identity were mentioned.
+The family had a multi-person discussion about first and other topics.
 
-There was discussion about getting ready or being on time.
+The family had a multi-person discussion about gonna and other topics.
 
-The child and the mother talked about different and jasper.
+The family had a multi-person discussion about johnny and other topics.
 
-The mother and the child discussed cookies and filling.
+The family talked about eating and food preparation.
 
-The mother interacted with the child regarding cookie and tricky.
+They talked about bedtime and sleeping arrangements.
 
-The child was talkative during this exchange.
+The family talked about eating and food preparation.
 
-The child was talkative during this exchange.
+The participants discussed drinks and beverage options.
 
-The brother and the child discussed one and share.
+The family talked about eating and food preparation.
 
-The child asked the father about fine and school.
+They discussed the recording equipment and the microphone apparatus.
 
-The child engaged with the brother and the father about hansc and uhhuh.
+The family talked about eating and food preparation.
 
-The child led much of the conversation.
+They discussed the recording equipment and the microphone apparatus.
 
-They discussed food and eating.
+The family discussed school and educational topics.
 
-They discussed food and eating.
+They discussed the recording equipment and the microphone apparatus.
 
-The child participated in the ongoing dialogue.
+They discussed vehicles and travel.
 
-The child engaged with the investigator and the mother about dit and yai.
+The family talked about eating and food preparation.
 
-The child engaged with the investigator and the mother about fried and sauce.
+The family had a multi-person discussion about oh and other topics.
 
-The child engaged with the investigator and the brother about freakies and sleep.
+The participants discussed drinks and beverage options.
 
-The child led much of the conversation.
+The family talked about the weather and what clothing to wear outside.
 
-The child led much of the conversation.
+They talked about bedtime and sleeping arrangements.
 
-The child was talkative during this exchange.
+The family had a multi-person discussion about gonna and other topics.
 
-Names and identity were mentioned.
+They talked about toys and stuffed animals.
 
-The child participated in the ongoing dialogue.
+They discussed vehicles and travel.
 
-The child was talkative during this exchange.
+The family talked about the weather and what clothing to wear outside.
 
-The child participated in the ongoing dialogue.
+They discussed the recording equipment and the microphone apparatus.
 
-The child engaged with the brother and the investigator about ear and dexter.
+They discussed the recording equipment and the microphone apparatus.
 
-The child led much of the conversation.
+They talked about bedtime and sleeping arrangements.
 
-The child engaged with the brother and the mother about signal and david.
+The family had a multi-person discussion about things and other topics.
 
-The child engaged with the investigator and the mother about don and strong.
+They discussed the recording equipment and the microphone apparatus.
 
-The child was talkative during this exchange.
+They discussed the recording equipment and the microphone apparatus.
 
-The child engaged with the mother and someone about two and dae.
+They discussed family members including relatives who lived in other places.
 
-There was discussion about getting ready or being on time.
+The participants talked about watching television or movies.
 
-The child engaged with the brother and the mother about talk and cause.
+They discussed vehicles and travel.
 
-The child was talkative during this exchange.
+The family had a multi-person discussion about dae and other topics.
 
-The child engaged with the investigator and the brother about six and one.
+They discussed the recording equipment and the microphone apparatus.
 
-The child participated in the ongoing dialogue.
+They discussed the recording equipment and the microphone apparatus.
 
-The child participated in the ongoing dialogue.
+They discussed family members including relatives who lived in other places.
 
-The child engaged with the investigator and the brother about two and wait.
+The family had a multi-person discussion about six and other topics.
 
-The child engaged with the brother and the investigator about turn and jail.
+They discussed music and singing.
 
-The child engaged with the brother and the investigator about buy and any.
+The family had a multi-person discussion about turns and other topics.
 
-The child participated in the ongoing dialogue.
+The participants talked about watching television or movies.
 
-Adults guided the conversation with the child.
+They discussed vehicles and travel.
 
-The child engaged with the brother and the investigator about fixed and time.
+They discussed family members including relatives who lived in other places.
 
-The child engaged with the investigator and the brother about fixed and don.
+The family had a multi-person discussion about dollars and other topics.
 
-The investigator and the brother discussed ten and gave.
+They discussed the recording equipment and the microphone apparatus.
 
-The brother and the investigator discussed five and two.
+They discussed vehicles and travel.
 
-Adults guided the conversation with the child.
+They discussed the recording equipment and the microphone apparatus.
 
-The child participated in the ongoing dialogue.
+The family had a multi-person discussion about six and other topics.
 
-The child engaged with the investigator and the mother about dinner and minutes.
+They discussed vehicles and travel.
 
-The child participated in the ongoing dialogue.
+The family had a multi-person discussion about david and other topics.
 
-The child engaged with the mother and the father about don and butter.
+They discussed the recording equipment and the microphone apparatus.
 
-Adults guided the conversation with the child.
+The family talked about eating and food preparation.
 
-Adults guided the conversation with the child.
+They discussed the recording equipment and the microphone apparatus.
 
-The child engaged with the mother and the fad about hat and meatballs.
+They discussed family members including relatives who lived in other places.
 
-The child participated in the ongoing dialogue.
+They discussed vehicles and travel.
 
-The child participated in the ongoing dialogue.
+The family talked about eating and food preparation.
 
-The child engaged with the mother and the investigator about honey and pancake.
+The family had a multi-person discussion about cat and other topics.
 
-The child led much of the conversation.
+The family talked about eating and food preparation.
 
-The child participated in the ongoing dialogue.
+They discussed family members including relatives who lived in other places.
 
-Adults guided the conversation with the child.
+The family talked about eating and food preparation.
 
-Play and games came up in the conversation.
+The family discussed school and educational topics.
 
-Adults guided the conversation with the child.
+They talked about bedtime and sleeping arrangements.
 
-They discussed food and eating.
+The family had a multi-person discussion about big and other topics.
 
-The child engaged with the investigator and the mother about butter and little.
+The family had a multi-person discussion about dad and other topics.
 
-The child led much of the conversation.
+The family discussed school and educational topics.
 
-Adults guided the conversation with the child.
+They talked about bedtime and sleeping arrangements.
 
-The conversation turned to school-related matters.
+The family discussed school and educational topics.
 
-Play and games came up in the conversation.
+They discussed the recording equipment and the microphone apparatus.
 
-The child participated in the ongoing dialogue.
+The participants engaged in playful conversation or games.
 
-Adults guided the conversation with the child.
+The family had a multi-person discussion about butter and other topics.
 
-The brother interacted with the child regarding french and fries.
+They discussed the recording equipment and the microphone apparatus.
 
-The child led much of the conversation.
+They discussed the recording equipment and the microphone apparatus.
 
-The child engaged with the brother and the mother about mom and says.
+The family discussed school and educational topics.
 
-The child led much of the conversation.
+They discussed family members including relatives who lived in other places.
 
-Adults guided the conversation with the child.
+The family talked about eating and food preparation.
 
-The child led much of the conversation.
+The participants continued their conversation.
 
-They discussed food and eating.
+The participants talked about watching television or movies.
 
-They discussed food and eating.
+They discussed vehicles and travel.
 
-Adults guided the conversation with the child.
+They discussed vehicles and travel.
 
-Adults guided the conversation with the child.
+They discussed the recording equipment and the microphone apparatus.
 
-They discussed food and eating.
+The family talked about eating and food preparation.
 
-They discussed food and eating.
+The family talked about eating and food preparation.
 
-The mother said "blintzes ."
+The family talked about eating and food preparation.
 
-Adults guided the conversation with the child.
+They discussed family members including relatives who lived in other places.
 
-There was discussion about getting ready or being on time.
+The participants discussed drinks and beverage options.
 
-The brother said "and whoever wins it gets a dollar ."
+The participants discussed drinks and beverage options.
 
-The child engaged with the mother and the father about don and dexter.
+The family talked about eating and food preparation.
 
-The child said "yeah , but what is it ?"
+The participants discussed drinks and beverage options.
 
-The child engaged with the brother and the mother about mom and taste.
+They discussed family members including relatives who lived in other places.
 
-The conversation turned to school-related matters.
+They discussed family members including relatives who lived in other places.
 
-The mother said "very long ."
+They discussed family members including relatives who lived in other places.
 
-The investigator and the mother discussed day and work.
+They discussed family members including relatives who lived in other places.
 
-The brother and the mother discussed bet and dexter.
+The family talked about eating and food preparation.
 
-The brother said "I will start out with a few easy ones ."
+The participants discussed drinks and beverage options.
 
-The mother said "would you sit up David ?"
+They talked about bedtime and sleeping arrangements.
 
-Adults guided the conversation with the child.
+They discussed the recording equipment and the microphone apparatus.
 
-The father said "Decky knows ."
+They talked about bedtime and sleeping arrangements.
 
-The brother and the mother discussed comes and birthday.
+They talked about bedtime and sleeping arrangements.
 
-There was discussion about getting ready or being on time.
+They discussed vehicles and travel.
 
-They discussed food and eating.
+The family talked about eating and food preparation.
 
-The child participated in the ongoing dialogue.
+The family had a multi-person discussion about david and other topics.
 
-The brother and the mother discussed don and play.
+The participants discussed drinks and beverage options.
 
-The child participated in the ongoing dialogue.
+They discussed music and singing.
 
-The child participated in the ongoing dialogue.
+They talked about bedtime and sleeping arrangements.
 
-The child participated in the ongoing dialogue.
+The family discussed school and educational topics.
 
-Adults guided the conversation with the child.
+The participants discussed drinks and beverage options.
 
-The child engaged with the mother and the investigator about ice and cream.
+They discussed family members including relatives who lived in other places.
 
-The child participated in the ongoing dialogue.
+The participants engaged in playful conversation or games.
 
-The child engaged with the investigator and the mother about cherry and cola.
+They talked about bedtime and sleeping arrangements.
 
-The child led much of the conversation.
+They talked about bedtime and sleeping arrangements.
 
-The child led much of the conversation.
+The participants discussed drinks and beverage options.
 
-The child engaged with the mother and the investigator about knew and last.
+They discussed the recording equipment and the microphone apparatus.
 
-The mother said "okay ."
+The family talked about the weather and what clothing to wear outside.
 
-The child engaged with the brother and the mother about off and clarence.
+The participants discussed drinks and beverage options.
 
-Adults guided the conversation with the child.
+The family had a multi-person discussion about breakfast and other topics.
 
-Adults guided the conversation with the child.
+The participants engaged in playful conversation or games.
 
-The child engaged with the brother and the mother about book and out.
+They discussed family members including relatives who lived in other places.
 
-The conversation was filled with questions and answers.
+The family talked about eating and food preparation.
 
-The child was talkative during this exchange.
+They talked about bedtime and sleeping arrangements.
 
-The father interacted with the child regarding off and don.
+The family discussed school and educational topics.
 
-The father interacted with the child regarding don and ugly.
+They discussed family members including relatives who lived in other places.
 
-The father interacted with the child regarding frames and out.
+The participants talked about watching television or movies.
 
-Adults guided the conversation with the child.
+They discussed drawing or pictures.
 
-The child asked the father about paint and nope.
+They talked about bedtime and sleeping arrangements.
 
-The father interacted with the child regarding mommy and better.
+The participants engaged in playful conversation or games.
 
-The child engaged with the brother and the mother about donut and one.
+The participants engaged in playful conversation or games.
 
-Adults guided the conversation with the child.
+The participants engaged in playful conversation or games.
 
-The child participated in the ongoing dialogue.
+The family talked about eating and food preparation.
 
-The child engaged with the brother and the investigator about love and time.
+The family discussed frames and some.
 
-The investigator said "I know all the kids ."
+They discussed drawing or pictures.
 
-Adults guided the conversation with the child.
+The participants discussed drinks and beverage options.
 
-The child engaged with the investigator and the father about back and magnet.
+The family talked about eating and food preparation.
 
+The family talked about eating and food preparation.
+
+They discussed the recording equipment and the microphone apparatus.
+
+They discussed vehicles and travel.
+
+The family talked about eating and food preparation.
+
+They discussed vehicles and travel.
+
+They discussed music and singing.
+
+The family had a multi-person discussion about helping and other topics.
+
+The family discussed magnet and other things.

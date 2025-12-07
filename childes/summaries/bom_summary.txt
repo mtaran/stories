@@ -1,567 +1,592 @@
 Session: bom
-Situation: before school dad bundles up Bobby for walk to school. Carl in another part of room giving context.
-Participants: CHI Target_Child, FAT Father, EXP Investigator, TEA Teacher, FCH Child, MCH Child, UNK Unidentified, GRO Unidentified, BRO Brother, SIS Sister, TEL Media
-Total utterances: 5555
-Summary sentences: 278
-Compression ratio: 20.0 utterances per sentence
+Situation: before bed
+Total utterances: 5808
+Summary sentences: 291
+Compression ratio: 5808/291:1
 
 ============================================================
 NARRATIVE SUMMARY
 ============================================================
 
-The father said "come o:n ."
+chi and fat discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-Adults guided the conversation with the child.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The conversation turned to school-related matters.
+fat and exp had conversation. Questions were central.
 
-The child participated in the ongoing dialogue.
+fat and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about cold and good.
+fat and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and fat exchanged directives or requests. The interaction was positive.
 
-The child said "hold my umbrella ."
+chi and fat exchanged directives or requests. There were disagreements.
 
-The child led much of the conversation.
+chi and exp engaged in positive interaction. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child said "guns off ."
+chi and exp exchanged directives or requests. There were disagreements.
 
-The child was talkative during this exchange.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and exp posed questions. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and exp engaged in positive interaction. There were disagreements. Questions were central.
 
-The child and the investigator talked about needta and cups.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The investigator interacted with the child regarding dry and going.
+exp and chi discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child and the investigator talked about don.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child said "I dreamed Carl I dreamed about you ."
+exp and chi asked questions. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and exp posed questions. There were disagreements. Questions were central.
 
-Play and games came up in the conversation.
+chi and exp exchanged directives or requests. There were disagreements.
 
-The child and the investigator talked about edge and bed.
+exp and chi discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child and the investigator talked about music and turn.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The conversation was filled with questions and answers.
+chi and exp posed questions. There were disagreements. Questions were central.
 
-The investigator interacted with the child regarding booties.
+chi and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The investigator interacted with the child regarding bootie and hot.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child and the investigator talked about bootie and went.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+exp and chi engaged in positive interaction. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp engaged in positive interaction. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child and the investigator talked about leave and cigarette.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The conversation turned to school-related matters.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+exp and chi exchanged directives or requests. The interaction was positive. Questions were central.
 
-The child engaged with the investigator and the father about bring and walk.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+exp and chi asked questions. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+fat and chi exchanged directives or requests. There were disagreements.
 
-Names and identity were mentioned.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child said "it does have the same color as me ."
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+fat and chi discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child said "what ?"
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-There was discussion about getting ready or being on time.
+chi and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about scoobie and doo.
+fat and exp exchanged directives or requests. There were disagreements.
 
-Names and identity were mentioned.
+chi and exp exchanged directives or requests. There were disagreements.
 
-Names and identity were mentioned.
+exp and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-Play and games came up in the conversation.
+exp and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-Adults guided the conversation with the child.
+fat and chi exchanged directives or requests. Questions were central.
 
-Names and identity were mentioned.
+exp and tea exchanged directives or requests. There were disagreements.
 
-The child and the investigator talked about hey and pushed.
+tea and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child and the investigator talked about hold and hand.
+exp and chi asked questions. The interaction was positive. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The investigator interacted with the child regarding climbing and snow.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp exchanged directives or requests. There were disagreements.
 
-The investigator interacted with the child regarding wind and don.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and exp exchanged directives or requests. There were disagreements.
 
-The child participated in the ongoing dialogue.
+chi and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-Adults guided the conversation with the child.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The conversation was filled with questions and answers.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+tea and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child and the teacher talked about one and daddy.
+chi and tea posed questions. There were disagreements. Questions were central.
 
-The child said "I only have one friend ."
+tea and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The teacher interacted with the child regarding carl and bobby.
+chi and tea exchanged directives or requests. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+tea and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The conversation was filled with questions and answers.
+chi and tea engaged in positive interaction. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and tea engaged in positive interaction. There were disagreements. Questions were central.
 
-The conversation was filled with questions and answers.
+tea and chi asked questions. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and tea posed questions. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and mch discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The teacher said "okay ."
+chi and tea posed questions. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and tea discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The conversation turned to school-related matters.
+chi and mch discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child said "okay ."
+mch and tea discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+mch and chi discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and mch posed questions. The interaction was positive. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp engaged in positive interaction. There were disagreements. Questions were central.
 
-Adults guided the conversation with the child.
+tea and chi asked questions. There were disagreements. Questions were central.
 
-The child engaged with another child and the teacher about cup and bobby.
+exp and chi engaged in positive interaction. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and mch exchanged directives or requests. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with another child and the teacher about chocolate and cake.
+chi and tea posed questions. There were disagreements. Questions were central.
 
-The child engaged with another child and another child about socks and bobby.
+chi and tea exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with another child and the teacher about shoes and twenty.
+tea and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the teacher about area and going.
+tea and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The investigator said "that's okay ."
+tea and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child said "why you all the way on your neck ?"
+chi and tea posed questions. There were disagreements. Questions were central.
 
-The child said "he's my cubie ."
+chi and tea exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The teacher interacted with the child regarding one and outside.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the brother and the teacher about bobby and don.
+chi and tea engaged in positive interaction. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and tea posed questions. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+tea and chi engaged in positive interaction. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+tea and chi engaged in positive interaction. There were disagreements. Questions were central.
 
-Play and games came up in the conversation.
+tea and chi engaged in positive interaction. There were disagreements. Questions were central.
 
-The child engaged with another child and the teacher about six and million.
+tea and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child and the investigator talked about bobby and doing.
+chi and tea engaged in positive interaction. There were disagreements. Questions were central.
 
-Play and games came up in the conversation.
+chi and mch engaged in positive interaction. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and tea exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and tea posed questions. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp engaged in positive interaction. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and mch posed questions. There were disagreements. Questions were central.
 
-The child and another child talked about out.
+chi and mch exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with another child and the teacher about bobby and alex.
+chi and mch exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp exchanged directives or requests. The interaction was positive. Questions were central.
 
-Another child interacted with the child regarding batman and hey.
+chi and mch exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with another child and the teacher about guns and playin.
+chi and mch exchanged directives or requests. The interaction was positive. Questions were central.
 
-The child engaged with another child and the teacher about big and sad.
+chi and tea exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and mch exchanged directives or requests. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and mch exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and mch exchanged directives or requests. There were disagreements.
 
-The child was talkative during this exchange.
+tea and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+tea and chi engaged in positive interaction. There were disagreements. Questions were central.
 
-The conversation was filled with questions and answers.
+chi and tea posed questions. There were disagreements. Questions were central.
 
-Adults guided the conversation with the child.
+tea and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-Adults guided the conversation with the child.
+chi and tea engaged in positive interaction. The interaction was positive. Questions were central.
 
-The father interacted with the child regarding pants and shoes.
+chi and exp posed questions. The interaction was positive. Questions were central.
 
-Adults guided the conversation with the child.
+chi and tea posed questions. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about off and snow.
+tea and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about feet and guess.
+tea and chi discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about window and shoes.
+tea and mch exchanged directives or requests. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and tea exchanged directives or requests. There were disagreements. Questions were central.
 
-Adults guided the conversation with the child.
+fat and chi engaged in positive interaction. The interaction was positive. Questions were central.
 
-The child was talkative during this exchange.
+fat and exp engaged in positive interaction. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+fat and exp asked questions. There were disagreements. Questions were central.
 
-The father and the child discussed snack and play.
+exp and chi asked questions. The interaction was positive. Questions were central.
 
-The child and the father talked about awright and cheese.
+fat and chi discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+fat and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child said "I tried to do ..."
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and fat exchanged directives or requests. The interaction was positive. Questions were central.
 
-Names and identity were mentioned.
+fat and chi asked questions. There were disagreements. Questions were central.
 
-Adults guided the conversation with the child.
+fat and chi asked questions. There were disagreements. Questions were central.
 
-The child and the investigator talked about bootie and nice.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and fat exchanged directives or requests. There were disagreements.
 
-The child participated in the ongoing dialogue.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child and the investigator talked about turn and first.
+chi and exp posed questions. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and exp posed questions. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp engaged in positive interaction. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+exp and chi asked questions. There were disagreements. Questions were central.
 
-The investigator interacted with the child regarding one and wants.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child and the investigator talked about stuff and poison.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and exp posed questions. There were disagreements. Questions were central.
 
-The investigator interacted with the child regarding mind and changed.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp posed questions. There were disagreements. Questions were central.
 
-The investigator interacted with the child regarding mister and stuff.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-They discussed food and eating.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The conversation was filled with questions and answers.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-They discussed food and eating.
+chi and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-They discussed food and eating.
+exp and chi engaged in positive interaction. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+exp and chi engaged in positive interaction. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp posed questions. The interaction was positive. Questions were central.
 
-Adults guided the conversation with the child.
+chi and fat posed questions. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about waiting and carl.
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about shut and virgo.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-Play and games came up in the conversation.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+fat and chi asked questions. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+exp and chi engaged in positive interaction. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the television about chow and chacha.
+chi and fat posed questions. There were disagreements. Questions were central.
 
-The child said "okay ."
+chi and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about leh and hey.
+fat and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-They discussed food and eating.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+exp and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child said "we hafta keep it on ?"
+chi and exp posed questions. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about hey and liver.
+chi and exp posed questions. There were disagreements. Questions were central.
 
-The child said "what ?"
+chi and exp exchanged directives or requests. The interaction was positive. Questions were central.
 
-There was discussion about getting ready or being on time.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and fat discussed disagreements or refusals. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+fat and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about bobby and pick.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-Adults guided the conversation with the child.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The father said "it's like your girlfriend ."
+fat and chi engaged in positive interaction. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about school and wasn.
+chi and fat posed questions. There were disagreements. Questions were central.
 
-They discussed food and eating.
+chi and fat posed questions. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and fat discussed disagreements or refusals. There were disagreements. Questions were central.
 
-Play and games came up in the conversation.
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and fat posed questions. There were disagreements. Questions were central.
 
-They discussed food and eating.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-They discussed food and eating.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+fat and exp exchanged directives or requests. There were disagreements.
 
-The child engaged with the investigator and the father about hey and mouth.
+chi and fat discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The father said "cheers ."
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+fat and chi asked questions. The interaction was positive. Questions were central.
 
-They discussed food and eating.
+fat and chi exchanged directives or requests. The interaction was positive. Questions were central.
 
-The child engaged with the investigator and the father about diet and uhuh.
+chi and fat engaged in positive interaction. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about diet.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+exp and chi discussed disagreements or refusals. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about dessert and bones.
+chi and fat posed questions. There were disagreements. Questions were central.
 
-The child said "I like bones ."
+chi and fat discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about beethoven and ugh.
+fat and chi exchanged directives or requests. There were disagreements.
 
-Adults guided the conversation with the child.
+chi and fat exchanged directives or requests. The interaction was positive.
 
-The child led much of the conversation.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and fat posed questions. There were disagreements. Questions were central.
 
-The child and the father talked about little and hungry.
+exp and chi discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about hey and little.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and fat posed questions. There were disagreements. Questions were central.
 
-They discussed food and eating.
+chi and fat posed questions. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about present and next.
+chi and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The conversation turned to school-related matters.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-Adults guided the conversation with the child.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-They discussed food and eating.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and fat exchanged directives or requests. There were disagreements.
 
-The child was talkative during this exchange.
+chi and fat discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The investigator and the child discussed batteries and soda.
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child asked the investigator about eat and good.
+fat and chi exchanged directives or requests. There were disagreements.
 
-The child said "can it work ?"
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and fat posed questions. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about talk and upside.
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+fat and chi discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The investigator interacted with the child regarding blow and eat.
+exp and chi exchanged directives or requests. There were disagreements.
 
-The investigator said "is it still a car ?"
+chi and exp posed questions. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and exp posed questions. There were disagreements. Questions were central.
 
-The child asked the investigator about tongue and lip.
+exp and chi asked questions. There were disagreements. Questions were central.
 
-They discussed food and eating.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and exp posed questions. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+exp and chi engaged in positive interaction. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp posed questions. Questions were central.
 
-The child said "no , this is my knife ."
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about work and sleep.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+chi and exp posed questions. There were disagreements. Questions were central.
 
-Adults guided the conversation with the child.
+chi and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and exp posed questions. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and fat posed questions. There were disagreements. Questions were central.
 
-There was discussion about getting ready or being on time.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child said "fifty and sixty shots ."
+chi and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The conversation turned to school-related matters.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-They discussed food and eating.
+fat and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+chi and fat discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about gulp and wonder.
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child led much of the conversation.
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about drink and don.
+chi and exp posed questions. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+fat and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-The child engaged with the investigator and the father about drink and pretend.
+exp and chi engaged in positive interaction. There were disagreements. Questions were central.
 
-The investigator said "alright ."
+fat and chi engaged in positive interaction. There were disagreements. Questions were central.
 
-The investigator said "mhm it's workin(g) really good ."
+fat and chi discussed disagreements or refusals. There were disagreements. Questions were central.
 
-There was discussion about getting ready or being on time.
+chi and exp exchanged directives or requests. There were disagreements.
 
-There was discussion about getting ready or being on time.
+fat and chi exchanged directives or requests. The interaction was positive. Questions were central.
 
-The conversation turned to school-related matters.
+chi and exp discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-Adults guided the conversation with the child.
+chi and fat posed questions. The interaction was positive. Questions were central.
 
-The child engaged with the investigator and the father about mhm and came.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-The child participated in the ongoing dialogue.
+chi and fat exchanged directives or requests. There were disagreements.
 
-Names and identity were mentioned.
+chi and exp exchanged directives or requests. There were disagreements. Questions were central.
 
-Adults guided the conversation with the child.
+chi and exp exchanged directives or requests. There were disagreements.
 
-The conversation turned to school-related matters.
+exp and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-The child was talkative during this exchange.
+fat and chi discussed disagreements or refusals. There were disagreements. Questions were central.
 
-The father said "but you don't hafta ."
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
 
-There was discussion about getting ready or being on time.
+exp and fat discussed disagreements or refusals. There were disagreements. Questions were central.
 
-Names and identity were mentioned.
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
 
-There was discussion about getting ready or being on time.
+exp and fat exchanged directives or requests. There were disagreements. Questions were central.
+
+chi and exp exchanged directives or requests. There were disagreements.
+
+exp and fat exchanged directives or requests. There were disagreements.
+
+exp and fat exchanged directives or requests. There were disagreements.
+
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
+
+exp and fat exchanged directives or requests. There were disagreements. Questions were central.
+
+exp and fat exchanged directives or requests. There were disagreements.
+
+fat and exp discussed disagreements or refusals. There were disagreements. Questions were central.
+
+chi and fat exchanged directives or requests. There were disagreements. Questions were central.
+
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
+
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
+
+exp and chi engaged in positive interaction. There were disagreements. Questions were central.
+
+fat and chi exchanged directives or requests. There were disagreements. Questions were central.
+
+chi and exp exchanged directives or requests. The interaction was positive. Questions were central.
 

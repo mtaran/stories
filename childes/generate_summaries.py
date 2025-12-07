@@ -1,63 +1,80 @@
 #!/usr/bin/env python3
 """
 Generate narrative summaries from CHILDES CHAT transcripts.
-Compresses 10-30 utterances into single summary sentences using content-based narrativization.
+Uses pylangacq for proper CHAT file parsing and Claude for summarization.
+Compresses 10-30 utterances into single summary sentences.
 """
 
-import re
 import glob
 import os
-import random
+import re
+import anthropic
+import pylangacq
 
 
-def extract_utterances_simple(filepath):
-    """Extract utterances from a CHAT file without parsing morphology."""
-    utterances = []
+def clean_chat_file(filepath: str) -> str:
+    """Remove %mor and %gra tiers from a CHAT file to avoid alignment issues."""
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Get the situation context
-    situation = ""
-    sit_match = re.search(r'@Situation:\s*(.+)', content)
-    if sit_match:
-        situation = sit_match.group(1).strip()
+    # Remove %mor and %gra lines (morphological tiers that cause alignment issues)
+    content = re.sub(r'^%mor:\t.+\n', '', content, flags=re.MULTILINE)
+    content = re.sub(r'^%gra:\t.+\n', '', content, flags=re.MULTILINE)
+
+    return content
+
+
+def extract_utterances_with_pylangacq(filepath: str, clean_dir: str) -> dict:
+    """
+    Extract utterances from a CHAT file using pylangacq.
+    Returns dict with situation, participants, and utterances.
+    """
+    basename = os.path.basename(filepath)
+
+    # Clean the file to avoid morphological tier alignment issues
+    cleaned_content = clean_chat_file(filepath)
+    clean_path = os.path.join(clean_dir, basename)
+    with open(clean_path, 'w', encoding='utf-8') as f:
+        f.write(cleaned_content)
+
+    # Parse with pylangacq
+    reader = pylangacq.read_chat(clean_path)
+
+    # Get headers for metadata
+    headers = reader.headers()[0] if reader.headers() else {}
+    situation = headers.get('Situation', 'everyday conversation')
 
     # Get participants
-    participants = ""
-    part_match = re.search(r'@Participants:\s*(.+)', content)
-    if part_match:
-        participants = part_match.group(1).strip()
+    participants = reader.participants()
+    participant_info = []
+    if participants:
+        for file_participants in participants:
+            for code, info in file_participants.items():
+                role = info.get('role', code)
+                participant_info.append(f"{code} ({role})")
 
-    # Extract lines starting with *SPEAKER:
-    pattern = r'^\*([A-Z]{3}):\s*(.+?)(?=\n[%@*]|\Z)'
-    matches = re.findall(pattern, content, re.MULTILINE | re.DOTALL)
+    # Extract utterances
+    utterances = []
+    for utt in reader.utterances():
+        participant = utt.participant
+        # Get words from tokens
+        words = [t.word for t in utt.tokens if t.word]
+        text = ' '.join(words)
 
-    for speaker, text in matches:
-        # Clean up the text
-        text = re.sub(r'\s+', ' ', text).strip()
-        text = re.sub(r'\[.*?\]', '', text)  # Remove brackets
-        text = re.sub(r'<.*?>', '', text)    # Remove angle brackets
-        text = re.sub(r'&~?\w+', '', text)   # Remove phonological fragments
-        text = re.sub(r'\+\.\.\.', '...', text)
-        text = re.sub(r'\+["/!]', '', text)
-        text = re.sub(r'xxx', '', text)      # Remove unintelligible markers
-        text = re.sub(r'@\w+', '', text)
-        text = re.sub(r'0\w+', '', text)
-        text = re.sub(r'\(\.\)', '', text)   # Remove pause markers
-        text = re.sub(r'\s+', ' ', text).strip()
-        text = re.sub(r'^[.,!?]+$', '', text)  # Remove punctuation-only
-
-        if text and len(text) > 1:
-            utterances.append({'speaker': speaker, 'text': text})
+        if text.strip():
+            utterances.append({
+                'speaker': participant,
+                'text': text
+            })
 
     return {
         'situation': situation,
-        'participants': participants,
+        'participants': ', '.join(participant_info),
         'utterances': utterances
     }
 
 
-# Speaker role mapping
+# Speaker role mapping for readable names
 SPEAKER_NAMES = {
     'CHI': 'the child',
     'MOT': 'the mother',
@@ -73,185 +90,52 @@ SPEAKER_NAMES = {
     'UNK': 'someone',
     'GRO': 'a group member',
     'TEL': 'the television',
-    'ADU': 'an adult',
 }
 
 
-def get_speaker_name(code):
+def get_speaker_name(code: str) -> str:
     """Get readable speaker name from code."""
-    return SPEAKER_NAMES.get(code, f'the {code.lower()}')
+    return SPEAKER_NAMES.get(code, f'{code}')
 
 
-def extract_key_words(text):
-    """Extract potentially meaningful words from text."""
-    # Remove common words and punctuation
-    stop_words = {'the', 'a', 'an', 'is', 'are', 'was', 'were', 'be', 'been',
-                  'being', 'have', 'has', 'had', 'do', 'does', 'did', 'will',
-                  'would', 'could', 'should', 'may', 'might', 'must', 'shall',
-                  'can', 'need', 'to', 'of', 'in', 'for', 'on', 'with', 'at',
-                  'by', 'from', 'up', 'about', 'into', 'through', 'during',
-                  'before', 'after', 'above', 'below', 'between', 'under',
-                  'again', 'further', 'then', 'once', 'here', 'there', 'when',
-                  'where', 'why', 'how', 'all', 'each', 'few', 'more', 'most',
-                  'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own',
-                  'same', 'so', 'than', 'too', 'very', 'just', 'and', 'but',
-                  'if', 'or', 'because', 'as', 'until', 'while', 'i', 'me',
-                  'my', 'myself', 'we', 'our', 'ours', 'you', 'your', 'yours',
-                  'he', 'him', 'his', 'she', 'her', 'hers', 'it', 'its', 'they',
-                  'them', 'their', 'what', 'which', 'who', 'whom', 'this',
-                  'that', 'these', 'those', 'am', 'oh', 'yeah', 'yes', 'no',
-                  'okay', 'well', 'now', 'dont', "don't", 'gonna', 'wanna',
-                  'gotta', 'got', 'get', 'go', 'come', 'know', 'think', 'see',
-                  'look', 'want', 'let', 'say', 'said', 'tell', 'told', 'make',
-                  'put', 'give', 'take', 'like', 'huh', 'uh', 'um', 'hmm',
-                  'right', 'okay', 'alright', 'really', 'thing', 'things'}
+def format_chunk_for_summary(chunk: list, situation: str) -> str:
+    """Format a chunk of utterances for the summarization prompt."""
+    lines = []
+    for utt in chunk:
+        speaker_name = get_speaker_name(utt['speaker'])
+        lines.append(f"{speaker_name}: {utt['text']}")
 
-    words = re.findall(r'\b[a-z]{3,}\b', text.lower())
-    meaningful = [w for w in words if w not in stop_words]
-    return meaningful
+    dialogue = '\n'.join(lines)
+
+    return f"""Context: {situation}
+
+Conversation segment ({len(chunk)} utterances):
+{dialogue}
+
+Write ONE concise sentence (15-30 words) summarizing what happens in this conversation segment.
+Write in past tense, third person. Focus on the key actions, topics, or exchanges.
+Just output the single summary sentence, nothing else."""
 
 
-def extract_topics_from_chunk(chunk):
-    """Extract actual topics/nouns from utterances."""
-    all_words = []
-    for u in chunk:
-        all_words.extend(extract_key_words(u['text']))
-
-    # Count word frequency
-    word_counts = {}
-    for w in all_words:
-        word_counts[w] = word_counts.get(w, 0) + 1
-
-    # Get top words
-    sorted_words = sorted(word_counts.items(), key=lambda x: -x[1])
-    return [w for w, c in sorted_words[:5] if c >= 2]
+def summarize_with_claude(client: anthropic.Anthropic, prompt: str) -> str:
+    """Use Claude Haiku to summarize a chunk of utterances."""
+    response = client.messages.create(
+        model="claude-haiku-4-20250514",
+        max_tokens=100,
+        messages=[{"role": "user", "content": prompt}]
+    )
+    return response.content[0].text.strip()
 
 
-def extract_sample_quotes(chunk, max_quotes=2):
-    """Extract short sample quotes from the chunk."""
-    quotes = []
-    for u in chunk:
-        text = u['text'].strip()
-        # Look for interesting short phrases
-        if 5 < len(text) < 50 and not text.startswith('...'):
-            # Clean up
-            text = re.sub(r'\s+', ' ', text)
-            if text and text[-1] in '.!?':
-                quotes.append((u['speaker'], text))
-
-    # Sample diverse quotes
-    if quotes:
-        random.shuffle(quotes)
-        return quotes[:max_quotes]
-    return []
-
-
-def summarize_chunk(chunk, chunk_idx, total_chunks):
-    """Generate a narrative summary sentence for a chunk of utterances."""
-
-    speakers = list(set([u['speaker'] for u in chunk]))
-    speaker_counts = {}
-    for u in chunk:
-        speaker_counts[u['speaker']] = speaker_counts.get(u['speaker'], 0) + 1
-
-    # Get dominant speaker
-    dominant = max(speaker_counts, key=speaker_counts.get)
-
-    # Get topics
-    topics = extract_topics_from_chunk(chunk)
-
-    # Get sample quotes
-    quotes = extract_sample_quotes(chunk)
-
-    # Count features
-    questions = sum(1 for u in chunk if '?' in u['text'])
-    exclamations = sum(1 for u in chunk if '!' in u['text'])
-
-    # Build narrative sentence
-    speaker_names = [get_speaker_name(s) for s in speakers[:3]]
-
-    # Vary the sentence structure based on content
-    templates = []
-
-    # With topics
-    if topics:
-        topic_str = topics[0] if len(topics) == 1 else f"{topics[0]} and {topics[1]}" if len(topics) >= 2 else "conversation"
-
-        if 'CHI' in speakers:
-            if len(speakers) == 2:
-                other = get_speaker_name([s for s in speakers if s != 'CHI'][0])
-                if questions > len(chunk) * 0.3:
-                    templates.append(f"The child asked {other} about {topic_str}.")
-                    templates.append(f"{other.capitalize()} and the child discussed {topic_str}.")
-                else:
-                    templates.append(f"The child and {other} talked about {topic_str}.")
-                    templates.append(f"{other.capitalize()} interacted with the child regarding {topic_str}.")
-            else:
-                others = [get_speaker_name(s) for s in speakers if s != 'CHI'][:2]
-                templates.append(f"The child engaged with {' and '.join(others)} about {topic_str}.")
-        else:
-            templates.append(f"{speaker_names[0].capitalize()} and {speaker_names[1] if len(speaker_names) > 1 else 'others'} discussed {topic_str}.")
-
-    # With quotes
-    if quotes and random.random() > 0.5:
-        speaker, quote = quotes[0]
-        speaker_name = get_speaker_name(speaker)
-        if len(quote) < 40:
-            templates.append(f"{speaker_name.capitalize()} said \"{quote}\"")
-
-    # Activity-based
-    all_text = ' '.join([u['text'].lower() for u in chunk])
-
-    if re.search(r'\b(school|class|teacher)\b', all_text):
-        templates.append("The conversation turned to school-related matters.")
-    if re.search(r'\b(eat|breakfast|food|hungry)\b', all_text):
-        templates.append("They discussed food and eating.")
-    if re.search(r'\b(play|game|toy)\b', all_text):
-        templates.append("Play and games came up in the conversation.")
-    if re.search(r'\b(ready|hurry|time|late)\b', all_text):
-        templates.append("There was discussion about getting ready or being on time.")
-    if re.search(r'\b(name|call|bobby|tony|chris)\b', all_text):
-        templates.append("Names and identity were mentioned.")
-
-    # Emotional/interactive patterns
-    if exclamations > len(chunk) * 0.2:
-        templates.append("The exchange was animated and expressive.")
-    if questions > len(chunk) * 0.4:
-        templates.append("The conversation was filled with questions and answers.")
-
-    # Position-based variations
-    if chunk_idx == 0:
-        templates.append("The recording began with greetings and initial exchanges.")
-    elif chunk_idx >= total_chunks - 2:
-        templates.append("The conversation continued as the session neared its end.")
-
-    # Generic fallbacks with variation
-    if 'CHI' in speakers:
-        child_dominant = speaker_counts.get('CHI', 0) > len(chunk) * 0.4
-        if child_dominant:
-            templates.append("The child was talkative during this exchange.")
-            templates.append("The child led much of the conversation.")
-        else:
-            templates.append("Adults guided the conversation with the child.")
-            templates.append("The child participated in the ongoing dialogue.")
-
-    # Select a template
-    if templates:
-        return random.choice(templates)
-
-    # Ultimate fallback
-    return f"The participants ({', '.join(speaker_names)}) continued their conversation."
-
-
-def process_session(filepath, output_dir):
+def process_session(client: anthropic.Anthropic, filepath: str, clean_dir: str, output_dir: str) -> dict:
     """Process a single CHAT session file and generate summary."""
-
     basename = os.path.splitext(os.path.basename(filepath))[0]
     print(f"\nProcessing: {basename}")
 
-    data = extract_utterances_simple(filepath)
+    # Extract utterances using pylangacq
+    data = extract_utterances_with_pylangacq(filepath, clean_dir)
     utterances = data['utterances']
-    situation = data['situation'] or "everyday conversation"
+    situation = data['situation']
     participants = data['participants']
 
     print(f"  Situation: {situation[:80]}...")
@@ -265,23 +149,23 @@ def process_session(filepath, output_dir):
     chunk_size = 20
     chunks = [utterances[i:i+chunk_size] for i in range(0, len(utterances), chunk_size)]
 
-    # Filter out very small final chunks
+    # Combine small final chunk with previous
     if len(chunks) > 1 and len(chunks[-1]) < 10:
         chunks[-2].extend(chunks[-1])
         chunks = chunks[:-1]
 
     print(f"  Chunks to summarize: {len(chunks)}")
 
-    # Set seed for reproducibility but with file-specific variation
-    random.seed(hash(basename) % 2**32)
-
-    # Generate summaries for each chunk
+    # Generate summaries for each chunk using Claude
     summaries = []
     for i, chunk in enumerate(chunks):
-        summary = summarize_chunk(chunk, i, len(chunks))
+        print(f"    Summarizing chunk {i+1}/{len(chunks)}...", end=' ', flush=True)
+        prompt = format_chunk_for_summary(chunk, situation)
+        summary = summarize_with_claude(client, prompt)
         summaries.append(summary)
+        print("done")
 
-    # Output
+    # Save output
     output = {
         'session_id': basename,
         'situation': situation,
@@ -292,7 +176,6 @@ def process_session(filepath, output_dir):
         'narrative': summaries
     }
 
-    # Save to file
     output_path = os.path.join(output_dir, f"{basename}_summary.txt")
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(f"Session: {basename}\n")
@@ -310,6 +193,9 @@ def process_session(filepath, output_dir):
 
 
 def main():
+    # Initialize Anthropic client
+    client = anthropic.Anthropic()
+
     # Get first 5 CHAT files from Hall corpus
     cha_files = sorted(glob.glob("/home/user/stories/childes/Hall/**/*.cha", recursive=True))[:5]
 
@@ -317,15 +203,17 @@ def main():
     for f in cha_files:
         print(f"  - {os.path.basename(f)}")
 
-    # Create output directory
+    # Create directories
+    clean_dir = "/home/user/stories/childes/Hall_cleaned"
     output_dir = "/home/user/stories/childes/summaries"
+    os.makedirs(clean_dir, exist_ok=True)
     os.makedirs(output_dir, exist_ok=True)
 
     # Process each session
     results = []
     for filepath in cha_files:
         try:
-            result = process_session(filepath, output_dir)
+            result = process_session(client, filepath, clean_dir, output_dir)
             if result:
                 results.append(result)
         except Exception as e:
@@ -340,8 +228,8 @@ def main():
     # Show sample output
     if results:
         print(f"\nSample from first session ({results[0]['session_id']}):")
-        print(f"  First 10 summary sentences:")
-        for i, sent in enumerate(results[0]['narrative'][:10], 1):
+        print(f"  First 5 summary sentences:")
+        for i, sent in enumerate(results[0]['narrative'][:5], 1):
             print(f"    {i}. {sent}")
 
 
