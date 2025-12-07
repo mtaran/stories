@@ -1,0 +1,505 @@
+Session: ded
+Situation: prior to going to school the equipment has malfunctioned. the experimenters channel is out completely. the other channel is is staticky and the signal fades in and out.
+Participants: CHI Target_Child, MOT Mother, BRO Brother, FAT Father, EXP Investigator, TEL Media, UNK Unidentified, TEA Teacher, MCH Child, FCH Child, GRO Unidentified, TCA Adult, FAD Adult
+Total utterances: 4933
+Summary sentences: 247
+Compression ratio: 20.0 utterances per sentence
+
+============================================================
+NARRATIVE SUMMARY
+============================================================
+
+The child engaged with the brother and the mother about winston and coming.
+
+The child engaged with the investigator and the mother about microphone and don.
+
+The child led much of the conversation.
+
+The child and the father talked about gave and name.
+
+The child was talkative during this exchange.
+
+The investigator said "Carl ."
+
+The child was talkative during this exchange.
+
+There was discussion about getting ready or being on time.
+
+Names and identity were mentioned.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the investigator and the father about watch and train.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+The child led much of the conversation.
+
+The child participated in the ongoing dialogue.
+
+There was discussion about getting ready or being on time.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The child engaged with the investigator and the mother about out and yesterday.
+
+The child and the investigator talked about hates and turn.
+
+The child engaged with the investigator and the father about easy.
+
+The conversation turned to school-related matters.
+
+Play and games came up in the conversation.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child said "uhuh ."
+
+The child was talkative during this exchange.
+
+There was discussion about getting ready or being on time.
+
+The conversation turned to school-related matters.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+There was discussion about getting ready or being on time.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child and the mother talked about knapsack and glove.
+
+The child was talkative during this exchange.
+
+The child participated in the ongoing dialogue.
+
+The child was talkative during this exchange.
+
+The child engaged with another child and someone about darling and hey.
+
+The child engaged with another child and the mother about dexter and bike.
+
+The child engaged with the investigator and another child about talks and fixed.
+
+The child was talkative during this exchange.
+
+Adults guided the conversation with the child.
+
+The child engaged with the investigator and another child about yow and crazy.
+
+Another child interacted with the child regarding hey and foot.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the investigator and another child about tape and nothing.
+
+The child participated in the ongoing dialogue.
+
+The child was talkative during this exchange.
+
+The child engaged with the investigator and another child about glass and sun.
+
+Adults guided the conversation with the child.
+
+The child said "no he isn't !"
+
+The child participated in the ongoing dialogue.
+
+The child engaged with another child and the teacher about yeck and taste.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+There was discussion about getting ready or being on time.
+
+Another child said "I got lots of books ."
+
+The child participated in the ongoing dialogue.
+
+The conversation turned to school-related matters.
+
+The child participated in the ongoing dialogue.
+
+The conversation turned to school-related matters.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+Another child said ", oh yeah ."
+
+The child engaged with the investigator and another child about down and wait.
+
+There was discussion about getting ready or being on time.
+
+The conversation turned to school-related matters.
+
+Adults guided the conversation with the child.
+
+The exchange was animated and expressive.
+
+The child engaged with another child and someone about machine and dut.
+
+Another child said "I wanna show what what I ..."
+
+The exchange was animated and expressive.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with another child and a group member about hey and kyle.
+
+The exchange was animated and expressive.
+
+Another child interacted with the child regarding house and gun.
+
+There was discussion about getting ready or being on time.
+
+The child was talkative during this exchange.
+
+The child and another child talked about decky and bike.
+
+Play and games came up in the conversation.
+
+Another child said "behind you ."
+
+Adults guided the conversation with the child.
+
+Another child said "alright ?"
+
+Adults guided the conversation with the child.
+
+Another child and the teacher discussed ball and sang.
+
+Another child and the teacher discussed harry and door.
+
+Another child and the teacher discussed harry and cows.
+
+The child engaged with another child and the teacher about mooed and harry.
+
+The teacher said "what number is that ?"
+
+The conversation turned to school-related matters.
+
+Adults guided the conversation with the child.
+
+The teacher said "a few nights after that the family ."
+
+The child engaged with another child and the teacher about lady and next.
+
+Adults guided the conversation with the child.
+
+Play and games came up in the conversation.
+
+The child engaged with the teacher and another child about end and play.
+
+The child engaged with another child and the teacher about don and little.
+
+Names and identity were mentioned.
+
+The investigator said "is your microphone uncomfortable ?"
+
+Names and identity were mentioned.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child engaged with the teacher and another child about two and one.
+
+Another child and the teacher discussed woah and four.
+
+Another child interacted with the child regarding one and two.
+
+The child led much of the conversation.
+
+The child participated in the ongoing dialogue.
+
+Names and identity were mentioned.
+
+There was discussion about getting ready or being on time.
+
+The child and the mother talked about different and jasper.
+
+The mother and the child discussed cookies and filling.
+
+The mother interacted with the child regarding cookie and tricky.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+The brother and the child discussed one and share.
+
+The child asked the father about fine and school.
+
+The child engaged with the brother and the father about hansc and uhhuh.
+
+The child led much of the conversation.
+
+They discussed food and eating.
+
+They discussed food and eating.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the investigator and the mother about dit and yai.
+
+The child engaged with the investigator and the mother about fried and sauce.
+
+The child engaged with the investigator and the brother about freakies and sleep.
+
+The child led much of the conversation.
+
+The child led much of the conversation.
+
+The child was talkative during this exchange.
+
+Names and identity were mentioned.
+
+The child participated in the ongoing dialogue.
+
+The child was talkative during this exchange.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the brother and the investigator about ear and dexter.
+
+The child led much of the conversation.
+
+The child engaged with the brother and the mother about signal and david.
+
+The child engaged with the investigator and the mother about don and strong.
+
+The child was talkative during this exchange.
+
+The child engaged with the mother and someone about two and dae.
+
+There was discussion about getting ready or being on time.
+
+The child engaged with the brother and the mother about talk and cause.
+
+The child was talkative during this exchange.
+
+The child engaged with the investigator and the brother about six and one.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the investigator and the brother about two and wait.
+
+The child engaged with the brother and the investigator about turn and jail.
+
+The child engaged with the brother and the investigator about buy and any.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child engaged with the brother and the investigator about fixed and time.
+
+The child engaged with the investigator and the brother about fixed and don.
+
+The investigator and the brother discussed ten and gave.
+
+The brother and the investigator discussed five and two.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the investigator and the mother about dinner and minutes.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the mother and the father about don and butter.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The child engaged with the mother and the fad about hat and meatballs.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the mother and the investigator about honey and pancake.
+
+The child led much of the conversation.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+Play and games came up in the conversation.
+
+Adults guided the conversation with the child.
+
+They discussed food and eating.
+
+The child engaged with the investigator and the mother about butter and little.
+
+The child led much of the conversation.
+
+Adults guided the conversation with the child.
+
+The conversation turned to school-related matters.
+
+Play and games came up in the conversation.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The brother interacted with the child regarding french and fries.
+
+The child led much of the conversation.
+
+The child engaged with the brother and the mother about mom and says.
+
+The child led much of the conversation.
+
+Adults guided the conversation with the child.
+
+The child led much of the conversation.
+
+They discussed food and eating.
+
+They discussed food and eating.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+They discussed food and eating.
+
+They discussed food and eating.
+
+The mother said "blintzes ."
+
+Adults guided the conversation with the child.
+
+There was discussion about getting ready or being on time.
+
+The brother said "and whoever wins it gets a dollar ."
+
+The child engaged with the mother and the father about don and dexter.
+
+The child said "yeah , but what is it ?"
+
+The child engaged with the brother and the mother about mom and taste.
+
+The conversation turned to school-related matters.
+
+The mother said "very long ."
+
+The investigator and the mother discussed day and work.
+
+The brother and the mother discussed bet and dexter.
+
+The brother said "I will start out with a few easy ones ."
+
+The mother said "would you sit up David ?"
+
+Adults guided the conversation with the child.
+
+The father said "Decky knows ."
+
+The brother and the mother discussed comes and birthday.
+
+There was discussion about getting ready or being on time.
+
+They discussed food and eating.
+
+The child participated in the ongoing dialogue.
+
+The brother and the mother discussed don and play.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child engaged with the mother and the investigator about ice and cream.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the investigator and the mother about cherry and cola.
+
+The child led much of the conversation.
+
+The child led much of the conversation.
+
+The child engaged with the mother and the investigator about knew and last.
+
+The mother said "okay ."
+
+The child engaged with the brother and the mother about off and clarence.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The child engaged with the brother and the mother about book and out.
+
+The conversation was filled with questions and answers.
+
+The child was talkative during this exchange.
+
+The father interacted with the child regarding off and don.
+
+The father interacted with the child regarding don and ugly.
+
+The father interacted with the child regarding frames and out.
+
+Adults guided the conversation with the child.
+
+The child asked the father about paint and nope.
+
+The father interacted with the child regarding mommy and better.
+
+The child engaged with the brother and the mother about donut and one.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the brother and the investigator about love and time.
+
+The investigator said "I know all the kids ."
+
+Adults guided the conversation with the child.
+
+The child engaged with the investigator and the father about back and magnet.
+

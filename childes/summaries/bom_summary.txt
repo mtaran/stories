@@ -1,0 +1,567 @@
+Session: bom
+Situation: before school dad bundles up Bobby for walk to school. Carl in another part of room giving context.
+Participants: CHI Target_Child, FAT Father, EXP Investigator, TEA Teacher, FCH Child, MCH Child, UNK Unidentified, GRO Unidentified, BRO Brother, SIS Sister, TEL Media
+Total utterances: 5555
+Summary sentences: 278
+Compression ratio: 20.0 utterances per sentence
+
+============================================================
+NARRATIVE SUMMARY
+============================================================
+
+The father said "come o:n ."
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The conversation turned to school-related matters.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the investigator and the father about cold and good.
+
+The child led much of the conversation.
+
+The child said "hold my umbrella ."
+
+The child led much of the conversation.
+
+The child was talkative during this exchange.
+
+The child said "guns off ."
+
+The child was talkative during this exchange.
+
+The child led much of the conversation.
+
+Names and identity were mentioned.
+
+The child participated in the ongoing dialogue.
+
+The child and the investigator talked about needta and cups.
+
+The investigator interacted with the child regarding dry and going.
+
+The child and the investigator talked about don.
+
+The child said "I dreamed Carl I dreamed about you ."
+
+Names and identity were mentioned.
+
+Names and identity were mentioned.
+
+Play and games came up in the conversation.
+
+The child and the investigator talked about edge and bed.
+
+The child led much of the conversation.
+
+The child and the investigator talked about music and turn.
+
+The conversation was filled with questions and answers.
+
+The investigator interacted with the child regarding booties.
+
+The investigator interacted with the child regarding bootie and hot.
+
+The child and the investigator talked about bootie and went.
+
+The child was talkative during this exchange.
+
+The child led much of the conversation.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+The child and the investigator talked about leave and cigarette.
+
+The conversation turned to school-related matters.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the investigator and the father about bring and walk.
+
+The child led much of the conversation.
+
+Names and identity were mentioned.
+
+The child led much of the conversation.
+
+Names and identity were mentioned.
+
+The child participated in the ongoing dialogue.
+
+The child said "it does have the same color as me ."
+
+The child participated in the ongoing dialogue.
+
+The child led much of the conversation.
+
+The child said "what ?"
+
+There was discussion about getting ready or being on time.
+
+The child engaged with the investigator and the father about scoobie and doo.
+
+Names and identity were mentioned.
+
+Names and identity were mentioned.
+
+Play and games came up in the conversation.
+
+Adults guided the conversation with the child.
+
+Names and identity were mentioned.
+
+The child and the investigator talked about hey and pushed.
+
+The child and the investigator talked about hold and hand.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+The investigator interacted with the child regarding climbing and snow.
+
+The child led much of the conversation.
+
+Names and identity were mentioned.
+
+The child was talkative during this exchange.
+
+The investigator interacted with the child regarding wind and don.
+
+The child led much of the conversation.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The conversation was filled with questions and answers.
+
+The child led much of the conversation.
+
+The child and the teacher talked about one and daddy.
+
+The child said "I only have one friend ."
+
+The teacher interacted with the child regarding carl and bobby.
+
+Names and identity were mentioned.
+
+The conversation was filled with questions and answers.
+
+The child led much of the conversation.
+
+The conversation was filled with questions and answers.
+
+Names and identity were mentioned.
+
+Names and identity were mentioned.
+
+The teacher said "okay ."
+
+The child participated in the ongoing dialogue.
+
+The conversation turned to school-related matters.
+
+The child said "okay ."
+
+The child participated in the ongoing dialogue.
+
+The child led much of the conversation.
+
+The child was talkative during this exchange.
+
+Adults guided the conversation with the child.
+
+The child engaged with another child and the teacher about cup and bobby.
+
+The child led much of the conversation.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with another child and the teacher about chocolate and cake.
+
+The child engaged with another child and another child about socks and bobby.
+
+The child engaged with another child and the teacher about shoes and twenty.
+
+The child engaged with the investigator and the teacher about area and going.
+
+The investigator said "that's okay ."
+
+The child said "why you all the way on your neck ?"
+
+The child said "he's my cubie ."
+
+The child was talkative during this exchange.
+
+The child led much of the conversation.
+
+The teacher interacted with the child regarding one and outside.
+
+The child engaged with the brother and the teacher about bobby and don.
+
+Names and identity were mentioned.
+
+Names and identity were mentioned.
+
+Names and identity were mentioned.
+
+Play and games came up in the conversation.
+
+The child engaged with another child and the teacher about six and million.
+
+The child and the investigator talked about bobby and doing.
+
+Play and games came up in the conversation.
+
+The child led much of the conversation.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+Names and identity were mentioned.
+
+The child and another child talked about out.
+
+The child engaged with another child and the teacher about bobby and alex.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+Another child interacted with the child regarding batman and hey.
+
+The child engaged with another child and the teacher about guns and playin.
+
+The child engaged with another child and the teacher about big and sad.
+
+The child led much of the conversation.
+
+Names and identity were mentioned.
+
+The child led much of the conversation.
+
+The child was talkative during this exchange.
+
+The child participated in the ongoing dialogue.
+
+The conversation was filled with questions and answers.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The father interacted with the child regarding pants and shoes.
+
+Adults guided the conversation with the child.
+
+The child engaged with the investigator and the father about off and snow.
+
+The child engaged with the investigator and the father about feet and guess.
+
+The child engaged with the investigator and the father about window and shoes.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+The father and the child discussed snack and play.
+
+The child and the father talked about awright and cheese.
+
+The child led much of the conversation.
+
+The child was talkative during this exchange.
+
+The child said "I tried to do ..."
+
+Names and identity were mentioned.
+
+Names and identity were mentioned.
+
+Adults guided the conversation with the child.
+
+The child and the investigator talked about bootie and nice.
+
+The child was talkative during this exchange.
+
+The child participated in the ongoing dialogue.
+
+The child and the investigator talked about turn and first.
+
+The child led much of the conversation.
+
+The child led much of the conversation.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+The child led much of the conversation.
+
+The investigator interacted with the child regarding one and wants.
+
+The child and the investigator talked about stuff and poison.
+
+The child led much of the conversation.
+
+The child was talkative during this exchange.
+
+Names and identity were mentioned.
+
+The investigator interacted with the child regarding mind and changed.
+
+The child was talkative during this exchange.
+
+The investigator interacted with the child regarding mister and stuff.
+
+They discussed food and eating.
+
+The conversation was filled with questions and answers.
+
+They discussed food and eating.
+
+Names and identity were mentioned.
+
+The child participated in the ongoing dialogue.
+
+The child was talkative during this exchange.
+
+They discussed food and eating.
+
+Names and identity were mentioned.
+
+The child was talkative during this exchange.
+
+Adults guided the conversation with the child.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+The child engaged with the investigator and the father about waiting and carl.
+
+The child engaged with the investigator and the father about shut and virgo.
+
+The child participated in the ongoing dialogue.
+
+Play and games came up in the conversation.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+The child engaged with the investigator and the television about chow and chacha.
+
+The child said "okay ."
+
+The child was talkative during this exchange.
+
+The child engaged with the investigator and the father about leh and hey.
+
+They discussed food and eating.
+
+The child led much of the conversation.
+
+The child said "we hafta keep it on ?"
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the investigator and the father about hey and liver.
+
+The child said "what ?"
+
+There was discussion about getting ready or being on time.
+
+Names and identity were mentioned.
+
+Names and identity were mentioned.
+
+The child engaged with the investigator and the father about bobby and pick.
+
+Adults guided the conversation with the child.
+
+The father said "it's like your girlfriend ."
+
+The child engaged with the investigator and the father about school and wasn.
+
+They discussed food and eating.
+
+The child led much of the conversation.
+
+Play and games came up in the conversation.
+
+The child participated in the ongoing dialogue.
+
+They discussed food and eating.
+
+They discussed food and eating.
+
+The child led much of the conversation.
+
+The child engaged with the investigator and the father about hey and mouth.
+
+The child was talkative during this exchange.
+
+The father said "cheers ."
+
+The child was talkative during this exchange.
+
+They discussed food and eating.
+
+The child engaged with the investigator and the father about diet and uhuh.
+
+The child engaged with the investigator and the father about diet.
+
+The child was talkative during this exchange.
+
+Names and identity were mentioned.
+
+The child engaged with the investigator and the father about dessert and bones.
+
+The child said "I like bones ."
+
+The child engaged with the investigator and the father about beethoven and ugh.
+
+Adults guided the conversation with the child.
+
+The child led much of the conversation.
+
+Names and identity were mentioned.
+
+The child and the father talked about little and hungry.
+
+The child engaged with the investigator and the father about hey and little.
+
+The child participated in the ongoing dialogue.
+
+They discussed food and eating.
+
+The child engaged with the investigator and the father about present and next.
+
+The conversation turned to school-related matters.
+
+Adults guided the conversation with the child.
+
+They discussed food and eating.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+The investigator and the child discussed batteries and soda.
+
+The child asked the investigator about eat and good.
+
+The child said "can it work ?"
+
+The child was talkative during this exchange.
+
+The child led much of the conversation.
+
+The child engaged with the investigator and the father about talk and upside.
+
+Names and identity were mentioned.
+
+The investigator interacted with the child regarding blow and eat.
+
+The investigator said "is it still a car ?"
+
+The child led much of the conversation.
+
+The child asked the investigator about tongue and lip.
+
+They discussed food and eating.
+
+The child led much of the conversation.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+The child said "no , this is my knife ."
+
+The child engaged with the investigator and the father about work and sleep.
+
+The child was talkative during this exchange.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+There was discussion about getting ready or being on time.
+
+The child participated in the ongoing dialogue.
+
+Names and identity were mentioned.
+
+The child said "fifty and sixty shots ."
+
+The child led much of the conversation.
+
+The conversation turned to school-related matters.
+
+They discussed food and eating.
+
+The child led much of the conversation.
+
+The child engaged with the investigator and the father about gulp and wonder.
+
+The child led much of the conversation.
+
+The child engaged with the investigator and the father about drink and don.
+
+Names and identity were mentioned.
+
+The child engaged with the investigator and the father about drink and pretend.
+
+The investigator said "alright ."
+
+The investigator said "mhm it's workin(g) really good ."
+
+There was discussion about getting ready or being on time.
+
+There was discussion about getting ready or being on time.
+
+The conversation turned to school-related matters.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child engaged with the investigator and the father about mhm and came.
+
+Names and identity were mentioned.
+
+The child participated in the ongoing dialogue.
+
+Names and identity were mentioned.
+
+Adults guided the conversation with the child.
+
+The conversation turned to school-related matters.
+
+The child was talkative during this exchange.
+
+The father said "but you don't hafta ."
+
+There was discussion about getting ready or being on time.
+
+Names and identity were mentioned.
+
+There was discussion about getting ready or being on time.
+

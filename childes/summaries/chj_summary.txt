@@ -1,0 +1,887 @@
+Session: chj
+Situation: before school Chris , his mother , father , and younger sister Jenny are present. gb is also present.
+Participants: SIS Sister, CHI Target_Child, MOT Mother, FAT Father, EXP Investigator, FAD Adult, MAD Adult, MCH Child, FCH Child, TEA Teacher, GRA Grandmother, UNK Unidentified
+Total utterances: 8765
+Summary sentences: 438
+Compression ratio: 20.0 utterances per sentence
+
+============================================================
+NARRATIVE SUMMARY
+============================================================
+
+The child participated in the ongoing dialogue.
+
+The child was talkative during this exchange.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the mother and the sister about finished and hee.
+
+The conversation turned to school-related matters.
+
+The child led much of the conversation.
+
+The child engaged with the investigator and the mother about rain.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the investigator and the mother about earphone and one.
+
+Names and identity were mentioned.
+
+The child said "and you too !"
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The mother said "put what back ?"
+
+The child was talkative during this exchange.
+
+The child engaged with the investigator and the mother about chris.
+
+The child was talkative during this exchange.
+
+Adults guided the conversation with the child.
+
+They discussed food and eating.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child led much of the conversation.
+
+The exchange was animated and expressive.
+
+The child was talkative during this exchange.
+
+The investigator said "yea:h ."
+
+The conversation turned to school-related matters.
+
+The child said "and I'm gonna fish a fish !"
+
+The conversation was filled with questions and answers.
+
+The child participated in the ongoing dialogue.
+
+The child said "and guess what this is ."
+
+The child engaged with the mother and the sister about good and side.
+
+The conversation was filled with questions and answers.
+
+The child led much of the conversation.
+
+The child participated in the ongoing dialogue.
+
+The conversation turned to school-related matters.
+
+The child was talkative during this exchange.
+
+The child led much of the conversation.
+
+The child engaged with the mother and the sister about mommy and paint.
+
+The child engaged with the mother and the sister about gun and dis.
+
+There was discussion about getting ready or being on time.
+
+The child was talkative during this exchange.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+Names and identity were mentioned.
+
+The child engaged with the investigator and the mother about don and jacket.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child engaged with the investigator and the mother about door and close.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the investigator and the mother about down and went.
+
+Adults guided the conversation with the child.
+
+The child engaged with the mother and the sister about spahtturd and mommy.
+
+Names and identity were mentioned.
+
+The child said "look ."
+
+The conversation was filled with questions and answers.
+
+The child engaged with the mother and the sister about don and yep.
+
+The child engaged with the mother and the sister about run and eddy.
+
+The child said "hey Jen(ny) ."
+
+The child participated in the ongoing dialogue.
+
+The child asked the mother about bus and line.
+
+The child was talkative during this exchange.
+
+The child participated in the ongoing dialogue.
+
+The child led much of the conversation.
+
+The conversation was filled with questions and answers.
+
+The child was talkative during this exchange.
+
+The child led much of the conversation.
+
+The fad said "how are you doing ?"
+
+Names and identity were mentioned.
+
+The child was talkative during this exchange.
+
+The child engaged with another child and another child about chris and baby.
+
+Adults guided the conversation with the child.
+
+Another child said "no she can't believe i:t !"
+
+The child said "there he is !"
+
+The child engaged with another child and another child about house and kick.
+
+Another child said "go , go ."
+
+The child was talkative during this exchange.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The exchange was animated and expressive.
+
+The exchange was animated and expressive.
+
+Another child interacted with the child regarding dad and somebody.
+
+Names and identity were mentioned.
+
+The exchange was animated and expressive.
+
+Another child said "leave her alone dad !"
+
+The child led much of the conversation.
+
+There was discussion about getting ready or being on time.
+
+The child was talkative during this exchange.
+
+The child engaged with another child and the teacher about debbie and hello.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+The child participated in the ongoing dialogue.
+
+The exchange was animated and expressive.
+
+The child led much of the conversation.
+
+The child led much of the conversation.
+
+Adults guided the conversation with the child.
+
+Play and games came up in the conversation.
+
+Names and identity were mentioned.
+
+The child participated in the ongoing dialogue.
+
+The child and another child talked about dinosaur and haha.
+
+The exchange was animated and expressive.
+
+There was discussion about getting ready or being on time.
+
+Another child said "I know !"
+
+Another child said "they've got water in that ."
+
+Adults guided the conversation with the child.
+
+The child was talkative during this exchange.
+
+The child participated in the ongoing dialogue.
+
+Names and identity were mentioned.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The child was talkative during this exchange.
+
+The child led much of the conversation.
+
+Names and identity were mentioned.
+
+The child participated in the ongoing dialogue.
+
+Names and identity were mentioned.
+
+The child was talkative during this exchange.
+
+Another child said "I want a chair !"
+
+Adults guided the conversation with the child.
+
+Names and identity were mentioned.
+
+Adults guided the conversation with the child.
+
+The teacher said "okay practice finish ."
+
+There was discussion about getting ready or being on time.
+
+The child led much of the conversation.
+
+The child engaged with the investigator and someone about dead and zoe.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+Play and games came up in the conversation.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The child was talkative during this exchange.
+
+The child led much of the conversation.
+
+The exchange was animated and expressive.
+
+The child engaged with another child and another child about dinosaur and doesn.
+
+The child participated in the ongoing dialogue.
+
+The child and another child talked about haha and run.
+
+The exchange was animated and expressive.
+
+Another child interacted with the child regarding climb and kong.
+
+The child said "no , only ."
+
+The child was talkative during this exchange.
+
+Names and identity were mentioned.
+
+The child led much of the conversation.
+
+The child led much of the conversation.
+
+The child engaged with another child and another child about hey and escaped.
+
+The exchange was animated and expressive.
+
+The child engaged with another child and the teacher about hey and going.
+
+The exchange was animated and expressive.
+
+The child led much of the conversation.
+
+The child led much of the conversation.
+
+The exchange was animated and expressive.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child was talkative during this exchange.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with another child and the teacher about clay and kind.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child engaged with another child and the teacher about flour and write.
+
+The child engaged with another child and the teacher about else and salt.
+
+Adults guided the conversation with the child.
+
+Names and identity were mentioned.
+
+The child said "all of this ah , stuff in it ."
+
+Adults guided the conversation with the child.
+
+The child said "+, playdough cutter ?"
+
+Adults guided the conversation with the child.
+
+The child said "with apostrophe s ."
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child said "I did the bowl already ."
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The child engaged with the teacher and the mother about oven and dee.
+
+Adults guided the conversation with the child.
+
+Names and identity were mentioned.
+
+Adults guided the conversation with the child.
+
+The conversation turned to school-related matters.
+
+The conversation was filled with questions and answers.
+
+The child engaged with the investigator and the mother about school and tomorrow.
+
+The child participated in the ongoing dialogue.
+
+The conversation was filled with questions and answers.
+
+Names and identity were mentioned.
+
+Names and identity were mentioned.
+
+The conversation was filled with questions and answers.
+
+The child engaged with the mother and the sister about hands and jenny.
+
+The child engaged with the mother and the sister about tired and guess.
+
+Names and identity were mentioned.
+
+Names and identity were mentioned.
+
+The child participated in the ongoing dialogue.
+
+They discussed food and eating.
+
+The child engaged with the mother and the sister about soup and today.
+
+The mother said "what g words did they say so far ?"
+
+The conversation was filled with questions and answers.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the mother and the sister about thick and won.
+
+Adults guided the conversation with the child.
+
+There was discussion about getting ready or being on time.
+
+The mother said "okay ?"
+
+Adults guided the conversation with the child.
+
+The exchange was animated and expressive.
+
+Adults guided the conversation with the child.
+
+They discussed food and eating.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the mother and the sister about girl and dis.
+
+There was discussion about getting ready or being on time.
+
+The mother said "okay come on ."
+
+Adults guided the conversation with the child.
+
+The mother said "I'm sure they're clean by now ."
+
+They discussed food and eating.
+
+The child participated in the ongoing dialogue.
+
+The child led much of the conversation.
+
+The child engaged with another child and the mother about house and room.
+
+The child led much of the conversation.
+
+There was discussion about getting ready or being on time.
+
+The child was talkative during this exchange.
+
+The child engaged with another child and the sister about bed and taking.
+
+The mother and the child discussed manager and boss.
+
+The child was talkative during this exchange.
+
+The child engaged with the sister and another child about bed and hafta.
+
+The child engaged with another child and the sister about bed and house.
+
+The exchange was animated and expressive.
+
+The child led much of the conversation.
+
+The conversation turned to school-related matters.
+
+The child engaged with another child and another child about record and duh.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+Names and identity were mentioned.
+
+Adults guided the conversation with the child.
+
+The child was talkative during this exchange.
+
+The mother said "it tastes the same anyway ."
+
+The child said "noodles ."
+
+The child engaged with another child and the mother about don and grapefruit.
+
+The child engaged with the mother and the sister about jelly and mayonnaise.
+
+They discussed food and eating.
+
+Another child said "daetz good ."
+
+Another child said "+, , &-um jelly ."
+
+The child said "she means ."
+
+Names and identity were mentioned.
+
+The child engaged with the mother and the sister about never and tried.
+
+The mother said "I'll ask her about it ."
+
+The child engaged with another child and the mother about baby and food.
+
+The child engaged with the mother and the sister about listen and hello.
+
+They discussed food and eating.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+Names and identity were mentioned.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The conversation was filled with questions and answers.
+
+The conversation turned to school-related matters.
+
+The conversation was filled with questions and answers.
+
+They discussed food and eating.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with another child and the mother about woman and old.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The child engaged with the mother and the fad about finish and eating.
+
+The mother and the fad discussed help and never.
+
+The child engaged with the teacher and the mother about made and one.
+
+The mother and the fad discussed made and one.
+
+The conversation turned to school-related matters.
+
+The fad said "I missed it , but you know something ?"
+
+They discussed food and eating.
+
+The child engaged with the mother and the fad about ask and pick.
+
+The teacher and the mother discussed honey and jenny.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the mother and the fad about eat and food.
+
+The mother and the fad discussed kutz.
+
+The child participated in the ongoing dialogue.
+
+The child said "ah , ."
+
+They discussed food and eating.
+
+They discussed food and eating.
+
+The child engaged with the mother and the sister about wait and lollipop.
+
+Names and identity were mentioned.
+
+The child engaged with the mother and the fad about way.
+
+The child engaged with the mother and the fad about teacher and way.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+They discussed food and eating.
+
+The child engaged with the mother and the fad about don and bargain.
+
+The child led much of the conversation.
+
+The child led much of the conversation.
+
+The conversation turned to school-related matters.
+
+The child engaged with another child and the mother about don and lollipop.
+
+The child was talkative during this exchange.
+
+They discussed food and eating.
+
+The child led much of the conversation.
+
+The mother said "wait ."
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The child engaged with another child and the sister about helen and chris.
+
+The child was talkative during this exchange.
+
+The child was talkative during this exchange.
+
+The child engaged with another child and the mother about play and live.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+Names and identity were mentioned.
+
+The mother said "okay ."
+
+The child participated in the ongoing dialogue.
+
+The mother said "can anybody say the blessing ?"
+
+The child led much of the conversation.
+
+The child engaged with the mother and the sister about mommy and don.
+
+The child engaged with the mother and the sister about snowed and robber.
+
+The child engaged with the mother and the sister about police and don.
+
+The child engaged with the mother and the sister about felice and bernice.
+
+Names and identity were mentioned.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+They discussed food and eating.
+
+The child said "and dey're big ."
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The mother said "was he ?"
+
+The child was talkative during this exchange.
+
+Adults guided the conversation with the child.
+
+Names and identity were mentioned.
+
+The child was talkative during this exchange.
+
+The conversation turned to school-related matters.
+
+The child said "and ..."
+
+The mother said "o:h I know what you're talking about !"
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+The child said "I'm ma:d !"
+
+The child participated in the ongoing dialogue.
+
+The conversation turned to school-related matters.
+
+Adults guided the conversation with the child.
+
+The child engaged with the mother and the sister about time and mhm.
+
+The child engaged with the mother and the sister about martin and rocketships.
+
+The child led much of the conversation.
+
+The mother and the sister discussed feed and eating.
+
+The child engaged with the mother and the sister about beat and todd.
+
+Adults guided the conversation with the child.
+
+The sister said "dis is ..."
+
+The child engaged with the mother and the sister about finished and robbie.
+
+Names and identity were mentioned.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+Names and identity were mentioned.
+
+The child participated in the ongoing dialogue.
+
+They discussed food and eating.
+
+The child was talkative during this exchange.
+
+They discussed food and eating.
+
+Play and games came up in the conversation.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+The child led much of the conversation.
+
+The child led much of the conversation.
+
+The child engaged with the mother and the sister about eat and dis.
+
+Adults guided the conversation with the child.
+
+The child engaged with the mother and the sister about song and sing.
+
+The mother said "she wants to sing it by herself ."
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child said "it means , it mean spanking ."
+
+The exchange was animated and expressive.
+
+Adults guided the conversation with the child.
+
+Names and identity were mentioned.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child was talkative during this exchange.
+
+They discussed food and eating.
+
+They discussed food and eating.
+
+The child was talkative during this exchange.
+
+The child engaged with the mother and the sister about one and two.
+
+The mother and the sister discussed foot and tired.
+
+The conversation was filled with questions and answers.
+
+The child engaged with the mother and the sister about pinch and many.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+Names and identity were mentioned.
+
+The conversation was filled with questions and answers.
+
+The exchange was animated and expressive.
+
+Play and games came up in the conversation.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The mother said "do you want some of the ?"
+
+The child and the mother talked about don and worry.
+
+The child and the mother talked about don and one.
+
+The mother and the child discussed don.
+
+The mother and the child discussed good and tooth.
+
+The child engaged with the mother and the father about please and show.
+
+The child engaged with the mother and the sister about mustard and powdered.
+
+The child engaged with the mother and the sister about powdered and mustard.
+
+The child was talkative during this exchange.
+
+The investigator said "excuse me Barbara ."
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+There was discussion about getting ready or being on time.
+
+Adults guided the conversation with the child.
+
+Adults guided the conversation with the child.
+
+The child engaged with the investigator and the mother about hold and boat.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the mother and the sister about milk and hold.
+
+The mother said "oh , no , that is not all ."
+
+The child engaged with the mother and the sister about fish.
+
+Play and games came up in the conversation.
+
+Play and games came up in the conversation.
+
+The child and the mother talked about sank and toy.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+Names and identity were mentioned.
+
+The sister said "mommy , what's this ?"
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The child participated in the ongoing dialogue.
+
+The child engaged with the mother and the sister about pushing and caught.
+
+The child participated in the ongoing dialogue.
+
+Adults guided the conversation with the child.
+
+The mother and the sister discussed mother and fish.
+
+There was discussion about getting ready or being on time.
+
+The child said "plap ."
+
+The child engaged with the mother and the sister about horton and shame.
+
+The child participated in the ongoing dialogue.
+
+The child participated in the ongoing dialogue.
+
+The conversation continued as the session neared its end.
+
