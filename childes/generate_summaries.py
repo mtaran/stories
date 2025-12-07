@@ -138,14 +138,9 @@ def extract_utterances(filepath: str, temp_dir: str) -> dict:
     headers = reader.headers()[0] if reader.headers() else {}
     situation = headers.get('Situation', 'everyday conversation')
 
-    # Get participants
+    # Get participants (returns a set of speaker codes)
     participants = reader.participants()
-    participant_info = []
-    if participants:
-        for file_participants in participants:
-            for code, info in file_participants.items():
-                role = info.get('role', code)
-                participant_info.append(f"{code} ({role})")
+    participant_info = sorted(participants) if participants else []
 
     # Extract utterances
     utterances = []
@@ -162,7 +157,7 @@ def extract_utterances(filepath: str, temp_dir: str) -> dict:
 
     return {
         'situation': situation,
-        'participants': ', '.join(participant_info),
+        'participants': ', '.join(participant_info) if participant_info else 'Unknown',
         'utterances': utterances
     }
 
