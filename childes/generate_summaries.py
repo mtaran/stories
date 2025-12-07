@@ -23,6 +23,8 @@ Examples:
 
 Requirements:
     pip install pylangacq anthropic requests
+
+    Set ANTHROPIC_API_KEY environment variable or pass --api-key argument.
 """
 
 import argparse
@@ -287,8 +289,19 @@ Examples:
                         help='TalkBank email (default: maksym.taran@gmail.com)')
     parser.add_argument('--password', default='D2z8jQ6@9mrR9Yu',
                         help='TalkBank password')
+    parser.add_argument('--api-key', default=None,
+                        help='Anthropic API key (or set ANTHROPIC_API_KEY env var)')
 
     args = parser.parse_args()
+
+    # Set API key if provided via argument
+    if args.api_key:
+        os.environ['ANTHROPIC_API_KEY'] = args.api_key
+    elif not os.environ.get('ANTHROPIC_API_KEY'):
+        print("Error: Anthropic API key required. Either:", file=sys.stderr)
+        print("  1. Set ANTHROPIC_API_KEY environment variable", file=sys.stderr)
+        print("  2. Pass --api-key argument", file=sys.stderr)
+        sys.exit(1)
 
     # Set up directories
     script_dir = Path(__file__).parent.absolute()
