@@ -21,10 +21,6 @@ Examples:
     # Specify language group
     python generate_summaries.py --language Eng-NA --corpus MacWhinney
 
-Environment variables:
-    TALKBANK_EMAIL    - Email for TalkBank authentication
-    TALKBANK_PASSWORD - Password for TalkBank authentication
-
 Requirements:
     pip install pylangacq anthropic requests
 """
@@ -282,10 +278,6 @@ Examples:
   %(prog)s --sessions 10                      # First 10 sessions from Hall
   %(prog)s --corpus Brown --sessions 3        # First 3 sessions from Brown
   %(prog)s --language Eng-UK --corpus Belfast # Belfast corpus from Eng-UK
-
-Environment variables:
-  TALKBANK_EMAIL     Email for TalkBank authentication
-  TALKBANK_PASSWORD  Password for TalkBank authentication
         """
     )
     parser.add_argument('--language', '-l', default='Eng-NA',
@@ -296,22 +288,12 @@ Environment variables:
                         help='Number of sessions to process (default: 5)')
     parser.add_argument('--output', '-o', default=None,
                         help='Output directory (default: ./childes/summaries)')
-    parser.add_argument('--email', default=None,
-                        help='TalkBank email (or set TALKBANK_EMAIL)')
-    parser.add_argument('--password', default=None,
-                        help='TalkBank password (or set TALKBANK_PASSWORD)')
+    parser.add_argument('--email', default='maksym.taran@gmail.com',
+                        help='TalkBank email (default: maksym.taran@gmail.com)')
+    parser.add_argument('--password', default='D2z8jQ6@9mrR9Yu',
+                        help='TalkBank password')
 
     args = parser.parse_args()
-
-    # Get credentials
-    email = args.email or os.environ.get('TALKBANK_EMAIL')
-    password = args.password or os.environ.get('TALKBANK_PASSWORD')
-
-    if not email or not password:
-        print("Error: TalkBank credentials required.", file=sys.stderr)
-        print("Set TALKBANK_EMAIL and TALKBANK_PASSWORD environment variables,", file=sys.stderr)
-        print("or use --email and --password arguments.", file=sys.stderr)
-        sys.exit(1)
 
     # Set up directories
     script_dir = Path(__file__).parent.absolute()
@@ -321,7 +303,7 @@ Environment variables:
     # Create temp directory for downloads and cleaned files
     with tempfile.TemporaryDirectory() as temp_dir:
         # Login and download corpus
-        session = login_talkbank(email, password)
+        session = login_talkbank(args.email, args.password)
         corpus_dir = download_corpus(session, args.language, args.corpus, temp_dir)
 
         # Find CHAT files
