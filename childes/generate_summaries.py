@@ -3,32 +3,31 @@
 Generate narrative summaries from CHILDES CHAT transcripts.
 
 Downloads corpus data from TalkBank, extracts utterances using pylangacq,
-and generates narrative summaries using Claude.
+and prepares data for summarization.
 
 Usage:
     python generate_summaries.py [OPTIONS]
 
 Examples:
-    # Summarize first 5 sessions from Hall corpus (default)
+    # Extract first 5 sessions from Hall corpus (default)
     python generate_summaries.py
 
-    # Summarize specific number of sessions
+    # Extract specific number of sessions
     python generate_summaries.py --sessions 10
 
-    # Summarize a different corpus
+    # Extract from a different corpus
     python generate_summaries.py --corpus Brown --sessions 3
 
     # Specify language group
     python generate_summaries.py --language Eng-NA --corpus MacWhinney
 
 Requirements:
-    pip install pylangacq anthropic requests
-
-    Set ANTHROPIC_API_KEY environment variable or pass --api-key argument.
+    pip install pylangacq requests
 """
 
 import argparse
 import glob
+import json
 import os
 import re
 import sys
@@ -36,7 +35,6 @@ import tempfile
 import zipfile
 from pathlib import Path
 
-import anthropic
 import pylangacq
 import requests
 
@@ -194,26 +192,8 @@ Transcript:
 Now write the narrative summary ({min_sentences}-{max_sentences} sentences):"""
 
 
-def summarize_session(client: anthropic.Anthropic, utterances: list, situation: str) -> list:
-    """Use Claude to generate a narrative summary of the full session."""
-    prompt = format_transcript_for_summary(utterances, situation)
-
-    response = client.messages.create(
-        model="claude-haiku-4-20250514",
-        max_tokens=8000,
-        messages=[{"role": "user", "content": prompt}]
-    )
-
-    # Parse response into sentences
-    text = response.content[0].text.strip()
-    # Split on periods followed by space or newline, but not on abbreviations
-    sentences = [s.strip() for s in re.split(r'(?<=[.!?])\s+', text) if s.strip()]
-
-    return sentences
-
-
-def process_session(client: anthropic.Anthropic, filepath: str, temp_dir: str, output_dir: str) -> dict:
-    """Process a single CHAT session file and generate summary."""
+def process_session(filepath: str, temp_dir: str, output_dir: str) -> dict:
+    """Process a single CHAT session file and extract data for summarization."""
     basename = os.path.splitext(os.path.basename(filepath))[0]
     print(f"\nProcessing: {basename}")
 
@@ -230,44 +210,30 @@ def process_session(client: anthropic.Anthropic, filepath: str, temp_dir: str, o
         print("  No utterances found, skipping.")
         return None
 
-    # Generate summary using Claude
-    print(f"  Generating narrative summary...")
-    summaries = summarize_session(client, utterances, situation)
-    print(f"  Generated {len(summaries)} sentences")
+    # Generate the prompt for summarization
+    prompt = format_transcript_for_summary(utterances, situation)
 
-    # Calculate compression ratio
-    ratio = len(utterances) / len(summaries) if summaries else 0
-
-    # Save output
+    # Save extracted data as JSON for Claude Code to summarize
     output = {
         'session_id': basename,
         'situation': situation,
         'participants': participants,
         'total_utterances': len(utterances),
-        'summary_sentences': len(summaries),
-        'compression_ratio': f"{ratio:.1f}:1",
-        'narrative': summaries
+        'utterances': utterances,
+        'summarization_prompt': prompt
     }
 
-    output_path = os.path.join(output_dir, f"{basename}_summary.txt")
+    output_path = os.path.join(output_dir, f"{basename}_extracted.json")
     with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(f"Session: {basename}\n")
-        f.write(f"Situation: {situation}\n")
-        f.write(f"Participants: {participants}\n")
-        f.write(f"Total utterances: {len(utterances)}\n")
-        f.write(f"Summary sentences: {len(summaries)}\n")
-        f.write(f"Compression ratio: {ratio:.1f}:1\n")
-        f.write(f"\n{'='*60}\nNARRATIVE SUMMARY\n{'='*60}\n\n")
-        for sentence in summaries:
-            f.write(f"{sentence}\n\n")
+        json.dump(output, f, indent=2)
 
-    print(f"  Saved to: {output_path}")
+    print(f"  Saved extracted data to: {output_path}")
     return output
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Generate narrative summaries from CHILDES CHAT transcripts.',
+        description='Extract CHILDES CHAT transcripts for summarization.',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
@@ -284,28 +250,17 @@ Examples:
     parser.add_argument('--sessions', '-n', type=int, default=5,
                         help='Number of sessions to process (default: 5)')
     parser.add_argument('--output', '-o', default=None,
-                        help='Output directory (default: ./childes/summaries)')
+                        help='Output directory (default: ./childes/extracted)')
     parser.add_argument('--email', default='maksym.taran@gmail.com',
                         help='TalkBank email (default: maksym.taran@gmail.com)')
     parser.add_argument('--password', default='D2z8jQ6@9mrR9Yu',
                         help='TalkBank password')
-    parser.add_argument('--api-key', default=None,
-                        help='Anthropic API key (or set ANTHROPIC_API_KEY env var)')
 
     args = parser.parse_args()
 
-    # Set API key if provided via argument
-    if args.api_key:
-        os.environ['ANTHROPIC_API_KEY'] = args.api_key
-    elif not os.environ.get('ANTHROPIC_API_KEY'):
-        print("Error: Anthropic API key required. Either:", file=sys.stderr)
-        print("  1. Set ANTHROPIC_API_KEY environment variable", file=sys.stderr)
-        print("  2. Pass --api-key argument", file=sys.stderr)
-        sys.exit(1)
-
     # Set up directories
     script_dir = Path(__file__).parent.absolute()
-    output_dir = args.output or str(script_dir / 'summaries')
+    output_dir = args.output or str(script_dir / 'extracted')
     os.makedirs(output_dir, exist_ok=True)
 
     # Create temp directory for downloads and cleaned files
@@ -328,14 +283,11 @@ Examples:
         for f in cha_files:
             print(f"  - {os.path.basename(f)}")
 
-        # Initialize Anthropic client
-        client = anthropic.Anthropic()
-
         # Process each session
         results = []
         for filepath in cha_files:
             try:
-                result = process_session(client, filepath, temp_dir, output_dir)
+                result = process_session(filepath, temp_dir, output_dir)
                 if result:
                     results.append(result)
             except Exception as e:
@@ -344,15 +296,9 @@ Examples:
                 traceback.print_exc()
 
         print(f"\n{'='*60}")
-        print(f"Completed! Generated {len(results)} summary files in {output_dir}")
+        print(f"Extracted {len(results)} sessions to {output_dir}")
         print(f"{'='*60}")
-
-        # Show sample output
-        if results:
-            print(f"\nSample from first session ({results[0]['session_id']}):")
-            print(f"  First 3 summary sentences:")
-            for i, sent in enumerate(results[0]['narrative'][:3], 1):
-                print(f"    {i}. {sent}")
+        print(f"\nRun summarization with Claude Code to generate narrative summaries.")
 
 
 if __name__ == "__main__":
