@@ -1,922 +1,878 @@
 Session: chj
 Situation: before bed
 Total utterances: 9119
-Summary sentences: 456
-Compression ratio: 20.0:1
+Summary sentences: 434
+Compression ratio: 21:1
 
 ============================================================
 NARRATIVE SUMMARY
 ============================================================
 
-The family members discussed father and displayed or showed something, and asked questions about how things worked.
+The sister gave or received an instruction.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The child talked about their father.
 
-The family members discussed father and mother, and displayed or showed something.
+The mother talked about their father.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The mother affirmed or agreed.
 
-The family members discussed mother, asked questions about how things worked, and made requests.
+The child talked about their father.
 
-The family members discussed father and asked questions about how things worked, and made requests.
+The investigator asked a question.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The mother addressed someone by name.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The father asked a question.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The investigator addressed someone by name.
 
-The family members discussed father and mother, and displayed or showed something.
+The father asked a question.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The child talked about their father.
 
-The family members discussed sister, asked questions about how things worked, and made requests.
+The mother asked to see or observe something.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The child asked to see or observe something.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The father affirmed or agreed.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The father asked to see or observe something.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The sister talked about their mother.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The sister talked about their mother.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The mother asked what something was.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The child asked how to do something.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The child asked what something was.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The child asked a question.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The investigator discussed the transmitter.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The child asked a question.
 
-The family members discussed father and displayed or showed something, and asked questions about how things worked.
+The investigator affirmed or agreed.
 
-The family members discussed father and displayed or showed something, and asked questions about how things worked.
+The sister talked about their mother.
 
-The family members discussed displayed or showed something, and discussed eating.
+The mother affirmed or agreed.
 
-The family members discussed father and mother, and asked questions about how things worked.
+The sister talked about their father.
 
-The family members discussed father, asked questions about how things worked, and discussed an injury.
+The mother discussed recording equipment.
 
-The family members discussed mother and asked questions about how things worked, and played games or toys.
+The child gave or received an instruction.
 
-The family members discussed made requests and interacted.
+The sister asked how something worked.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The mother asked to see or observe something.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The sister affirmed or agreed.
 
-The family members discussed asked questions about how things worked, laughed together, and discussed an injury.
+The mother asked what something was.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The mother asked what something was.
 
-The family members discussed asked questions about how things worked, laughed together, and discussed an injury.
+The child asked what something was.
 
-The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
+The mother mentioned furniture or a storage area.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The child asked where something was.
 
-The family members discussed asked questions about how things worked and interacted.
+The mother affirmed or agreed.
 
-The family members discussed made requests, and discussed an injury.
+The sister asked why something was the case.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The child gave or received an instruction.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The mother gave or received an instruction.
 
-The family members discussed father and mother, and displayed or showed something.
+The mother gave or received an instruction.
 
-The family members discussed mother, and displayed or showed something.
+The mother made a direct request.
 
-The family members discussed mother, discussed an injury, and discussed eating.
+The sister asked what something was called.
 
-The family members discussed mother, made requests, and discussed an injury.
+The mother discussed recording equipment.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The mother gave or received an instruction.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The mother discussed recording equipment.
 
-The family members discussed mother, asked questions about how things worked, and discussed an injury.
+The sister gave or received an instruction.
 
-The family members discussed asked questions about how things worked and made requests, and discussed an injury.
+The sister expressed appreciation.
 
-The family members discussed mother and asked questions about how things worked, and discussed an injury.
+The mother mentioned furniture or a storage area.
 
-The family members discussed father and mother, and laughed together.
+The mother asked if someone had finished eating.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The mother talked about food and eating.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The sister talked about food and eating.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The mother asked if someone had finished eating.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The child asked a question.
 
-The family members discussed made requests, and discussed an injury.
+The mother talked about food and eating.
 
-The family members discussed mother, asked questions about how things worked, and made requests.
+The child affirmed or agreed.
 
-The family members discussed mother and interacted.
+The mother asked a question.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The sister talked about their father.
 
-The family members discussed mother, and displayed or showed something.
+The mother talked about their father.
 
-The family members discussed asked questions about how things worked, made requests, and discussed an injury.
+The child talked about their mother.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and discussed an injury.
+The child asked what something was.
 
-The family members discussed mother, asked questions about how things worked, and made requests.
+The child gave or received an instruction.
 
-The family members discussed made requests, and discussed an injury.
+The mother addressed someone by name.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The sister asked a question.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The mother asked if someone had finished eating.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The mother mentioned furniture or a storage area.
 
-The family members discussed father and displayed or showed something, and asked questions about how things worked.
+The child asked to see or observe something.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The child declined or disagreed.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The child declined or disagreed.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The child declined or disagreed.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The mother asked a question.
 
-The family members discussed mother and asked questions about how things worked, and laughed together.
+The investigator asked to see or observe something.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The mother asked a question.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The investigator expressed a preference.
 
-The family members discussed asked questions about how things worked, made requests, and discussed an injury.
+The sister gave or received an instruction.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and played games or toys.
+The child affirmed or agreed.
 
-The family members discussed displayed or showed something, and asked questions about how things worked.
+The child mentioned a ruler.
 
-The family members discussed asked questions about how things worked, and made requests.
+The mother addressed someone by name.
 
-The family members conversed together.
+The child mentioned a ruler.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The sister asked to see or observe something.
 
-The family members discussed made requests and interacted.
+The father affirmed or agreed.
 
-The family members discussed father and displayed or showed something, and asked questions about how things worked.
+The father declined or disagreed.
 
-The family members discussed father and asked questions about how things worked, and made requests.
+The sister asked to see or observe something.
 
-The family members discussed father and made requests, and discussed an injury.
+The mother asked to see or observe something.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The child asked to see or observe something.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The sister discussed recording equipment.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The sister discussed recording equipment.
 
-The family members discussed asked questions about how things worked and made requests, and discussed an injury.
+The sister discussed recording equipment.
 
-The family members discussed father and asked questions about how things worked, and made requests.
+The investigator discussed recording equipment.
 
-The family members discussed father and asked questions about how things worked, and made requests.
+The investigator talked about their father.
 
-The family members discussed asked questions about how things worked, discussed an injury, and discussed eating.
+The investigator asked to see or observe something.
 
-The family members discussed father and mother, and asked questions about how things worked.
+The sister talked about names.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The investigator asked to see or observe something.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The investigator gave or received an instruction.
 
-The family members discussed mother, asked questions about how things worked, and made requests.
+The child affirmed or agreed.
 
-The family members discussed asked questions about how things worked and interacted.
+The sister asked a question.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The child mentioned their sister.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The investigator mentioned their sister.
 
-The family members discussed mother and interacted.
+The investigator affirmed or agreed.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and played games or toys.
+The investigator affirmed or agreed.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The investigator asked a question.
 
-The family members discussed displayed or showed something, laughed together, and discussed an injury.
+The sister addressed someone by name.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and laughed together.
+The sister addressed someone by name.
 
-The family members discussed asked questions about how things worked, and made requests.
+The investigator asked what something was.
 
-The family members discussed played games or toys, and discussed an injury.
+The sister declined or disagreed.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The sister declined or disagreed.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The sister declined or disagreed.
 
-The family members discussed asked questions about how things worked and made requests, and laughed together.
+The sister affirmed or agreed.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and laughed together.
+The father affirmed or agreed.
 
-The family members discussed asked questions about how things worked, and played games or toys.
+The sister asked a question.
 
-The family members discussed discussed an injury and interacted.
+The investigator expressed appreciation.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and laughed together.
+The child expressed a preference.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The sister asked to see or observe something.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The child asked where something was.
 
-The family members discussed displayed or showed something, and asked questions about how things worked.
+The mother declined or disagreed.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The mother declined or disagreed.
 
-The family members discussed made requests, and laughed together.
+The sister affirmed or agreed.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The child addressed someone by name.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and discussed an injury.
+The child asked how to do something.
 
-The family members discussed displayed or showed something, discussed an injury, and discussed eating.
+The child asked how to do something.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The investigator gave or received an instruction.
 
-The family members discussed made requests and interacted.
+The investigator gave or received an instruction.
 
-The family members discussed made requests, discussed an injury, and discussed eating.
+The sister addressed someone by name.
 
-The family members discussed asked questions about how things worked and made requests, and discussed an injury.
+The mother expressed appreciation.
 
-The family members discussed asked questions about how things worked, made requests, and discussed eating.
+The mother declined or disagreed.
 
-The family members discussed discussed an injury and interacted.
+The child asked where something was.
 
-The family members discussed made requests, and discussed an injury.
+The sister asked where something was.
 
-The family members discussed made requests, and discussed an injury.
+The mother asked where something was.
 
-The family members discussed asked questions about how things worked and interacted.
+The investigator discussed recording equipment.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and played games or toys.
+The sister asked who someone was.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The sister asked who someone was.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The sister asked who someone was.
 
-The family members discussed asked questions about how things worked and made requests, and laughed together.
+The mother asked where something was.
 
-The family members discussed made requests, laughed together, and discussed bedtime routines.
+The mother asked where something was.
 
-The family members discussed father and sister, and asked questions about how things worked.
+The mother asked why something was the case.
 
-The family members discussed father, sister, and asked questions about how things worked.
+The mother expressed appreciation.
 
-The family members discussed father and displayed or showed something, and asked questions about how things worked.
+The mother asked who someone was.
 
-The family members discussed asked questions about how things worked, made requests, and played games or toys.
+The mother talked about their father.
 
-The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
+The father asked who someone was.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The father addressed someone by name.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The father asked what something was.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The investigator discussed recording equipment.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The investigator addressed someone by name.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The investigator expressed appreciation.
 
-The family members discussed displayed or showed something, and discussed an injury.
+The child expressed a preference.
 
-The family members discussed asked questions about how things worked, and laughed together.
+The investigator asked a question.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The mother talked about food and eating.
 
-The family members discussed father, asked questions about how things worked, and laughed together.
+The child talked about their mother.
 
-The family members discussed laughed together, and discussed an injury.
+The investigator expressed appreciation.
 
-The family members discussed laughed together and interacted.
+The child addressed someone by name.
 
-The family members discussed discussed an injury and interacted.
+The child expressed a preference.
 
-The family members discussed discussed an injury and interacted.
+The sister asked what something was.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The mother expressed appreciation.
 
-The family members discussed laughed together, and discussed an injury.
+The sister asked what something was.
 
-The family members discussed displayed or showed something, and discussed an injury.
+The sister asked where something was.
 
-The family members discussed laughed together and interacted.
+The investigator asked what something was.
 
-The family members discussed displayed or showed something, discussed an injury, and discussed bedtime routines.
+The child talked about their mother.
 
-The family members discussed mother, and laughed together.
+The investigator talked about food and eating.
 
-The family members discussed asked questions about how things worked and made requests, and laughed together.
+The child addressed someone by name.
 
-The family members discussed mother, and laughed together.
+The mother asked who someone was.
 
-The family members discussed made requests, laughed together, and discussed an injury.
+The sister asked where something was.
 
-The family members discussed laughed together, and discussed an injury.
+The father declined or disagreed.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and laughed together.
+The mother talked about their mother.
 
-The family members discussed made requests, played games or toys, and laughed together.
+The investigator addressed someone by name.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The investigator expressed a preference.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The investigator talked about their mother.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The investigator asked where something was.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The sister asked what something was.
 
-The family members discussed asked questions about how things worked, and made requests.
+The sister asked why something was the case.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The sister talked about food and eating.
 
-The family members discussed asked questions about how things worked, made requests, and discussed an injury.
+The investigator talked about food and eating.
 
-The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
+The sister talked about their father.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+FAD asked a question.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+MAD asked to see or observe something.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+FAD asked how to do something.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+MAD asked a question.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+FAD asked a question.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and made requests.
+MAD asked a question.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+MAD asked a question.
 
-The family members discussed asked questions about how things worked, and played games or toys.
+The mother asked who someone was.
 
-The family members discussed asked questions about how things worked and made requests, and played games or toys.
+The child asked who someone was.
 
-The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
+FAD asked where something was.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+FAD affirmed or agreed.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and played games or toys.
+MAD affirmed or agreed.
 
-The family members discussed asked questions about how things worked, made requests, and discussed an injury.
+MAD addressed someone by name.
 
-The family members discussed asked questions about how things worked, discussed an injury, and discussed eating.
+FAD asked a question.
 
-The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
+FAD affirmed or agreed.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The mother asked how to do something.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The child asked what something was called.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The child asked who someone was.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The child expressed appreciation.
 
-The family members discussed mother, and made requests.
+The mother asked why something was the case.
 
-The family members discussed mother, asked questions about how things worked, and made requests.
+FAD expressed appreciation.
 
-The family members discussed asked questions about how things worked, made requests, and discussed an injury.
+FAD addressed someone by name.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+FAD addressed someone by name.
 
-The family members discussed mother and asked questions about how things worked, and discussed an injury.
+A male child addressed someone by name.
 
-The family members discussed asked questions about how things worked and made requests, and discussed an injury.
+A male child asked what something was.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+A male child asked a question.
 
-The family members discussed father and asked questions about how things worked, and made requests.
+A male child asked a question.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+A male child affirmed or agreed.
 
-The family members discussed mother, and asked questions about how things worked.
+A male child declined or disagreed.
 
-The family members discussed asked questions about how things worked, and made requests.
+A female child asked a question.
 
-The family members discussed father and displayed or showed something, and asked questions about how things worked.
+A male child declined or disagreed.
 
-The family members discussed made requests, and discussed an injury.
+A female child asked what something was.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+A male child asked a question.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+A male child addressed someone by name.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+A male child addressed someone by name.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The child expressed appreciation.
 
-The family members discussed mother, asked questions about how things worked, and discussed an injury.
+The teacher expressed appreciation.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The teacher asked what something was.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The teacher declined or disagreed.
 
-The family members discussed asked questions about how things worked, made requests, and discussed an injury.
+The teacher asked what something was.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The teacher asked what something was.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The teacher asked to see or observe something.
 
-The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
+A male child asked to see or observe something.
 
-The family members discussed father and mother, and asked questions about how things worked.
+The teacher asked to see or observe something.
 
-The family members discussed father and mother, and displayed or showed something.
+A male child asked to see or observe something.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The teacher affirmed or agreed.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The teacher affirmed or agreed.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The teacher declined or disagreed.
 
-The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
+The teacher expressed appreciation.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+A female child asked a question.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+A male child asked what something was.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+A female child addressed someone by name.
 
-The family members discussed played games or toys, discussed an injury, and discussed eating.
+A female child addressed someone by name.
 
-The family members discussed father and mother, and asked questions about how things worked.
+A female child affirmed or agreed.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+A male child gave or received an instruction.
 
-The family members discussed mother and laughed together, and discussed an injury.
+A male child gave or received an instruction.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and played games or toys.
+A male child asked where something was.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+A female child gave or received an instruction.
 
-The family members discussed asked questions about how things worked, discussed eating, and discussed bedtime routines.
+A female child gave or received an instruction.
 
-The family members discussed father and mother, and asked questions about how things worked.
+The teacher asked who someone was.
 
-The family members discussed father and mother, and asked questions about how things worked.
+The teacher affirmed or agreed.
 
-The family members discussed made requests, played games or toys, and discussed an injury.
+A male child asked to see or observe something.
 
-The family members discussed mother, asked questions about how things worked, and discussed an injury.
+The teacher expressed a preference.
 
-The family members discussed mother, and asked questions about how things worked.
+The teacher addressed someone by name.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and played games or toys.
+The teacher addressed someone by name.
 
-The family members discussed father and displayed or showed something, and made requests.
+The teacher asked a question.
 
-The family members discussed father and mother, and displayed or showed something.
+The teacher asked a question.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+A female child asked who someone was.
 
-The family members discussed displayed or showed something, and discussed bedtime routines.
+A female child asked who someone was.
 
-The family members discussed father, discussed an injury, and discussed bedtime routines.
+The child talked about names.
 
-The family members discussed father, discussed an injury, and discussed bedtime routines.
+The teacher declined or disagreed.
 
-The family members discussed discussed an injury, and discussed bedtime routines.
+A female child talked about their father.
 
-The family members discussed made requests, discussed an injury, and discussed bedtime routines.
+A female child talked about their father.
 
-The family members discussed father and made requests, and played games or toys.
+A female child talked about their father.
 
-The family members discussed sister, displayed or showed something, and asked questions about how things worked.
+A female child affirmed or agreed.
 
-The family members discussed mother and made requests, and played games or toys.
+A male child talked about their father.
 
-The family members discussed sister and asked questions about how things worked, and discussed an injury.
+A female child declined or disagreed.
 
-The family members discussed displayed or showed something and made requests, and played games or toys.
+The investigator asked what something was.
 
-The family members discussed asked questions about how things worked, played games or toys, and discussed an injury.
+A female child asked a question.
 
-The family members discussed father and mother, and displayed or showed something.
+A female child gave or received an instruction.
 
-The family members discussed mother, asked questions about how things worked, and made requests.
+A female child made a direct request.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The teacher talked about food and eating.
 
-The family members discussed mother, made requests, and discussed an injury.
+The teacher asked a question.
 
-The family members discussed displayed or showed something, and made requests.
+The teacher addressed someone by name.
 
-The family members discussed displayed or showed something, and asked questions about how things worked.
+A female child affirmed or agreed.
 
-The family members discussed mother, and discussed eating.
+The child talked about food and eating.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+A female child talked about food and eating.
 
-The family members discussed discussed an injury and interacted.
+The child talked about food and eating.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The investigator declined or disagreed.
 
-The family members discussed asked questions about how things worked, made requests, and discussed an injury.
+A female child talked about food and eating.
 
-The family members discussed mother and asked questions about how things worked, and discussed an injury.
+A female child addressed someone by name.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The investigator declined or disagreed.
 
-The family members discussed sister and displayed or showed something, and asked questions about how things worked.
+The child talked about food and eating.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and discussed an injury.
+A female child asked what something was.
 
-The family members discussed made requests, and discussed an injury.
+The investigator declined or disagreed.
 
-The family members discussed mother and displayed or showed something, and discussed an injury.
+The teacher gave or received an instruction.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The child expressed appreciation.
 
-The family members discussed asked questions about how things worked, made requests, and discussed an injury.
+The teacher asked where something was.
 
-The family members discussed displayed or showed something, and discussed an injury.
+A male child gave or received an instruction.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The teacher expressed a preference.
 
-The family members discussed mother, and discussed an injury.
+The teacher asked to see or observe something.
 
-The family members discussed mother, and discussed an injury.
+A male child asked what something was.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+A female child asked to see or observe something.
 
-The family members discussed mother, displayed or showed something, and discussed an injury.
+A female child asked to see or observe something.
 
-The family members discussed made requests, discussed an injury, and discussed eating.
+A male child affirmed or agreed.
 
-The family members discussed made requests, and discussed an injury.
+A male child affirmed or agreed.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+A male child expressed appreciation.
 
-The family members discussed asked questions about how things worked, made requests, and discussed eating.
+A male child declined or disagreed.
 
-The family members discussed mother, made requests, and discussed eating.
+A male child asked where something was.
 
-The family members discussed discussed eating and interacted.
+A male child expressed a preference.
 
-The family members discussed mother and asked questions about how things worked, and discussed an injury.
+A male child expressed a preference.
 
-The family members discussed displayed or showed something, made requests, and discussed an injury.
+A male child expressed a preference.
 
-The family members discussed mother, displayed or showed something, and played games or toys.
+The investigator expressed a preference.
 
-The family members discussed displayed or showed something, discussed an injury, and discussed eating.
+The teacher asked who someone was.
 
-The family members discussed mother, asked questions about how things worked, and discussed an injury.
+The teacher talked about their mother.
 
-The family members discussed mother, and discussed an injury.
+The teacher talked about their mother.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+FAD gave or received an instruction.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The teacher expressed a preference.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The teacher gave or received an instruction.
 
-The family members discussed displayed or showed something, made requests, and discussed eating.
+A male child talked about food and eating.
 
-The family members discussed displayed or showed something, and discussed eating.
+A male child talked about food and eating.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+A male child talked about food and eating.
 
-The family members discussed discussed an injury, and discussed eating.
+A male child asked why something was the case.
 
-The family members discussed mother and asked questions about how things worked, and discussed an injury.
+A male child asked why something was the case.
 
-The family members discussed mother and displayed or showed something, and discussed an injury.
+A male child talked about their mother.
 
-The family members discussed asked questions about how things worked and discussed an injury, and discussed eating.
+The teacher talked about food and eating.
 
-The family members discussed asked questions about how things worked, discussed an injury, and discussed eating.
+The teacher gave or received an instruction.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The teacher asked where something was.
 
-The family members discussed mother and asked questions about how things worked, and discussed an injury.
+A male child expressed appreciation.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The teacher expressed appreciation.
 
-The family members discussed sister and displayed or showed something, and asked questions about how things worked.
+A male child asked where something was.
 
-The family members discussed mother and asked questions about how things worked, and discussed an injury.
+A female child asked to see or observe something.
 
-The family members discussed mother and asked questions about how things worked, and discussed an injury.
+The child asked who someone was.
 
-The family members discussed displayed or showed something and made requests, and discussed an injury.
+A female child declined or disagreed.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The teacher asked who someone was.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The teacher mentioned furniture or a storage area.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The teacher mentioned furniture or a storage area.
 
-The family members discussed asked questions about how things worked, and made requests.
+The teacher talked about food and eating.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+A female child declined or disagreed.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and discussed an injury.
+A male child asked who someone was.
 
-The family members discussed mother, displayed or showed something, and discussed an injury.
+A male child expressed appreciation.
 
-The family members discussed made requests, discussed an injury, and discussed eating.
+A male child talked about names.
 
-The family members discussed mother and displayed or showed something, and discussed an injury.
+The investigator mentioned furniture or a storage area.
 
-The family members discussed asked questions about how things worked and made requests, and discussed an injury.
+A male child discussed a container or object.
 
-The family members discussed displayed or showed something, made requests, and discussed an injury.
+The investigator asked if someone had finished eating.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The teacher mentioned furniture or a storage area.
 
-The family members discussed asked questions about how things worked, discussed an injury, and discussed eating.
+The teacher discussed a container or object.
 
-The family members discussed asked questions about how things worked, made requests, and discussed an injury.
+A female child asked what something was.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and made requests.
+A female child asked where something was.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and discussed an injury.
+UNK asked a question.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+A female child mentioned their sister.
 
-The family members discussed mother and sister, and asked questions about how things worked.
+A female child mentioned their sister.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+A female child mentioned their sister.
 
-The family members displayed or showed something.
+A female child asked who someone was.
 
-The family members discussed displayed or showed something, and discussed eating.
+The child asked why something was the case.
 
-The family members discussed mother and displayed or showed something, and made requests.
+FAD affirmed or agreed.
 
-The family members discussed mother, and made requests.
+FAD addressed someone by name.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+FAD asked what something was.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+FAD asked to see or observe something.
 
-The family members discussed mother and made requests, and discussed an injury.
+FAD expressed appreciation.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+FAD asked what something was.
 
-The family members discussed asked questions about how things worked, made requests, and discussed an injury.
+FAD gave or received an instruction.
 
-The family members discussed mother, asked questions about how things worked, and discussed an injury.
+FAD asked to see or observe something.
 
-The family members discussed displayed or showed something, and discussed an injury.
+The child asked why something was the case.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The child talked about names.
 
-The family members discussed asked questions about how things worked, and discussed eating.
+A female child expressed a preference.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+A female child expressed appreciation.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+A female child talked about their mother.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The teacher talked about their mother.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The teacher asked how to do something.
 
-The family members displayed or showed something.
+The teacher asked how to do something.
 
-The family members discussed displayed or showed something, discussed an injury, and discussed eating.
+The teacher asked how to do something.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The teacher asked where something was.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+A male child asked who someone was.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+A male child asked why something was the case.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+A male child talked about names.
 
-The family members discussed father and laughed together, and discussed eating.
+The teacher asked why something was the case.
 
-The family members discussed father and mother, and displayed or showed something.
+A female child expressed appreciation.
 
-The family members discussed asked questions about how things worked, made requests, and discussed an injury.
+A female child talked about their mother.
 
-The family members discussed discussed an injury and interacted.
+A female child expressed appreciation.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The sister talked about food and eating.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The mother expressed a preference.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and laughed together.
+The mother expressed a preference.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and discussed an injury.
+The sister expressed a preference.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and laughed together.
+The mother expressed a preference.
 
-The family members discussed mother, discussed an injury, and discussed eating.
+The sister asked why something was the case.
 
-The family members discussed discussed an injury and interacted.
+The mother asked how to do something.
 
-The family members discussed mother, played games or toys, and discussed an injury.
+The mother asked why something was the case.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The father declined or disagreed.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The investigator mentioned their brother.
 
-The family members discussed mother and made requests, and discussed an injury.
+The sister mentioned their brother.
 
-The family members discussed made requests, discussed an injury, and discussed eating.
+The sister expressed appreciation.
 
-The family members discussed asked questions about how things worked and made requests, and played games or toys.
+The father asked a question.
 
-The family members discussed mother, asked questions about how things worked, and discussed an injury.
+The sister expressed appreciation.
 
-The family members discussed displayed or showed something, and discussed eating.
+The sister expressed a preference.
 
-The family members discussed mother and interacted.
+The mother made a direct request.
 
-The family members discussed mother and asked questions about how things worked, and played games or toys.
+The sister expressed a preference.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The father talked about food and eating.
 
-The family members discussed mother and made requests, and discussed an injury.
+The investigator talked about food and eating.
 
-The family members discussed mother and asked questions about how things worked, and laughed together.
+The father talked about names.
 
-The family members discussed mother and displayed or showed something, and made requests.
+The child mentioned furniture or a storage area.
 
-The family members discussed mother and displayed or showed something, and discussed an injury.
+The child mentioned furniture or a storage area.
 
-The family members discussed father and mother, and asked questions about how things worked.
+The child discussed a container or object.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+A female child mentioned furniture or a storage area.
 
-The family members discussed mother and made requests, and laughed together.
+The mother asked how to do something.
 
-The family members discussed mother and asked questions about how things worked, and laughed together.
+The child mentioned furniture or a storage area.
 
-The family members discussed father, discussed an injury, and discussed eating.
+A female child expressed a preference.
 
-The family members discussed mother, asked questions about how things worked, and discussed an injury.
+A female child expressed a preference.
 
-The family members discussed made requests, discussed an injury, and discussed eating.
+A female child talked about food and eating.
 
-The family members discussed mother and asked questions about how things worked, and laughed together.
+A female child asked why something was the case.
 
-The family members discussed laughed together and interacted.
+A female child asked why something was the case.
 
-The family members discussed asked questions about how things worked, discussed an injury, and discussed eating.
+The mother talked about their mother.
 
-The family members discussed made requests, and discussed an injury.
+A female child talked about their mother.
 
-The family members discussed displayed or showed something, and made requests.
+A female child asked where something was.
 
-The family members discussed discussed an injury, and discussed eating.
+A female child asked where something was.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The sister mentioned furniture or a storage area.
 
-The family members discussed asked questions about how things worked, made requests, and discussed eating.
+The sister mentioned furniture or a storage area.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+FAD declined or disagreed.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+FAD expressed a preference.
 
-The family members discussed mother and displayed or showed something, and discussed an injury.
+FAD declined or disagreed.
 
-The family members discussed mother and asked questions about how things worked, and discussed an injury.
+FAD declined or disagreed.
 
-The family members discussed mother, and made requests.
+FAD asked to see or observe something.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+FAD expressed appreciation.
 
-The family members discussed laughed together, and discussed eating.
+FAD talked about food and eating.
 
-The family members discussed discussed an injury, and discussed eating.
+FAD talked about their mother.
 
-The family members discussed displayed or showed something and made requests, and discussed an injury.
+FAD talked about their mother.
 
-The family members discussed asked questions about how things worked and interacted.
+FAD talked about food and eating.
 
-The family members discussed laughed together, and discussed an injury.
+FAD asked why something was the case.
 
-The family members discussed mother and asked questions about how things worked, and discussed an injury.
+FAD gave or received an instruction.
 
-The family members discussed mother, asked questions about how things worked, and discussed an injury.
+FAD talked about food and eating.
 
-The family members discussed mother and asked questions about how things worked, and discussed an injury.
+FAD expressed a preference.
 
-The family members discussed asked questions about how things worked, made requests, and discussed an injury.
+FAD expressed a preference.
 
-The family members discussed mother and displayed or showed something, and discussed an injury.
+FAD asked how to do something.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+FAD discussed recording equipment.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+FAD asked what something was.
 
-The family members discussed asked questions about how things worked, and laughed together.
+The mother discussed the transmitter.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The child discussed recording equipment.
 
-The family members discussed asked questions about how things worked, and laughed together.
+The mother talked about their mother.
 
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
+The child asked why something was the case.
 
-The family members discussed asked questions about how things worked and made requests, and discussed an injury.
+A female child mentioned their brother.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The sister made a direct request.
 
-The family members discussed asked questions about how things worked, discussed an injury, and discussed bedtime routines.
+The child made a direct request.
 
-The family members discussed asked questions about how things worked, made requests, and discussed an injury.
+The mother talked about names.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The child made a direct request.
 
-The family members discussed asked questions about how things worked, and made requests.
+The mother asked what something was called.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The mother asked what something was called.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The mother talked about names.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The mother talked about names.
 
-The family members discussed mother and laughed together, and discussed an injury.
+The sister mentioned furniture or a storage area.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The child asked if someone had finished eating.
 
-The family members discussed father and mother, and asked questions about how things worked.
+The sister asked if someone had finished eating.
 
-The family members discussed mother and asked questions about how things worked, and made requests.
+The father asked to see or observe something.
 
-The family members discussed father and mother, and laughed together.
+The father asked to see or observe something.
 
-The family members discussed father and displayed or showed something, and asked questions about how things worked.
+The father addressed someone by name.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The investigator mentioned furniture or a storage area.
 
-The family members conversed together.
+The mother discussed a container or object.
 
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
+The child discussed a container or object.
 
-The family members displayed or showed something.
+The mother discussed a container or object.
 
-The family members discussed asked questions about how things worked, and discussed an injury.
+The investigator discussed a container or object.
 
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
+The sister discussed a container or object.
 
-The family members discussed mother and displayed or showed something, and played games or toys.
-
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
-
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
-
-The family members discussed displayed or showed something, and discussed an injury.
-
-The family members discussed displayed or showed something and asked questions about how things worked, and played games or toys.
-
-The family members discussed displayed or showed something, asked questions about how things worked, and discussed an injury.
-
-The family members discussed displayed or showed something and asked questions about how things worked, and played games or toys.
-
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
-
-The family members discussed mother and asked questions about how things worked, and made requests.
-
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
-
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
-
-The family members discussed mother, discussed an injury, and discussed bedtime routines.
-
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
-
-The family members discussed displayed or showed something and asked questions about how things worked, and made requests.
-
-The family members discussed mother and displayed or showed something, and made requests.
-
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
-
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
-
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
-
-The family members discussed mother and displayed or showed something, and asked questions about how things worked.
-
-The family members discussed mother, asked questions about how things worked, and discussed bedtime routines.
-
-The family members discussed father and mother, and displayed or showed something.
-
-The family members discussed father and mother, and asked questions about how things worked.
-
-The family members discussed father and displayed or showed something, and played games or toys.
+The mother discussed a container or object.
 
