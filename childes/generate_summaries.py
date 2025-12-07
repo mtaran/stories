@@ -179,17 +179,21 @@ def format_transcript_for_summary(utterances: list, situation: str) -> str:
     return f"""This is a transcript from a child language study.
 Context: {situation}
 
-The transcript has {n_utterances} utterances. Give me a narrative version of what happens
-in this session, in {min_sentences}-{max_sentences} sentences.
+The transcript has {n_utterances} utterances. Write a narrative summary of {min_sentences}-{max_sentences} sentences.
 
-Write in past tense, third person. Each sentence should capture what happened in a segment
-of the conversation - topics discussed, questions asked, activities mentioned, emotions
-expressed, etc.
+IMPORTANT RULES:
+- Each sentence must describe a SPECIFIC event, topic, or exchange from the transcript
+- NEVER use generic filler like "The conversation continued" or "They discussed various topics"
+- Include concrete details: names of objects, games, foods, places, people mentioned
+- Capture the flow: what happened first, then what, any conflicts or resolutions
+- Note emotional moments: excitement, frustration, silliness, affection
+
+Write in past tense, third person.
 
 Transcript:
 {transcript}
 
-Now write the narrative summary ({min_sentences}-{max_sentences} sentences):"""
+Now write the narrative summary ({min_sentences}-{max_sentences} sentences). Remember: every sentence must contain SPECIFIC details from the transcript, no generic filler:"""
 
 
 def process_session(filepath: str, temp_dir: str, output_dir: str) -> dict:
