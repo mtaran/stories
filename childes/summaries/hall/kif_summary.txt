@@ -1,0 +1,528 @@
+Session: kif
+Situation: before bed
+Participants: BRO, CHI, EXP, FAD, FAT, FCH, GRA, GRF, GRO, MAD, MCH, MOT, SIS, TCA, TEA, TEL, UNK
+Total utterances: 8088
+Summary sentences: 259
+Compression ratio: 31:1
+
+============================================================
+NARRATIVE SUMMARY
+============================================================
+
+The child and The mother asked and discussed questions about Hi_c, Hi.
+
+The investigator and The mother had disagreements about Chip, Hi_c.
+
+The mother and The investigator had disagreements about Ma, Jack.
+
+The investigator and The mother had disagreements about various topics.
+
+The child and The mother had disagreements about Carl.
+
+The mother and The child asked and discussed questions about Kip.
+
+The child and The mother had disagreements about Chip.
+
+The investigator and The child discussed the recording equipment and Ma, Chip.
+
+The child and The investigator had disagreements about various topics.
+
+The investigator and The child had disagreements about Redford, Jeremy.
+
+The investigator and The child had disagreements about various topics.
+
+The child and The investigator asked and discussed questions about Meyer's, Mr.
+
+The mother and The investigator asked and discussed questions about Carl, Kip.
+
+The mother and The child had disagreements about various topics.
+
+The mother and The investigator had disagreements about Kip.
+
+The mother and The investigator had disagreements about Chip.
+
+The investigator and The child asked and discussed questions about Chip.
+
+The investigator and The child asked and discussed questions about Kip, Chip.
+
+The investigator and The child asked and discussed questions about Kip.
+
+The investigator and The child asked and discussed questions about Kip, Thursday.
+
+The investigator and The mother asked and discussed questions about Kip.
+
+The investigator and The mother had disagreements about Kip.
+
+The mother and The investigator had disagreements about Model, Mustang.
+
+The investigator and The mother had disagreements about Minnesota.
+
+The mother and The child worked on getting ready, preparing Kip.
+
+The investigator and The child had disagreements about Russia, Kip.
+
+The investigator and The child had disagreements about Nutter, Butter.
+
+The mother and The investigator discussed eating and snacking, mentioning Kip, I'd.
+
+The mother and The investigator had disagreements about Phillip, New.
+
+The investigator and The mother had disagreements about New, Jersey.
+
+The mother and The investigator worked on getting ready, preparing A_and_P, Philadelphia.
+
+The mother and The investigator had disagreements about Kip, Philadelphia.
+
+The mother and The investigator had disagreements about Kip, Nevada.
+
+The child and The mother had disagreements about Entenmann's.
+
+The mother and The child had disagreements about Thomas, Entenmann's.
+
+The mother and The child worked on getting ready, preparing Ma.
+
+The mother and The child had disagreements about Carl, Hi_c.
+
+The mother and The child asked and discussed questions about Nutter, Kip.
+
+The mother and The child had disagreements about Kip, Chip.
+
+The mother and The child had disagreements about Carl, Chip.
+
+The mother and The child had disagreements about Carl.
+
+The investigator and The child had disagreements about Kip, Moe.
+
+The mother and The child asked and discussed questions about New, Kip.
+
+The mother and The investigator had disagreements about various topics.
+
+The investigator and The mother expressed care and affection toward Virgo, Piscean.
+
+The investigator and The mother had disagreements about Pisces, Kip.
+
+The mother and The child had disagreements about Kip.
+
+The child and The mother had disagreements about Kip, Iuh.
+
+The teacher and Another child had disagreements about Jason, Lissy.
+
+The teacher and Another child had disagreements about Katie, Stephan.
+
+The teacher and Another child asked and discussed questions about Danny, Jonathan.
+
+The child and The mother had disagreements about Kip, Colette.
+
+The teacher and Another child asked and discussed questions about various topics.
+
+The teacher and Another child had disagreements about Kip.
+
+The teacher and Another child had disagreements about various topics.
+
+The teacher and Another child asked and discussed questions about Alice, I'd.
+
+The teacher and Another child asked and discussed questions about Kip, David.
+
+The teacher and The child had disagreements about Kip, David's.
+
+The child and Another child had disagreements about Jason, Mary.
+
+The child and Another child had disagreements about Jason, Samuel.
+
+The child and Another child had disagreements about Kip, Jason.
+
+The child and The teacher had disagreements about Justin, Kip.
+
+The child and The mother had disagreements about October, Kip.
+
+The child and The teacher had disagreements about Kip.
+
+Another child and The child had disagreements about Lexy, Kip.
+
+Another child and The child discussed eating and snacking, mentioning Adam.
+
+Another child and The child discussed eating and snacking, mentioning Katie, Jonathan.
+
+The child and Another child asked and discussed questions about Trevor's.
+
+The teacher and Another child had disagreements about Alice, Robin.
+
+TCA and Another child expressed care and affection toward Katie, Jonathan.
+
+Another child and TCA had disagreements about I'd, Mimi.
+
+TCA and Another child had disagreements about Kriegler's, Kip.
+
+TCA and Another child had disagreements about Kip, Jonathan.
+
+The child and Another child had disagreements about Katie, Mcdonald.
+
+Another child and The teacher discussed eating and snacking, mentioning Katie, Trevor's.
+
+Another child and The child discussed eating and snacking, mentioning Lisi, Alexander.
+
+Another child and The teacher had disagreements about Kip, Alexander.
+
+Another child and The teacher discussed eating and snacking, mentioning Kip, Jason.
+
+The child and Another child discussed eating and snacking, mentioning Jason.
+
+The child and The mother expressed care and affection toward Eddie.
+
+Another child and The child had disagreements about Colette.
+
+The child and Another child had disagreements about various topics.
+
+The investigator and Another child asked and discussed questions about Ma, Jonathan.
+
+Another child and The child asked and discussed questions about various topics.
+
+Another child and The child had disagreements about Laney, Jason.
+
+Another child and The teacher had disagreements about Laney.
+
+Another child and The child had disagreements about Stephan, Jason.
+
+The child and Another child asked and discussed questions about Sammer, Kip.
+
+Another child and The child expressed care and affection toward Ellie, Eddie.
+
+The child and Another child asked and discussed questions about Gracie, Eddie.
+
+Another child and The child had disagreements about various topics.
+
+The child and Another child had disagreements about Kip, Ford.
+
+Another child and The child had disagreements about Kip, Eddie.
+
+Another child and The child asked and discussed questions about Kip, Colette.
+
+The child and FAD asked and discussed questions about Eddie.
+
+FAD and The child asked and discussed questions about Johnathan.
+
+The teacher and Another child asked and discussed questions about Ginsberg, Jonathan.
+
+The child and The teacher asked and discussed questions about Kip.
+
+The child and The teacher had disagreements about Lissy, Kip.
+
+The child and The teacher worked on getting ready, preparing Jason.
+
+The teacher and Another child asked and discussed questions about Stephan, David.
+
+TCA and Another child asked and discussed questions about Adam.
+
+Another child and TCA asked and discussed questions about Alexander, Polette.
+
+Another child and TCA asked and discussed questions about Kip, Adam.
+
+TCA and Another child worked on getting ready, preparing Alice, Mary.
+
+Another child and A group member had disagreements about various topics.
+
+TCA and Another child asked and discussed questions about Colette.
+
+TCA and Another child had disagreements about Kip.
+
+TCA and Another child asked and discussed questions about Kip, Johnathan.
+
+TCA and Another child asked and discussed questions about Spider, Danny.
+
+TCA and Another child asked and discussed questions about Jason, Alicia.
+
+The teacher and Another child asked and discussed questions about Mickey_mouse.
+
+The teacher and Another child had disagreements about Jonathan, Lisa.
+
+Another child and The teacher played and had fun with I'd, Jonathan.
+
+Another child and The teacher asked and discussed questions about Jonathan, MacDonald.
+
+Another child and The teacher asked and discussed questions about Super.
+
+The teacher and Another child asked and discussed questions about Stephan, Joe.
+
+The teacher and Another child asked and discussed questions about Kip, Stephen.
+
+The teacher and Another child had disagreements about Jonathan, Mimi.
+
+Another child and The teacher asked and discussed questions about Marley, Ginsberg.
+
+The teacher and Another child worked on getting ready, preparing David, Kip.
+
+The teacher and The child asked and discussed questions about Ginsberg, Kathy.
+
+The teacher and Another child asked and discussed questions about Ginsberg, Mimi.
+
+The child and The teacher worked on getting ready, preparing Kip.
+
+The teacher and The child had disagreements about Vivian, Ford.
+
+The mother and The child had disagreements about Laney, Phil.
+
+The investigator and The child asked and discussed questions about Kipper.
+
+The child and The mother worked on getting ready, preparing Mom, Carl.
+
+The child and The mother had disagreements about various topics.
+
+The child and The mother asked and discussed questions about various topics.
+
+The investigator and The mother had disagreements about New, York.
+
+The investigator and The child expressed care and affection toward various topics.
+
+The investigator and The child had disagreements about Kipper, Kip.
+
+The investigator and The child asked and discussed questions about Carl, Hi.
+
+The investigator and The mother had disagreements about Hi_c, Hi.
+
+The mother and The investigator asked and discussed questions about Chip, Kip.
+
+The child and The mother had disagreements about Kip, Chip.
+
+The mother and The child asked and discussed questions about Fleischman's, Hi.
+
+The mother and The child had disagreements about Ma, University.
+
+The investigator and The mother had disagreements about Kip, Chip.
+
+The child and The mother expressed care and affection toward Kip, Chip.
+
+The mother and The child worked on getting ready, preparing Santa, Kip's.
+
+The child and The investigator asked and discussed questions about Ma, BAltmann.
+
+The investigator and The child asked and discussed questions about various topics.
+
+The child and The investigator asked and discussed questions about Kip.
+
+The mother and The child had disagreements about Jacque, Boston.
+
+The child and The investigator asked and discussed questions about various topics.
+
+The child and The investigator had disagreements about Chip, Kip.
+
+The child and The investigator had disagreements about Kip, Ford.
+
+The investigator and The child had disagreements about Peter, Philadelphia.
+
+The mother and The brother had disagreements about Chip, Puerto.
+
+The investigator and The child had disagreements about Kip, Chip.
+
+The investigator and The child had disagreements about Chip.
+
+The mother and The child expressed care and affection toward various topics.
+
+The child and The investigator expressed care and affection toward Chip.
+
+The mother and The investigator discussed eating and snacking, mentioning various topics.
+
+The child and The mother had disagreements about Allah, Jack.
+
+The investigator and The mother expressed care and affection toward Kip.
+
+The brother and The investigator asked and discussed questions about various topics.
+
+The mother and The child had disagreements about Kip, Leroy.
+
+The child and The mother asked and discussed questions about Kip.
+
+The investigator and The child had disagreements about Jim, Feliciano.
+
+The mother and The child asked and discussed questions about Jackie, Ford.
+
+The child and The mother worked on getting ready, preparing Tony, Tony's.
+
+The mother and The child had disagreements about Chip, Kip.
+
+The child and The investigator asked and discussed questions about Kip, Chip.
+
+The child and The brother had disagreements about Chip.
+
+The child and The brother had disagreements about Kip, Chip.
+
+The investigator and The child had disagreements about Chip, Mr.
+
+The child and The mother had disagreements about Kip, Kipsy.
+
+The investigator and The child had disagreements about Hi_c, Hi.
+
+The child and The investigator had disagreements about Kip.
+
+The investigator and The child had disagreements about Kip.
+
+The child and The investigator asked and discussed questions about Jason, Kriegler.
+
+The child and The investigator had disagreements about Jason, Kriegler.
+
+The child and The investigator had disagreements about Batman.
+
+The child and The mother had disagreements about Kipper, Ma.
+
+The child and The mother had disagreements about Kip, Manachevets.
+
+The child and The investigator had disagreements about I'd.
+
+The child and The investigator expressed care and affection toward Kip, Chip.
+
+The child and The mother had disagreements about Carl, Kip.
+
+The child and The investigator had disagreements about Carl, Kip.
+
+The investigator and The mother had disagreements about Kip, Kip's.
+
+The child and The mother asked and discussed questions about Carl, Chip.
+
+The investigator and The child had disagreements about Kip's.
+
+The child and The investigator asked and discussed questions about Carl.
+
+The child and The investigator had disagreements about Kip, Chip.
+
+The child and The investigator had disagreements about Carl.
+
+The mother and The brother worked on getting ready, preparing Carl, Chip.
+
+The investigator and The child discussed eating and snacking, mentioning Carl, Chip.
+
+The child and The mother had disagreements about Adam, Mr.
+
+The mother and The investigator expressed care and affection toward Kip.
+
+The child and The mother had disagreements about Eddie, Mac.
+
+The child and The mother worked on getting ready, preparing Phillip, Chip.
+
+The child and The mother asked and discussed questions about Eddie, Sockum.
+
+The child and The mother discussed eating and snacking, mentioning Zinger, Chip.
+
+The child and The investigator had disagreements about Zinger.
+
+The child and The investigator discussed eating and snacking, mentioning various topics.
+
+The child and The investigator asked and discussed questions about Bectue, Tomie.
+
+The investigator and The child had disagreements about Bo, Peep.
+
+The child and The brother had disagreements about various topics.
+
+The mother and The child asked and discussed questions about various topics.
+
+The child and The mother had disagreements about Kip.
+
+The child and The investigator had disagreements about Kip, April.
+
+The child and The investigator asked and discussed questions about Hi, Kip.
+
+The child and The mother asked and discussed questions about Chip.
+
+The mother and The child discussed eating and snacking, mentioning Kip.
+
+The child and The mother discussed eating and snacking, mentioning various topics.
+
+The child and The investigator discussed eating and snacking, mentioning Chip.
+
+The child and The investigator discussed eating and snacking, mentioning Kip.
+
+The television and The child asked and discussed questions about Albert, O'reilly.
+
+The child and The mother asked and discussed questions about I'd, Harvey's.
+
+The mother and The child had disagreements about I'd, Harvey's.
+
+The child and The mother had disagreements about James.
+
+The mother and The child had disagreements about Albert, James.
+
+The mother had disagreements about James.
+
+The mother and The child asked and discussed questions about Harvey's, I'd.
+
+The mother and The child asked and discussed questions about London, Albert.
+
+The mother and The child had disagreements about Albert, Square.
+
+The mother and The child asked and discussed questions about Al, Zach.
+
+The mother and The child asked and discussed questions about Zachary, Ames.
+
+The child and The investigator had disagreements about James.
+
+The child and The investigator asked and discussed questions about Kip, James.
+
+The child and The investigator asked and discussed questions about Chip.
+
+The child said, "mommy what kind what kind a cookies shall I get ?."
+
+The mother said, "pick it up ."
+
+The mother said, "you ready ?."
+
+The child said, "chip did his thing mom ."
+
+The investigator said, "no I was looking forward to it ."
+
+The investigator said, "yeah if if I can I'm just gonna leave Bill a note and say ."
+
+The mother said, "well I wanna get some for chip ."
+
+The mother said, "you really ."
+
+The mother said, "his a tricycle in his room ."
+
+Another child said, "I could hold on to john's hand ."
+
+The teacher said, "does everybody see ?."
+
+Another child said, "almost every day I never get to pass out ."
+
+Another child said, "I do like these ?."
+
+TCA said, "here okay let's hear if we can try this sound ."
+
+The child said, "I'm making a jungle too ."
+
+Another child said, "big tough ."
+
+FAD said, "what'd you paint the other time ?."
+
+Another child said, "wait you always say the same thing everyday mommy ."
+
+The teacher said, "and my daddy ."
+
+The mother said, "because oh just no way we're gonna be able to live in a worl."
+
+The child said, "I want , I had I had enough ."
+
+The investigator said, "is Santa Claus your buddy ?."
+
+The investigator said, "so sound just bouncing all over the room ."
+
+The mother said, "chip will let you use them ."
+
+The mother said, "ice tea ?."
+
+The investigator said, "we've been recording ."
+
+The investigator said, "well it's not like this light ."
+
+The investigator said, "whoops don't fall ."
+
+The mother said, "so we hadta , you know , turn it off , ."
+
+The child said, "it's a it's a it's a tiger ."
+
+The child said, "no you guess this oh you guessed ."
+
+The child said, "mm mommy put some butter on this ?."
+
+The television said, "good old O'reilly , on the force almost thirty years and nev."
+
+The child said, "just as_soon_as you can do what ?."
+
+The investigator said, "let's turn the page maybe we'll find out oh it doesn't give."

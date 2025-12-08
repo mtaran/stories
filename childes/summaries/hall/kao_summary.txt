@@ -1,0 +1,352 @@
+Session: kao
+Situation: before bed
+Participants: BRO, CHI, EXP, FAD, FAT, FCH, GRF, GRO, MAD, MCH, MOT, SIS, TCA, TEA, TEL, UNK
+Total utterances: 5224
+Summary sentences: 171
+Compression ratio: 30:1
+
+============================================================
+NARRATIVE SUMMARY
+============================================================
+
+The child and The television had disagreements about Louisiana, Susanna.
+
+The mother and The investigator had disagreements about Kayode.
+
+The mother and The child discussed eating and snacking, mentioning Kayode.
+
+The mother and The investigator discussed eating and snacking, mentioning Kayode.
+
+The mother and The investigator asked and discussed questions about Kayode.
+
+The child and The mother asked and discussed questions about various topics.
+
+The child and The investigator asked and discussed questions about various topics.
+
+The investigator and The child had disagreements about Brodie, Samantha.
+
+The mother and The child had disagreements about Murray, Kayode.
+
+The mother and The child had disagreements about various topics.
+
+The child and The mother asked and discussed questions about Kayode, Humphrey.
+
+The child and The mother asked and discussed questions about Timothy's.
+
+The mother and The child worked on getting ready, preparing Kayode.
+
+The child and The mother asked and discussed questions about Kayode, Waltons.
+
+The mother and The child asked and discussed questions about Kayode.
+
+The mother and The child worked on getting ready, preparing Owens, Kayode.
+
+The mother and The child had disagreements about Kayode, BMT.
+
+The child and The mother asked and discussed questions about Kayode.
+
+The child and The mother asked and discussed questions about Marie, Kayode.
+
+The child and The mother had disagreements about Kayode.
+
+The mother and The child had disagreements about Jerry.
+
+The mother and MAD asked and discussed questions about Kayode, I'd.
+
+MAD and The child expressed care and affection toward Gloria, I'd.
+
+The child and The mother had disagreements about Kayode, Jerry.
+
+The mother and The child had disagreements about Kayode, Graeme.
+
+The child and The mother asked and discussed questions about Jimmy, Linda.
+
+The child and The mother discussed school and academics, Kayode, Samantha.
+
+The child and Another child had disagreements about Super, Kayode.
+
+The child and Another child asked and discussed questions about Willy.
+
+The child and Another child had disagreements about Elizabeth, Kayode.
+
+The teacher and The child worked on getting ready, preparing Laura, Kayode.
+
+Another child and The child had disagreements about Rhodie, Aunt.
+
+The child and FAD had disagreements about Thelma, George.
+
+The mother and The teacher had disagreements about Elizabeth, Ellen.
+
+The child and The mother had disagreements about Elizabeth, Ellen.
+
+Another child and The teacher discussed eating and snacking, mentioning Henry, Kayode.
+
+Another child and The child played and had fun with Dedi, Hong_Kong_fuie.
+
+The teacher and Another child played and had fun with Deedee, Kayode.
+
+Another child and The child played and had fun with Dan, David.
+
+Another child and The child had disagreements about Hong_Kung_fuey, Yvette.
+
+The child and Another child worked on getting ready, preparing Brody, William.
+
+The child and Another child watched and discussed television shows, mentioning Danny, Kong.
+
+The child and Another child worked on getting ready, preparing Deedee.
+
+The child and Another child worked on getting ready, preparing Kayode.
+
+Another child and The child watched and discussed television shows, mentioning Hong_Kong_fuey, Kayode.
+
+The child and Another child worked on getting ready, preparing various topics.
+
+The child and Another child had disagreements about Rich, Kayode.
+
+Another child and The child had disagreements about Kayodee, Lucy.
+
+The child and Another child had disagreements about various topics.
+
+The teacher and Another child had disagreements about Dedi, Jody.
+
+The teacher and Another child had disagreements about Dedi, David.
+
+Another child and The teacher had disagreements about Kayode.
+
+Another child and The investigator had disagreements about Deedee, Nancy.
+
+Another child and The investigator had disagreements about Anthony, Elizabeth.
+
+Another child and The investigator asked and discussed questions about Shawn, Rene.
+
+The teacher and Another child discussed eating and snacking, mentioning Donnel, Nora's.
+
+Another child and The teacher had disagreements about Deedee, Kayode.
+
+Another child and The teacher had disagreements about Donnel, Kayode.
+
+The teacher and Another child discussed eating and snacking, mentioning Kayode, Donnel.
+
+The teacher and Another child had disagreements about Deedee, Kayode.
+
+Another child and The teacher asked and discussed questions about Kayode, Nora.
+
+Another child and The teacher discussed eating and snacking, mentioning Kayode, December.
+
+The teacher and Another child discussed eating and snacking, mentioning Keedee, Donnel.
+
+The child and The teacher discussed the recording equipment and Kayode.
+
+The teacher and The child had disagreements about David, Kayode.
+
+The child and Another child worked on getting ready, preparing Shawn, David.
+
+Another child and The child had disagreements about Shawn.
+
+The child and The investigator had disagreements about Shawn, Shawn's.
+
+Another child and The child worked on getting ready, preparing David, Kayode.
+
+Another child and The child worked on getting ready, preparing Kooloo, David.
+
+Another child and The child had disagreements about David, Kayode.
+
+Another child and The child had disagreements about various topics.
+
+Another child and The child worked on getting ready, preparing Shawn, Shawn's.
+
+The child and Another child had disagreements about Joe, David.
+
+The child and Another child had disagreements about Mickey.
+
+The child and Another child had disagreements about David, Kayode.
+
+The child and Another child played and had fun with Lynn, David.
+
+The teacher and Another child played and had fun with Elizabeth, Dedi.
+
+The teacher and Another child had disagreements about David, Deedee.
+
+The teacher and Another child played and had fun with Chi, David.
+
+The teacher and The child had disagreements about David, Elizabeth.
+
+The teacher and Another child had disagreements about Karen, David.
+
+The teacher and The child asked and discussed questions about Connecticut, Elizabeth.
+
+The teacher and Another child expressed care and affection toward Dave, Kayode.
+
+The teacher and The child played and had fun with Yvette, Kayode.
+
+The teacher and Another child asked and discussed questions about Yvette, Brodie.
+
+The teacher and The child asked and discussed questions about Kayode.
+
+The teacher and The child had disagreements about Nora.
+
+The teacher and The child had disagreements about Brodie.
+
+The teacher and The child asked and discussed questions about various topics.
+
+The teacher and The child had disagreements about Kayode, Chantell.
+
+The teacher and The child had disagreements about Henry.
+
+The teacher and The child had disagreements about Henry, Yvette.
+
+The teacher and The child asked and discussed questions about Carol, Chantell's.
+
+The teacher and Another child asked and discussed questions about Henry, Carol.
+
+The teacher and The child had disagreements about Kayode, Carol.
+
+Another child and The teacher had disagreements about various topics.
+
+Another child and The investigator worked on getting ready, preparing various topics.
+
+Another child and The child worked on getting ready, preparing various topics.
+
+The child and Another child had disagreements about Russell's, Kayode.
+
+Another child and The child had disagreements about Jesse's, Elaine.
+
+The child and The mother asked and discussed questions about Russell.
+
+The mother and Another child had disagreements about Russell's, Kayode.
+
+The mother and Another child had disagreements about Russell, Elaine.
+
+Another child and The mother had disagreements about I'd, Kayode.
+
+Another child and The child had disagreements about Super.
+
+Another child and The child asked and discussed questions about Gail's.
+
+Another child and FAD had disagreements about Kayode, Russell.
+
+The child and The mother had disagreements about Ellen.
+
+The mother and The child had disagreements about Edselina, Kayode.
+
+The mother and The child asked and discussed questions about Jackosauruses, June.
+
+The mother and The investigator asked and discussed questions about Kayode, Flintstones.
+
+The mother and The investigator had disagreements about New, Jersey.
+
+The mother and The investigator had disagreements about Plustus, Merril.
+
+The mother and The child asked and discussed questions about Henry, Lucy.
+
+The mother and The child had disagreements about Via_allegre, Via_Allegre.
+
+The mother and The child asked and discussed questions about Mimi.
+
+The child and The mother had disagreements about Ma, Kayode.
+
+The child and The mother asked and discussed questions about Spider, Supernan.
+
+The mother and The child asked and discussed questions about Bebe, Kayode.
+
+The child and The mother asked and discussed questions about Judy.
+
+The child and The mother played and had fun with Michael, Spiderman.
+
+The mother and The investigator had disagreements about various topics.
+
+The mother and The child asked and discussed questions about Spider.
+
+The mother and The child asked and discussed questions about Sesame, Grover.
+
+The child and The mother asked and discussed questions about Kayode, Graeme's.
+
+The mother and The child had disagreements about Kod, Kayode.
+
+The mother and The child had disagreements about Tricky, Ellen's.
+
+The mother and The child asked and discussed questions about Virginia, Elaine.
+
+The mother and The child had disagreements about Virginia.
+
+The mother and The child expressed care and affection toward Rachel, Ziploc.
+
+The investigator and The mother had disagreements about Graeme.
+
+The mother and The child had disagreements about Kayode.
+
+The mother and The child discussed eating and snacking, mentioning Kayode, Graeme.
+
+The mother and The child had disagreements about Rachel, Rachel's.
+
+The mother and The child had disagreements about Kayode, Yodi.
+
+The mother and The child had disagreements about Spider.
+
+The mother and The child discussed eating and snacking, mentioning various topics.
+
+The child and The mother discussed eating and snacking, mentioning various topics.
+
+The mother and The child had disagreements about Mom, Cascade.
+
+The mother and The child discussed school and academics, Edselina, Kayode.
+
+The mother and The child had disagreements about Wonder.
+
+The mother and The child asked and discussed questions about Graeme.
+
+The child and The mother had disagreements about Mod_Squad, Ironsides.
+
+The mother and The child asked and discussed questions about Squad, Mod.
+
+The child and The mother asked and discussed questions about Brothers, Binkey.
+
+The child and The mother had disagreements about various topics.
+
+The mother and The child had disagreements about Graeme.
+
+The mother and The child asked and discussed questions about Missus, Boston.
+
+The mother and The child had disagreements about Charles, Missus.
+
+The mother and The child discussed eating and snacking, mentioning Jack, Mister.
+
+The mother and The child asked and discussed questions about Clancey, Canada.
+
+The mother said, "Kayode , Kayode !."
+
+The child said, "first of all dogs don't sing !."
+
+The mother said, "I can't stand that low ."
+
+The child said, "bats suck your blood ."
+
+The child said, "I'll I'll buy you a bat costume ."
+
+The teacher said, "you know some people dip the , their crackers in the milk ."
+
+The investigator said, "don't let him fight ."
+
+The child said, "there , that ."
+
+The teacher said, "you have a red caboose like me ."
+
+The child said, "all we hafta do is put a hole on that side ."
+
+The child said, "well I can take off my shoes if I wanna ."
+
+Another child said, "it doesn't , it just , ah , works in black ."
+
+The mother said, "you know ?."
+
+The mother said, "come over there ."
+
+The mother said, "I think brown is a beautiful color to be ."
+
+The child said, "I'll eat it ."
+
+The mother said, "yesterday ?."
+
+The child said, "mommy , you know what this is ?."
+
+The mother said, "you wanna sleep in them ?."

@@ -1,0 +1,474 @@
+Session: kag
+Situation: before bed
+Participants: BRO, CHI, EXP, FAD, FAT, FCH, GRO, MAD, MCH, MOT, TEA, UNK
+Total utterances: 7421
+Summary sentences: 232
+Compression ratio: 31:1
+
+============================================================
+NARRATIVE SUMMARY
+============================================================
+
+The child and The mother had disagreements about Karen.
+
+The mother and The child worked on getting ready, preparing Karen.
+
+The mother and The child had disagreements about Lonnie.
+
+The child and The investigator discussed eating and snacking, mentioning various topics.
+
+The mother and The child discussed school and academics, Karen, Graeme.
+
+The child and The mother asked and discussed questions about Karen.
+
+The child and The mother asked and discussed questions about Mchale's, I'd.
+
+The mother and The child had disagreements about Underdog's, Karen.
+
+The mother and The child had disagreements about Karen.
+
+The mother and The child had disagreements about various topics.
+
+The child and The mother asked and discussed questions about Dedi, Yvette.
+
+The mother and The child had disagreements about Elizabeth.
+
+The child and The mother had disagreements about Yvette, Forguarda.
+
+The child and The mother had disagreements about Karen, Lisa.
+
+The mother and The child had disagreements about Marie, Anne.
+
+Another child and The mother had disagreements about Clifford, Marie.
+
+Another child and The teacher worked on getting ready, preparing Pablo, Winston.
+
+Another child and The teacher had disagreements about Pablo, Marie.
+
+Another child and The teacher played and had fun with Pablo, Clifford's.
+
+Another child and The teacher had disagreements about Roy, Pablo's.
+
+Another child and The teacher expressed care and affection toward various topics.
+
+Another child and The teacher had disagreements about Pablo, Clifford.
+
+Another child and The teacher had disagreements about Pablo, Shaleen.
+
+Another child and The teacher had disagreements about Pablo, Shirleen.
+
+Another child and The teacher had disagreements about Beck's, Michael.
+
+Another child and The teacher expressed care and affection toward Marie, Beck.
+
+Another child and The teacher had disagreements about Pablo, Michael.
+
+Another child and The teacher asked and discussed questions about Marie, Papo.
+
+Another child and The teacher had disagreements about Jackie, Michael.
+
+Another child and The teacher asked and discussed questions about Marie, Pablo.
+
+Another child and The teacher had disagreements about Marie, Clifford.
+
+Another child and The teacher asked and discussed questions about Markey's, Markey.
+
+Another child and The child asked and discussed questions about Marie, Anne.
+
+Another child and The teacher had disagreements about Brooklyn, Andrew.
+
+Another child and The teacher had disagreements about Henry.
+
+Another child and The teacher had disagreements about Missus, Michael.
+
+The teacher and Another child asked and discussed questions about Marie, Michael.
+
+Another child and The teacher had disagreements about Marie, Anne.
+
+Another child and The teacher had disagreements about Brodie's, Michael.
+
+Another child and The child had disagreements about Marie, Anne.
+
+Another child and The teacher discussed eating and snacking, mentioning Marie, Fryer.
+
+The teacher and Another child discussed eating and snacking, mentioning Elizabeth, Karen.
+
+Another child and The teacher had disagreements about Deedee, Elizabeth.
+
+Another child and The teacher discussed eating and snacking, mentioning Karen.
+
+Another child and The teacher had disagreements about Karen, Lisa.
+
+Another child and The teacher had disagreements about David, Elizabeth.
+
+Another child and The teacher asked and discussed questions about David, Deedee.
+
+Another child and The child had disagreements about Cheong, Karen.
+
+Another child and The teacher had disagreements about Karming, Lenora.
+
+Another child and The teacher had disagreements about Samantha, Deedee.
+
+The teacher and Another child had disagreements about Vernon, Jack.
+
+Another child and The teacher asked and discussed questions about Elizabeth, Chi.
+
+The teacher and Another child had disagreements about Nancy, Elizabeth.
+
+Another child and The teacher discussed eating and snacking, mentioning Suzanne, Karen.
+
+The teacher and Another child discussed eating and snacking, mentioning Man, Peng.
+
+Another child and The teacher discussed eating and snacking, mentioning Suzanne, Elizabeth.
+
+Another child and The child had disagreements about Man_Peng, Chi.
+
+The teacher and Another child had disagreements about Suzanne, Elizabeth.
+
+Another child and The teacher had disagreements about Elizabeth, Karen.
+
+The teacher and Another child discussed eating and snacking, mentioning Elizabeth, Man_Peng.
+
+Another child and The teacher expressed care and affection toward Suzanne, Elizabeth.
+
+Another child and The teacher had disagreements about Gloria, Jerry.
+
+The teacher and Another child had disagreements about Elizabeth, William.
+
+Another child and The teacher discussed eating and snacking, mentioning Michael's, Elizabeth.
+
+Another child and The teacher asked and discussed questions about Elizabeth, Marie.
+
+The teacher and Another child had disagreements about Karen, Elizabeth.
+
+Another child and The child discussed eating and snacking, mentioning various topics.
+
+Another child and The child had disagreements about various topics.
+
+Another child and The teacher played and had fun with David.
+
+Another child and The teacher asked and discussed questions about Chi, Deedee.
+
+Another child and The child had disagreements about Michael, Justina.
+
+Another child and The child had disagreements about Deedee, Michael.
+
+Another child and The child had disagreements about Deedee, Karen.
+
+Another child and The child had disagreements about Deedee.
+
+Another child and The child worked on getting ready, preparing Aquaman, Chi.
+
+Another child and The child worked on getting ready, preparing David, Deedee.
+
+Another child and The teacher had disagreements about Joycey, Ronnie.
+
+Another child and The child had disagreements about David.
+
+Another child and The child had disagreements about Chi, Karen.
+
+Another child and The child had disagreements about Michael.
+
+Another child and The child discussed eating and snacking, mentioning Deedee, Michael.
+
+Another child and The child had disagreements about Chi, Yan's.
+
+Another child and The child had disagreements about Clifford, David.
+
+Another child and The investigator had disagreements about Brodie.
+
+Another child and The investigator had disagreements about Michael, Karen.
+
+Another child and The investigator asked and discussed questions about Charles, Peter.
+
+Another child and The child had disagreements about Karen, Robert.
+
+Another child and The child had disagreements about Karen.
+
+The child and Another child watched and discussed television shows, mentioning Suzy, Karen.
+
+The child and Another child worked on getting ready, preparing David, Lisa.
+
+Another child and The child had disagreements about Jesus, Karen's.
+
+Another child and The child played and had fun with Michael.
+
+Another child and The child worked on getting ready, preparing Lena.
+
+Another child and The child worked on getting ready, preparing various topics.
+
+Another child and The child had disagreements about Michael, Lisa.
+
+The child and Another child had a conversation about various topics.
+
+The child and Another child expressed care and affection toward David, Deedee.
+
+The teacher and The child asked and discussed questions about Deedee, Karen.
+
+The teacher and Another child asked and discussed questions about Karming.
+
+The teacher and Another child had disagreements about Cheong, Karen.
+
+The teacher and Another child had disagreements about William, Karen.
+
+The teacher and The child asked and discussed questions about Cheong, Lisa's.
+
+The teacher and The child discussed money and coins, talking about Cheong, William.
+
+The teacher and The child asked and discussed questions about Karen, Karming.
+
+The teacher and Another child asked and discussed questions about William, Karen.
+
+The teacher and Another child had disagreements about William, Cinderella.
+
+The teacher and Another child asked and discussed questions about Thanksgiving.
+
+Another child and The teacher asked and discussed questions about William, Karen.
+
+Another child and The teacher asked and discussed questions about Karming.
+
+The teacher and The child asked and discussed questions about Ma, Karen.
+
+The teacher and The child asked and discussed questions about William, Karen.
+
+The teacher and The child had disagreements about Karen.
+
+The teacher and Another child had disagreements about Elizabeth, Karming.
+
+The teacher and The child had disagreements about various topics.
+
+The teacher and The child asked and discussed questions about Lionel, Elizabeth.
+
+The teacher and The child had disagreements about Elizabeth, Karen.
+
+The teacher and Another child had disagreements about Karen, Pigery.
+
+The teacher and Another child asked and discussed questions about Persnickery, Pigery.
+
+The teacher and The child had disagreements about Kathleen.
+
+The teacher and Another child asked and discussed questions about Oliver_otter, David.
+
+The teacher and Another child asked and discussed questions about Thomas, David.
+
+The teacher and Another child asked and discussed questions about Karen's, David.
+
+The teacher and The child asked and discussed questions about Henry, Henrietta.
+
+The teacher and Another child had disagreements about Dedi, Karen.
+
+The teacher and Another child had disagreements about Chi, Yan.
+
+The teacher and Another child had disagreements about Chi, Yan's.
+
+The child and The investigator asked and discussed questions about various topics.
+
+The child and The investigator had disagreements about various topics.
+
+The child and The investigator had disagreements about William, Willoughby.
+
+The investigator and The father asked and discussed questions about Karen.
+
+The child and The investigator asked and discussed questions about King, Kong.
+
+The child and The investigator discussed eating and snacking, mentioning Graeme.
+
+The investigator and The mother had disagreements about I'd, Karen.
+
+The child and The investigator discussed money and coins, talking about various topics.
+
+The child and The investigator expressed care and affection toward various topics.
+
+The child and The investigator discussed the recording equipment and various topics.
+
+The child and The father asked and discussed questions about various topics.
+
+The child and The investigator had disagreements about Jesus.
+
+The child and The mother had disagreements about Karen, Graeme.
+
+The child and The investigator asked and discussed questions about Bo, Peep.
+
+The child and The investigator had disagreements about Karen.
+
+The mother and The investigator worked on getting ready, preparing Karen's, Bobby.
+
+The child and The father asked and discussed questions about Henry.
+
+The child and The mother asked and discussed questions about Ma, Karen.
+
+The child and The investigator had disagreements about Brodie, Karen.
+
+The child and The investigator asked and discussed questions about Jeremy.
+
+The child and The mother had disagreements about Elizabeth, Karen.
+
+The child and The mother asked and discussed questions about Karen, Johnson's.
+
+The child and The father had disagreements about Graeme.
+
+The father and The investigator had disagreements about Mickey.
+
+The mother and The father had disagreements about Lucy, Mickey.
+
+The child and The father had disagreements about Samantha.
+
+The father and The child asked and discussed questions about Madam, Catalou.
+
+The father and The investigator asked and discussed questions about Karen, Graeme.
+
+The child and The investigator had disagreements about Missus.
+
+The child and The investigator discussed eating and snacking, mentioning David.
+
+The child and The investigator had disagreements about Glenn.
+
+The mother and The father had disagreements about Howard, Karen.
+
+The mother and The child had disagreements about Karen, Diane.
+
+The child and The mother had disagreements about Diana.
+
+The mother and The father had disagreements about Karen.
+
+The mother and The child had disagreements about Michael, Diana.
+
+The child and The mother had disagreements about various topics.
+
+The mother and The child discussed eating and snacking, mentioning Karen.
+
+The mother and The child had disagreements about Karen, Graeme.
+
+The child and The mother asked and discussed questions about various topics.
+
+The child and The father asked and discussed questions about Karen.
+
+The child and The mother asked and discussed questions about Michael, Karen.
+
+The child and The mother had disagreements about Ma, Christ's.
+
+The child had disagreements about various topics.
+
+The child had disagreements about Dedi, Karen.
+
+The child and The father had disagreements about Karen, Graeme.
+
+The child and The father had disagreements about Graeme's, Karen.
+
+The mother and The child had disagreements about Graeme.
+
+The child and The mother had disagreements about Ma.
+
+The child and The father discussed eating and snacking, mentioning Flintstone.
+
+The child and The father had disagreements about Flintstone, Joey.
+
+The child and The mother worked on getting ready, preparing Jjay, Karen.
+
+The child and The father expressed care and affection toward Jjay, Graeme.
+
+The child and The father expressed care and affection toward Jjay.
+
+The child and The father had disagreements about various topics.
+
+The mother and The child had disagreements about Jjay, Goodtimes.
+
+The child and The father asked and discussed questions about Karen, Goodtimes.
+
+The child asked and discussed questions about Karen.
+
+The child and The investigator worked on getting ready, preparing various topics.
+
+The mother and The child worked on getting ready, preparing Karen, Graeme.
+
+The child and The father had disagreements about Brooklyn, Snoopys.
+
+The mother and The father discussed eating and snacking, mentioning I'd.
+
+The father and The child worked on getting ready, preparing Christ's, Suzanne.
+
+The mother and The father discussed school and academics, Brodie, Samantha.
+
+The father and The child discussed eating and snacking, mentioning Karen.
+
+The child and The mother had disagreements about Karen, Graeme's.
+
+The child and The mother had disagreements about Henry, Karen.
+
+The child and The mother asked and discussed questions about Rene, Brodie.
+
+The mother and The child asked and discussed questions about various topics.
+
+The child said, "when is it gonna talk ?."
+
+The mother said, "you have lipstick on ."
+
+The child said, "my ears !."
+
+The teacher said, "the little one or the big one ?."
+
+Another child said, "cut it out with scissors ."
+
+The teacher said, "why don't you sit down too ?."
+
+Another child said, "are you hear me ?."
+
+Another child said, "she don't want milk !."
+
+Another child said, "can I give this seed to the guinea pg ?."
+
+Another child said, "sometimes it ."
+
+The child said, "ah , haha , haha ."
+
+Another child said, "Lisa , come on !."
+
+Another child said, "well go ahead ."
+
+The teacher said, "see if she will go with you ?."
+
+Another child said, "he's gonna take care of her !."
+
+The teacher said, "and what are all these things in its body ?."
+
+The teacher said, "okay Karen , what do you see on this page ?."
+
+The teacher said, "okay , that's very good ."
+
+Another child said, "what are you doing in my way ."
+
+The teacher said, "what was making her happy ?."
+
+The child said, "you my apple bird ?."
+
+The father said, "join us !."
+
+The mother said, "Karen we can't plug it in now ."
+
+The investigator said, "yeah , that's a , that's annoying when you do something like."
+
+The investigator said, "no , just leave them on the table , it's okay ."
+
+The child said, "no , next to you ."
+
+The mother said, "that's all ."
+
+The child said, "would they ?."
+
+The child said, "it's thunder ."
+
+The child said, "Graeme the !."
+
+The mother said, "an egg cream ."
+
+The child said, "I like that toothpaste ."
+
+The child said, "one two three four ."
+
+The mother said, "he'd run away ."
+
+The child said, "you can get a tummy ache ?."
+
+The mother said, "they fall off ."
+
+The child said, "we balancing !."

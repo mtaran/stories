@@ -1,0 +1,396 @@
+Session: job
+Situation: before bed
+Participants: CHI, EXP, FAD, FAT, FCH, GRA, GRF, MAD, MCH, MOT, TCA, TEA, UNK
+Total utterances: 5879
+Summary sentences: 193
+Compression ratio: 30:1
+
+============================================================
+NARRATIVE SUMMARY
+============================================================
+
+The child and The investigator discussed the recording equipment and Gabriella, Tony.
+
+The child and The investigator had disagreements about Joey, Graeme.
+
+The child and The investigator asked and discussed questions about Joey.
+
+The father and The child had disagreements about Joey.
+
+The child and The father had disagreements about Joe, Joey.
+
+The child and The mother asked and discussed questions about Joey.
+
+The child and The father worked on getting ready, preparing various topics.
+
+The child and The father had disagreements about various topics.
+
+The child and The father worked on getting ready, preparing Joey.
+
+The father and The child asked and discussed questions about Joe.
+
+The father and The child played and had fun with various topics.
+
+The child and The father asked and discussed questions about Paris, Steve.
+
+The father and The child had disagreements about Joe, Joey.
+
+The father and The child asked and discussed questions about Joey, Graeme.
+
+The father and The child had disagreements about Debbie, Bernice.
+
+The father and The child worked on getting ready, preparing Joey.
+
+The father and The child asked and discussed questions about Joe, Joey.
+
+The father and The child asked and discussed questions about Joey.
+
+The father and The child asked and discussed questions about Joey, Carol's.
+
+The father and The child had disagreements about Joey, Graeme.
+
+The child and The father asked and discussed questions about Mack, Graeme.
+
+The child and The father expressed care and affection toward Joey, Graeme.
+
+The child and The father had disagreements about William.
+
+The father and The child asked and discussed questions about Paris, Lenita.
+
+The father and The child had disagreements about Barbara, Joey.
+
+The father and The child had disagreements about various topics.
+
+The father and The child asked and discussed questions about Manfred, Fred.
+
+The father and The child had disagreements about Joe.
+
+The child and The father asked and discussed questions about Grand, Geaeme.
+
+The father and The child had disagreements about Debbie, Joe.
+
+The father and The child asked and discussed questions about Greg, Zoe.
+
+The teacher and Another child had disagreements about Matthew, Joe.
+
+Another child and The child had disagreements about Hillary, Mickey.
+
+Another child and The child worked on getting ready, preparing Joe, Kempernick.
+
+FAD and The child had disagreements about Bernice, Joey.
+
+The child and The teacher asked and discussed questions about Joey.
+
+The child and The teacher asked and discussed questions about Debbie, Zoe.
+
+The child and The teacher asked and discussed questions about Debbie, Bernice.
+
+The investigator and The child expressed care and affection toward Perri, I'd.
+
+The teacher and Another child had disagreements about Perri's.
+
+Another child and The child asked and discussed questions about Bernice, Asher.
+
+Another child and The father expressed care and affection toward Gabriel, Joey.
+
+Another child and The child had disagreements about Robbie's, Gabriel.
+
+The child and The teacher asked and discussed questions about Zoe, Lenita.
+
+The teacher and Another child played and had fun with Joe, Bernice.
+
+The teacher and The child had disagreements about Joe, Gabe.
+
+The teacher and Another child had disagreements about Gabe, Joey.
+
+The teacher and Another child had disagreements about Bernice, Joey.
+
+The teacher and Another child asked and discussed questions about Willem's, Robbie.
+
+Another child and The teacher discussed eating and snacking, mentioning Tony, Debbie.
+
+The teacher and Another child had disagreements about Christopher, Joe.
+
+Another child and The teacher had disagreements about Joe, Tony.
+
+Another child and The teacher had disagreements about Greg, Steven.
+
+Another child and The teacher asked and discussed questions about Zoe.
+
+Another child and The teacher had disagreements about Steven, Christopher.
+
+Another child and Someone had disagreements about Joey, Graeme.
+
+Another child and The teacher had disagreements about Debbie, Zoe.
+
+Another child and The teacher had disagreements about Gabriel, Debbie.
+
+Another child and The teacher played and had fun with Tony, Gabe.
+
+The teacher and Another child asked and discussed questions about Debbie, Joey.
+
+The teacher and Another child asked and discussed questions about Joe, Steven.
+
+The teacher and Another child asked and discussed questions about Debbie, Lisa.
+
+The teacher and Another child had disagreements about Gabriel, New.
+
+The child and The teacher asked and discussed questions about Joe.
+
+The teacher and Another child had disagreements about Joe, Steven.
+
+Another child and The teacher asked and discussed questions about Joe, Steven.
+
+Another child and The teacher discussed eating and snacking, mentioning Debbie, Willem.
+
+The teacher and The child asked and discussed questions about Debbie, Joey.
+
+Another child and The teacher asked and discussed questions about Debbie, Gabe.
+
+Another child and The teacher had disagreements about Joe, Gabe.
+
+The teacher and Another child had disagreements about Todd, Lisa.
+
+The teacher and Another child asked and discussed questions about Danny, Bernstein.
+
+Another child and The child had disagreements about Danny, Steven.
+
+Another child and The child had disagreements about Danny, Golden.
+
+Another child and The teacher had disagreements about Danny's, Steven.
+
+The child and The teacher asked and discussed questions about Gabriel, Steven.
+
+The teacher and Another child asked and discussed questions about Gabriel, Danny.
+
+Another child and The teacher had disagreements about Danny, Robbie's.
+
+The teacher and The child expressed care and affection toward Danny, Steven.
+
+The child and The investigator had disagreements about Joe, Gabriel.
+
+The child and Another child had disagreements about Chris, Gabe.
+
+Another child and The child had disagreements about Joey, Steven.
+
+Another child and The child asked and discussed questions about various topics.
+
+The teacher and Another child asked and discussed questions about Matthew, Gregory.
+
+The teacher and Another child asked and discussed questions about Asher, Joey.
+
+The teacher and Another child worked on getting ready, preparing Mr, Bernice.
+
+The teacher and Another child asked and discussed questions about Perri's, Asher's.
+
+The teacher and Another child asked and discussed questions about Gabriel's, Gabriel.
+
+The teacher and Another child expressed care and affection toward Asher's, Debbie.
+
+The teacher and Another child had disagreements about Greg, Gabriel.
+
+The child and The teacher asked and discussed questions about Graeme, Gregory.
+
+TCA and The teacher asked and discussed questions about Meike, Lenita.
+
+The teacher and The child had disagreements about Joe, Steve.
+
+The child and The teacher discussed the recording equipment and Tony, Graeme.
+
+Another child and The teacher had disagreements about Tony, Graeme.
+
+Another child and The child asked and discussed questions about Gregory's, Robbie.
+
+Another child and The child had disagreements about Bernice, Lenita.
+
+Another child and The child had disagreements about Robbie, Lenita.
+
+Another child and The child had disagreements about Zoe, Lenita's.
+
+Another child and The teacher had disagreements about Steven, Gabriel.
+
+Another child and TCA had disagreements about Gabriel, Steven.
+
+The teacher and Another child had disagreements about Gabriel, Debbie.
+
+Another child and TCA had disagreements about Joe, Meike's.
+
+Another child and The teacher had disagreements about Danny, Joe.
+
+The teacher and The mother had disagreements about Gabriel's, Alexandra.
+
+The child and The mother asked and discussed questions about I'd, Joey.
+
+The mother and The child worked on getting ready, preparing Ma, Graeme.
+
+The mother and The child had disagreements about Joey.
+
+The mother and The child had disagreements about Joe, Graeme.
+
+The child and The mother had disagreements about Bogdos, Joey.
+
+The child and The mother asked and discussed questions about Joey, Steven's.
+
+The child and The mother had disagreements about Paris, Joey.
+
+The father and The mother asked and discussed questions about Ma, Ernie.
+
+The father and The child had disagreements about Joey, Gabriel.
+
+The child and The father had disagreements about Matrami's, Steven.
+
+The father and The mother worked on getting ready, preparing Joey.
+
+The father and The child asked and discussed questions about various topics.
+
+The child and The father had disagreements about Joey.
+
+The father and The child had disagreements about Evel, Joey.
+
+The child and The father asked and discussed questions about Evel, Joey.
+
+The child and The mother had disagreements about Joey.
+
+The child and The father had disagreements about Jean.
+
+The father and The child asked and discussed questions about Willy, Joey.
+
+The child and The father asked and discussed questions about Joe.
+
+The mother and The child discussed eating and snacking, mentioning Joe, Graeme.
+
+The father and The mother had disagreements about Joey.
+
+The mother and The father asked and discussed questions about Biscos.
+
+The mother and The child asked and discussed questions about Ma, Bloomingdale's.
+
+The mother and The child asked and discussed questions about Lee, Jean.
+
+The mother and The father asked and discussed questions about Reilly, Biscos.
+
+The mother and The child had disagreements about Ma, Freddie.
+
+The mother and The child asked and discussed questions about Joe, Ritz.
+
+The father and The mother asked and discussed questions about various topics.
+
+The mother and The child asked and discussed questions about California.
+
+The child and The mother had disagreements about Joey, Biscos.
+
+The child and The mother asked and discussed questions about Ma, Joey.
+
+The father and The child asked and discussed questions about Joey, Biscos.
+
+The mother and The father had disagreements about Gabriel's, Gabriel.
+
+The mother and The child had disagreements about Ma, Joey.
+
+The child and The father had disagreements about Graeme.
+
+The mother and The child had disagreements about Joey, Graeme.
+
+The mother and The child had disagreements about various topics.
+
+The father and The mother had disagreements about Pete's, Lucy.
+
+The child and The father asked and discussed questions about Ma.
+
+The father and The child had disagreements about Graeme.
+
+The father and The child had disagreements about Ma, Tony.
+
+The mother and The father asked and discussed questions about Ma, Barbara.
+
+The mother and The father asked and discussed questions about Joey, Whitey.
+
+The child and The mother asked and discussed questions about various topics.
+
+The child and The mother asked and discussed questions about Graeme.
+
+The mother and The child had disagreements about Robin, Batman.
+
+The mother and The child had disagreements about Martha, Grover.
+
+The mother and The child asked and discussed questions about Ernie, Oscar.
+
+The mother and The child asked and discussed questions about Mama, Ma.
+
+The mother and The child had disagreements about Barbara's, Jack.
+
+The mother and The child had disagreements about Jack, Grover.
+
+The mother and The child had disagreements about Grover.
+
+The mother and The child had disagreements about Mr, Grover.
+
+The mother and The child asked and discussed questions about Ma.
+
+The mother and The father had disagreements about Joe, Joan.
+
+The child and The mother asked and discussed questions about Jean, Joey.
+
+The child and The grandfather asked and discussed questions about Joe, California.
+
+The child and The mother had disagreements about Grover.
+
+The mother and The child asked and discussed questions about Ma, Ernie.
+
+The mother and The child had disagreements about Barbara's, Bob.
+
+The child said, "my dad was going to sprain my arm yesterday when we were com."
+
+The child said, "daddy , how old are you ?."
+
+The father said, "that's it ."
+
+The child said, "we got it ."
+
+The child said, "wait until the bus stops ."
+
+FAD said, "but I'll tell you one thing I noticed , that kid's here in s."
+
+The child said, "look what I got ."
+
+The teacher said, "no , we hafta resolve this , uhuh ."
+
+Another child said, "and a rhino ."
+
+The teacher said, "okay , now we're got the track built what I want ."
+
+Another child said, "I tell you , you mother fucking !."
+
+Another child said, "that's Perri's ."
+
+The teacher said, "oh , you made a comic book ?."
+
+TCA said, "Debbie the kids don't wanna share their play dough with Gabr."
+
+The child said, "that's something , letter for dad ."
+
+The child said, "could you turn the light on ?."
+
+The child said, "oh , oh no ."
+
+The father said, "well if you're gonna take the file in there , look you can t."
+
+The father said, "you're on tv ."
+
+The father said, "how's that ?."
+
+The child said, "who's Reilly ?."
+
+The child said, "isn't that funny when I sneezed I came out , ahhah ."
+
+The child said, "you want it ?."
+
+The mother said, "are we sposta call Barbara tonight , honey ?."
+
+The child said, "right mom ?."
+
+The child said, "yeah a big , a bird ."
+
+The grandfather said, "I'm gonna see you , I hope , before too long ."
+
+The child said, "momma take off my ."

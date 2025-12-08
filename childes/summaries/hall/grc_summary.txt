@@ -1,0 +1,30 @@
+Session: grc
+Situation: everyday conversation
+Participants: CHI
+Total utterances: 1
+Summary sentences: 10
+Compression ratio: 0.1:1
+
+============================================================
+NARRATIVE SUMMARY
+============================================================
+
+The transcript contains only a single utterance from the child.
+
+This minimal utterance provides virtually no substantive content for analysis.
+
+The session appears to have recorded almost no actual conversation or interaction.
+
+Without meaningful dialogue or context, no narrative sequence can be established.
+
+The recording may have been a test session or encountered technical difficulties.
+
+No activities, interactions, or events are documented in this transcript.
+
+The single utterance is insufficient to convey any narrative or summary information.
+
+This session stands out as an anomaly compared to other transcripts in the corpus.
+
+The lack of content makes it impossible to describe situations, participant interactions, or activities.
+
+Further clarification would be needed regarding why this session contains virtually no recorded material.

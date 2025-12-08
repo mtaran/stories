@@ -1,0 +1,492 @@
+Session: jub
+Situation: before bed
+Participants: BRO, CHI, EXP, FAD, FAT, FCH, MAD, MCH, MOT, TEA, UNK
+Total utterances: 7452
+Summary sentences: 241
+Compression ratio: 30:1
+
+============================================================
+NARRATIVE SUMMARY
+============================================================
+
+The mother and The child had disagreements about Illinois, Julia.
+
+The mother and The child had disagreements about Albert, Graeme.
+
+The father and The child had disagreements about Julia.
+
+The mother and The child asked and discussed questions about Daniel.
+
+The mother and The brother had disagreements about Habitat, Helene.
+
+The mother and The child had disagreements about Jerry, Julia.
+
+The mother and The child asked and discussed questions about Julia's, Julia.
+
+The mother and The child asked and discussed questions about Cheerios, Cheerio.
+
+The mother and The child asked and discussed questions about Graeme, Julia's.
+
+The mother and The child asked and discussed questions about Dan, Graeme.
+
+The mother and The child asked and discussed questions about Danny, Dan.
+
+The mother and The child had disagreements about Danny, Tomasina's.
+
+The mother and The child had disagreements about Tomasina, Gabriel.
+
+The mother and FAD had disagreements about Gabriel, Dan.
+
+The mother and The child had disagreements about Gabriel, Mr.
+
+The child and The mother asked and discussed questions about Dan, Graeme.
+
+The mother and FAD had disagreements about Copaya, Gabe.
+
+The mother and FAD had disagreements about October, Copoya's.
+
+The mother and FAD had disagreements about Spider, Rube.
+
+The investigator and The child had disagreements about Graeme, Diane's.
+
+The investigator and The child had disagreements about Christopher, Meike.
+
+Another child and The child worked on getting ready, preparing Matthew, Tony.
+
+Another child and The teacher had disagreements about Gabriella, Rachael.
+
+The teacher and FAD had disagreements about Lisa's, Zoe.
+
+The child and The investigator asked and discussed questions about various topics.
+
+The child and The investigator had disagreements about Gabriella.
+
+The child and Another child had disagreements about Gabriella, Dan.
+
+The mother and The teacher asked and discussed questions about Lenita's, Jill.
+
+The mother and The investigator had disagreements about Julie, Lenita.
+
+The child and Another child had disagreements about Gabriel, Robbie.
+
+Another child and The child had disagreements about Lenita's, Lenita.
+
+FAD and Another child had disagreements about Matthew, Lucy.
+
+The investigator and The child asked and discussed questions about Meike, Julie.
+
+The child and Another child asked and discussed questions about Greg, Spider_man.
+
+Another child and The teacher had disagreements about Robbie, Gregory.
+
+The teacher and Another child had disagreements about Gabriel, Gabriella.
+
+The teacher and Another child had disagreements about Zoe, Perri.
+
+Another child and The teacher had disagreements about Dino's, Gabriel.
+
+Another child and The teacher had disagreements about Moore.
+
+Another child and The teacher had disagreements about Steven, Missus.
+
+Another child and The child had disagreements about Sarah, Julia's.
+
+Another child and The teacher had disagreements about Robbie's, Lenita's.
+
+Another child and The teacher had disagreements about Kanate, Lostada.
+
+Another child and The teacher had disagreements about Tony's, Dino.
+
+Another child and The teacher discussed eating and snacking, mentioning Tony, Bernice.
+
+Another child and The teacher discussed eating and snacking, mentioning Tony, Asher.
+
+Another child and The teacher had disagreements about Tony, Sarah.
+
+Another child and The child had disagreements about various topics.
+
+Another child and The teacher asked and discussed questions about Asher, Gabe.
+
+The teacher and Another child asked and discussed questions about Debbie, Asher.
+
+Another child and The child had disagreements about Julie.
+
+Another child and The child asked and discussed questions about Gabriella, Christopher.
+
+Another child and The child worked on getting ready, preparing Chris, Sarah.
+
+Another child and The child had disagreements about Gabriella, Robbie.
+
+The child and Another child worked on getting ready, preparing Gabriella, Julie.
+
+The child and Another child asked and discussed questions about Gabriella, Christopher.
+
+The child and Another child had disagreements about I'd, Greg.
+
+The child and Another child had disagreements about various topics.
+
+Another child and The child had disagreements about Tony, Willem.
+
+Another child and The teacher had disagreements about Debbie, Frankenstein.
+
+Another child and The teacher asked and discussed questions about Asher's, Tony's.
+
+The teacher and Another child asked and discussed questions about Gabriel, Ashers.
+
+The teacher and The child had disagreements about Joey, Joey's.
+
+The teacher and The child asked and discussed questions about Gabriel, Tony.
+
+Another child and The child had disagreements about Robbie's, Gabriella.
+
+The child and Another child had disagreements about Julie, Bernice.
+
+The teacher and The child asked and discussed questions about Zoe, Julie.
+
+Another child and The teacher asked and discussed questions about Debbie, Meike.
+
+The child and Another child had disagreements about Johann, Tony.
+
+The child and Another child asked and discussed questions about Julie, Julia.
+
+Another child and The teacher asked and discussed questions about Chris, Bernice.
+
+The teacher and Another child had disagreements about Dino, Matthew.
+
+The teacher and Another child had disagreements about Steven, Gabriel.
+
+The child and The investigator asked and discussed questions about Gregory, Steven.
+
+Another child and Someone asked and discussed questions about Matthew's, Gregory.
+
+Another child and The child asked and discussed questions about Spider, Gregory's.
+
+Another child and The child asked and discussed questions about Steven, Robbie.
+
+Another child and Someone had disagreements about Willim's, Debbie.
+
+Another child and The child had disagreements about Bernice, Julia's.
+
+Another child and The child had disagreements about Greg, Gabriel.
+
+Another child and The teacher asked and discussed questions about Greg, Gabriel.
+
+The mother and The investigator asked and discussed questions about Daniel.
+
+The brother and The mother asked and discussed questions about Julia.
+
+The mother and The brother asked and discussed questions about Daniel, Julia.
+
+The mother and The child had disagreements about Julia, Graeme.
+
+The mother and The child had disagreements about Daniel, Julia.
+
+The mother and The child had disagreements about Julia.
+
+The mother and The child asked and discussed questions about Julia.
+
+The mother and The child asked and discussed questions about Graeme's, Graeme.
+
+The mother and The child had disagreements about Mexico, Africa.
+
+The mother and The child asked and discussed questions about Julia, Graeme.
+
+The mother and The child watched and discussed television shows, mentioning Daniel.
+
+The child and The brother asked and discussed questions about Graeme.
+
+The mother and The child asked and discussed questions about Daniel, Julia.
+
+The mother and The child had disagreements about Laurel_and_Hardy, Chaplin.
+
+The mother and The child had disagreements about Hifi, Daniel.
+
+The mother and The brother asked and discussed questions about New, Daniel.
+
+The mother and The brother had disagreements about Julia.
+
+The brother and The investigator had disagreements about Daniel, Julia.
+
+The mother and The child had disagreements about Dan.
+
+The mother and The brother asked and discussed questions about Daniel, Graeme.
+
+The mother and The investigator had disagreements about various topics.
+
+The mother and The child had disagreements about Graeme.
+
+The mother and The child had disagreements about Dan, Julia.
+
+The mother and The brother asked and discussed questions about Chip, Daniel.
+
+The mother and The brother had disagreements about Dan, Julia.
+
+The mother and The child discussed school and academics, Debbie, Julia.
+
+The mother and The child asked and discussed questions about various topics.
+
+The mother and The brother asked and discussed questions about Daniel.
+
+The mother and The child worked on getting ready, preparing Danny's, Daniel.
+
+The mother and The child discussed eating and snacking, mentioning Floridas, Daniel.
+
+The mother and The investigator discussed eating and snacking, mentioning Graeme's, Daniel.
+
+The child and The mother asked and discussed questions about various topics.
+
+The mother and The child discussed eating and snacking, mentioning I'd.
+
+The mother and The child asked and discussed questions about Brooklyn, Julia.
+
+The mother and The child had disagreements about Danny, Julia.
+
+The mother and The child discussed eating and snacking, mentioning Julia.
+
+The mother and The child had disagreements about Daniel, Graeme.
+
+The mother and The child had disagreements about various topics.
+
+The mother and The child had disagreements about Frere, Jacques.
+
+The mother and The child had disagreements about Tina, Marion.
+
+The mother and The child had disagreements about Daniel, Florida.
+
+The mother and The father had disagreements about Daniel, Fredrickson.
+
+The mother and The child asked and discussed questions about Deb, Julia.
+
+The mother and The brother discussed eating and snacking, mentioning Julia.
+
+The mother and The brother had disagreements about Julia, Graeme's.
+
+The mother and The child had disagreements about Julia, Danny's.
+
+The mother and The child asked and discussed questions about Debbie, Daniel.
+
+The mother and The brother had disagreements about Danny, Dan.
+
+The mother and The child asked and discussed questions about Danny, Julia.
+
+The mother and The brother asked and discussed questions about Quohoque, Dan.
+
+The mother and The brother asked and discussed questions about Danny.
+
+The mother and The father had disagreements about Daniel, Julia.
+
+The mother and The father asked and discussed questions about Julia, El.
+
+The mother and The child asked and discussed questions about Mickey_Mouse, Daniel.
+
+The mother and The child asked and discussed questions about Graeme.
+
+The mother and The child discussed eating and snacking, mentioning Danny, Julia.
+
+The mother and The brother had disagreements about various topics.
+
+The mother and The investigator expressed care and affection toward Jared, Julia.
+
+The investigator and The father discussed eating and snacking, mentioning Julia.
+
+The mother and The child had disagreements about Elliot, Africa.
+
+The father and The child had disagreements about El, Ford.
+
+The mother and The child had disagreements about Nixon.
+
+The mother and The child asked and discussed questions about New, York.
+
+The mother and The child had disagreements about Danny, I'd.
+
+The mother and The father asked and discussed questions about Daniel, Julia.
+
+The mother and The child had disagreements about Julie, Daniel's.
+
+The mother and The brother discussed eating and snacking, mentioning Danny, Daniel.
+
+The mother and The child asked and discussed questions about Danny, Florida.
+
+The mother and The child had disagreements about Danny, Daniel.
+
+The mother and The child worked on getting ready, preparing Danny, Charlie's.
+
+The mother and The child worked on getting ready, preparing Charlie.
+
+The mother and The father asked and discussed questions about El, Marilyn.
+
+The mother and The father discussed eating and snacking, mentioning Helene.
+
+The mother and The child had disagreements about Claus, Santa.
+
+The mother and The child had disagreements about Julia, Elliot.
+
+The child and The mother discussed eating and snacking, mentioning Danny, David.
+
+The father and The child had disagreements about Helene.
+
+The mother and The father had disagreements about Daniel, Helene.
+
+The mother and The child had disagreements about Helene.
+
+The mother and The child had disagreements about Danny, Cheerios.
+
+The mother and The father had disagreements about I'd, Helene.
+
+The father and The brother had disagreements about Cheerios.
+
+The brother and The child asked and discussed questions about various topics.
+
+The child and The father had disagreements about various topics.
+
+The father and The child had disagreements about Jared, Danny.
+
+The father and The child had disagreements about Danny, Jared.
+
+The child and The father asked and discussed questions about May, Jack.
+
+The child and The mother had disagreements about various topics.
+
+The father and The child had disagreements about May.
+
+The mother and The brother had disagreements about Danny, Jeff's.
+
+The mother and The child had disagreements about Sam, Daniel.
+
+The mother and The child worked on getting ready, preparing Dinah.
+
+The child and The mother expressed care and affection toward Jack, Jill.
+
+The mother and The child discussed the recording equipment and Danny, Dan.
+
+The mother and The child asked and discussed questions about Jack, Jill.
+
+The father and The brother had disagreements about Danny.
+
+The mother and The father asked and discussed questions about Julia.
+
+The father and The brother had disagreements about El, Daniel.
+
+The child and The mother asked and discussed questions about Jack, Jill.
+
+The father and The child had disagreements about Danny, Julia.
+
+The child and The brother worked on getting ready, preparing Michael, Cinderella.
+
+The father and The child had disagreements about Snow, White.
+
+The mother and The father asked and discussed questions about Julie, Emmitt.
+
+The mother and The child asked and discussed questions about Emmitt's, Julie.
+
+The mother and The child asked and discussed questions about Julie, Emmitt.
+
+The mother and The child asked and discussed questions about Emmitt.
+
+The mother and The child asked and discussed questions about Emmitt's, Francaise.
+
+The mother and The brother asked and discussed questions about Mom, Mr.
+
+The mother and The child asked and discussed questions about Emmitt, Julia.
+
+The mother and The child asked and discussed questions about Juliette, Emmitt.
+
+The mother and The child asked and discussed questions about Juliette, Murray.
+
+The mother and The child discussed eating and snacking, mentioning Danny, Cheerios.
+
+The mother and The child asked and discussed questions about Holly's, Hollys.
+
+The mother and The child had disagreements about Emmitt, Julia.
+
+The mother and The child had disagreements about Robert, Graeme.
+
+The mother and The child discussed eating and snacking, mentioning Juice, Beard.
+
+The child and The mother had disagreements about I'd, Graeme.
+
+The mother and The child had disagreements about Daniel's.
+
+The mother and The child discussed eating and snacking, mentioning various topics.
+
+The mother and The child discussed eating and snacking, mentioning Juice, Pop.
+
+The child and The mother had disagreements about Julia.
+
+The child and The mother had disagreements about Peter, Graeme.
+
+The mother and The child had disagreements about Debbie, Daniel.
+
+The mother and The brother had disagreements about Julia, Otto.
+
+The mother and The child asked and discussed questions about Daniel, Otto's.
+
+The mother and The brother had disagreements about Julia, Daniel.
+
+The mother and The child had disagreements about Danny, Peter.
+
+The mother and The child asked and discussed questions about Bambi, Daniel.
+
+The mother and The child had disagreements about Bambi, Chip.
+
+The mother and The child had disagreements about Bambi.
+
+The mother and The child asked and discussed questions about Bambi's, Bambi.
+
+The mother and The brother asked and discussed questions about Bambi.
+
+The mother and The child asked and discussed questions about Bambi, Edna.
+
+The mother and The child had disagreements about Bambi, Falline.
+
+The mother and The child asked and discussed questions about Peter, Hawaii.
+
+The mother and The child asked and discussed questions about Peter, Neverland.
+
+The mother and The brother had disagreements about Danny, Hershey.
+
+The mother and The child had disagreements about Danny, Dan.
+
+The mother said, "what we did with the ball of string ?."
+
+The mother said, "alright , I'll see if there's something else , ."
+
+The mother said, "so anyway as secretaries are won't to do , she must have mad."
+
+The teacher said, "whose name is not up on here ?."
+
+Someone said, "two crackers ."
+
+Another child said, "don't play ."
+
+The teacher said, "they might be in the closet ."
+
+The teacher said, "probably a piece of a length of a rug ."
+
+Another child said, "no she didn't ."
+
+The mother said, "yeah , they're not going in mommy's mouth ."
+
+The child said, "for everybody ."
+
+The investigator said, "no please !."
+
+The brother said, "why did you give us ?."
+
+The mother said, "how does Debbie light the little stove they do the cooking o."
+
+The brother said, "I want some more french fries ."
+
+The mother said, "here's a couple of cookies from the party ."
+
+The mother said, "together ."
+
+The child said, "why Roseanne ?."
+
+The mother said, "oh , it changes ."
+
+The child said, "and , but grape juice beard knows a little bit about he know."
+
+The child said, "then do half of it ."
+
+The child said, "and then they got the do the they can they can choose out an."

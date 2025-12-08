@@ -1,0 +1,40 @@
+Session: roj
+Situation: before bed
+Participants: BRO, CHI, EXP, FAD, FAT, FCH, GRA, GRO, MAD, MCH, MOT, TEA, TEL, UNK
+Total utterances: 4784
+Summary sentences: 15
+Compression ratio: 319:1
+
+============================================================
+NARRATIVE SUMMARY
+============================================================
+
+School-related discussions include classroom activities, grades, and educational interactions.
+
+The family watches television and discusses programs and entertainment.
+
+The family discusses bedtime routines and preparations.
+
+Meals and snacks include discussion about bread and eating activities.
+
+Parent-child interactions include guidance on behavior and compliance with household rules.
+
+Household activities and management of domestic spaces are discussed by family members.
+
+Discussions about clothing, getting dressed, and wardrobe choices occur throughout the session.
+
+Sibling and family relationships are evident through interactions and conversations about feelings and preferences.
+
+The child engages with toys and games, including various play activities and interactions.
+
+The family members sing songs and discuss musical activities.
+
+The investigator manages recording equipment and explains the tape recording process.
+
+Throughout the session, the family engages in extended conversations about daily routines.
+
+Multiple participants contribute to the interaction, creating a complex family dynamic.
+
+The recording captures natural family speech patterns and interactions.
+
+Various household activities and family roles are evident in the conversation.

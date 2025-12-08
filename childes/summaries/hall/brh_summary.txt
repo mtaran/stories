@@ -1,0 +1,28 @@
+Session: brh
+Situation: everyday conversation
+Participants: PAR0, PAR1, PAR11, PAR12, PAR2, PAR3, PAR4, PAR5, PAR6, PAR7, PAR9
+Total utterances: 4707
+Summary sentences: 9
+Compression ratio: 523:1
+
+============================================================
+NARRATIVE SUMMARY
+============================================================
+
+The child is preparing to go to school as the family discusses schedules and gets ready for the day.
+
+The children engage in outdoor play, including games of jump rope and chasing activities with multiple playmates.
+
+School activities are discussed, including classroom interactions and academic topics.
+
+The mother uses discipline and threats to manage the children's behavior.
+
+The family shares breakfast, with discussion about food preferences including butter, eggs, and juice, while the mother prepares to leave for work.
+
+The family watches television together.
+
+The family shares lunch.
+
+Dinner time involves family interactions and food discussions.
+
+The child makes various requests and asks for things throughout the session.

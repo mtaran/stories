@@ -1,0 +1,470 @@
+Session: maa
+Situation: before bed
+Participants: BRO, CHI, EXP, FAD, FAT, FCH, MAD, MCH, MOT, SIS, TEA, UNK
+Total utterances: 6907
+Summary sentences: 230
+Compression ratio: 30.0:1
+
+============================================================
+NARRATIVE SUMMARY
+============================================================
+
+This conversation involves 11 participants engaged in a before bed interaction.
+
+The primary speakers are the child (2415 utterances), the mother (1366 utterances), and another child (868 utterances).
+
+The conversation covers 6 main topic areas:
+
+  - Health/medicine is discussed 165 times throughout the session.
+
+  - Food/meals is discussed 111 times throughout the session.
+
+  - Time is discussed 77 times throughout the session.
+
+  - School/pickup is discussed 39 times throughout the session.
+
+  - Clothing is discussed 22 times throughout the session.
+
+the brother remarks: 'do what you want to go out tonight .'
+
+the child remarks: 'little king , big , big prince .'
+
+the mother remarks: 'okay , then you think about it .'
+
+the mother remarks: 'wait at the corner !'
+
+the mother remarks: 'put that in your cubby ...'
+
+the child remarks: 'on the sidewalk , Perri .'
+
+another child remarks: 'you stupid !'
+
+the child remarks: 'Hong_kong_phooey , another of the Super Guys !'
+
+the teacher remarks: 'do you want me to carry you down ?'
+
+someone remarks: 'he's got pee pee in ...'
+
+another child remarks: 'we're coming back down again , back down to super house .'
+
+another child remarks: 'she's scared .'
+
+another child remarks: 'the red one .'
+
+the teacher remarks: 'how many letters is that , hm ?'
+
+the teacher remarks: 'Perri , you try your green out .'
+
+the teacher remarks: 'can anyone , try and do two colors so we can see two distinct colors ?'
+
+the child remarks: 'I wanna see the crackers .'
+
+the brother remarks: 'there's my homework , for the week .'
+
+the investigator remarks: 'you straighten it out .'
+
+the child remarks: 'show me how to .'
+
+the mother remarks: 'you will go into the bathroom ...'
+
+the brother remarks: 'yuck , yuck , yuck , and yuck yuck .'
+
+the brother remarks: 'I can make good cartoons out of this .'
+
+the brother remarks: 'and he's also an f u c k .'
+
+the child remarks: 'come here mommy and Jason !'
+
+the father remarks: 'ah , Jason needs a napkin .'
+
+the child remarks: 'but I want a cooking apple .'
+
+the mother remarks: 'no I'll do it with this one .'
+
+the mother remarks: 'sure that's what you want ?'
+
+the mother remarks: 'the sky was wild with sunshine .'
+
+The conversation includes 1330 direct questions (19.5% of all utterances), indicating active dialogue and information-seeking.
+
+There are 4411 speaker changes, showing 64.6% of turns involve a different speaker, indicating natural conversational flow.
+
+The investigator contributes 218 utterances, primarily asking questions and facilitating the recording session.
+
+the brother says 'do what you want to go out tonight .' and the child responds 'not yet .'.
+
+The 6828-utterance recording captures authentic family communication in a before bed context.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
+
+The conversational data demonstrates typical language use patterns in a naturalistic family setting during before bed.
